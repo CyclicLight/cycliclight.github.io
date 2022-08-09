@@ -3,7 +3,7 @@ title: Pantheon
 layout: wiki-page
 ---
 
-The commonly accepted patheon places [The Maker](The-Maker) as the creator of the Shards / Visions each of whom were put in charge of their own aspect of the world. They are opposed by the mad divine known as [The World-Eater](World-Eater).
+The commonly accepted patheon places [The Maker](The-Maker) as the creator of the Shards / Visions each of whom were put in charge of their own aspect of the world. They are opposed by the [World-Eater](World-Eater).
 
 #### The Shards
 - [Aranuo, Lord of Arcana](Aranuo)
@@ -16,3 +16,5 @@ The commonly accepted patheon places [The Maker](The-Maker) as the creator of th
 - [Lokin, Deity of Trickery](Lokin)
 - [Thyra, The Storm Bringer](Thyra)
 - ...
+
+<img src="/assets/images/ciphers/1.png" class="cipher">

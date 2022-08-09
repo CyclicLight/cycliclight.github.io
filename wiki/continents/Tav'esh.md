@@ -12,6 +12,3 @@ Regions & Nations:
 - Vash'lands
     - Kalix
     - Recksol
-
-
-TAV'ESH, BITCHES
