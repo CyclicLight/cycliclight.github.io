@@ -44,7 +44,7 @@ a {
 #content {
     box-sizing: border-box;
     background-image: url("/assets/images/parchment-foreground.png");
-    background-size: auto;
+    background-size: cover;
     background-repeat: repeat-y;
     box-shadow: 1px 35px 30px rgba(0, 0, 0, 0.339);
     padding: 15px;
