@@ -1,0 +1,55 @@
+html {
+    width: 100%;
+    background-image: url("/assets/images/parchment-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Source Serif Pro', serif;
+}
+body {
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+nav {
+    justify-self: flex-end;
+}
+nav > a {
+    background-image: url("/assets/images/parchment-foreground.png");
+    background-size: auto;
+    padding: 5px;
+    padding-bottom: 0px;
+    margin: 2.5px;
+    border: 1px solid;
+    border-bottom: 0px;
+    border-radius: 5px 5px 0px 0px;
+    transition: 0.1s;
+}
+nav > a:hover {
+    color: rgb(92, 0, 241);
+    box-shadow: 2px 5px 3px black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#nav_and_title {
+    width: calc(100% - 60px);
+    display: grid;
+    grid: auto auto / auto auto;
+    align-items: flex-end;
+}
+#content {
+    box-sizing: border-box;
+    background-image: url("/assets/images/parchment-foreground.png");
+    background-size: auto;
+    background-repeat: repeat-y;
+    box-shadow: 1px 35px 30px rgba(0, 0, 0, 0.339);
+    padding: 15px;
+    margin-bottom: 5px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: calc(100% - 50px);
+}

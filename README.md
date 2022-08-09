@@ -1,2 +1,2 @@
 # cycliclight.github.io
-Prototype MakersVale website
+Prototype Cyclical Realms wiki
