@@ -16,6 +16,10 @@ Everything on the server is quasi-canonical where major events may be canonical 
 - [Central Sea Isles](continents/Central-Sea-Isles)
 - [Scorge](continents/Scorge)
 
+### Locations
+- [The Museum of Ancient Artifacts](places/Museum-of-Ancient-Artifacts)
+- [The Knighthold](places/The-Knighthold)
+
 ### Gods & The Pantheon
 - [Pantheon](religion/Pantheon)
 
@@ -28,3 +32,7 @@ Everything on the server is quasi-canonical where major events may be canonical 
 
 ### Constructs
 - [Veil Gates](constructs/Veil-Gates)
+
+### Characters
+- [The Curator](characters/The-Curator)
+- [Curator Supreme](characters/Curator-Supreme)
