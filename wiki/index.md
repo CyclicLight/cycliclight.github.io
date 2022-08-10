@@ -8,8 +8,10 @@ layout: wiki-page
 ### Maker's Vale canonicity.
 Everything on the server is quasi-canonical where major events may be canonical but their details are muddy.
 
-### The Cycles.
-- [The Cycles](cycles/The-Cycles)
+### Concepts.
+- [The Cycles](concepts/The-Cycles)
+- [Veil Gates](concepts/Veil-Gates)
+
 
 ### Places
 
@@ -32,9 +34,6 @@ Everything on the server is quasi-canonical where major events may be canonical 
 ### Events
 - [Ancient Artifacts](event/Ancient-Artifacts)
 - [The Reshaping](event/The-Reshaping)
-
-### Constructs
-- [Veil Gates](constructs/Veil-Gates)
 
 ### Characters
 - [The Curator](characters/The-Curator)
