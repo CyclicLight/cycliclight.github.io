@@ -8,6 +8,9 @@ layout: wiki-page
 ### Maker's Vale canonicity.
 Everything on the server is quasi-canonical where major events may be canonical but their details are muddy.
 
+### The Cycles.
+- [The Cycles](cycles/The-Cycles)
+
 ### Places
 
 #### Continents & Island groups
@@ -36,3 +39,6 @@ Everything on the server is quasi-canonical where major events may be canonical 
 ### Characters
 - [The Curator](characters/The-Curator)
 - [Curator Supreme](characters/Curator-Supreme)
+
+### Organisations
+- [Artifact Adventurers](organisations/Artifact-Adventurers)

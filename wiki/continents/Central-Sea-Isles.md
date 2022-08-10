@@ -10,4 +10,4 @@ Islands within this group include:
 - [Sanctuary](/wiki/places/Sanctuary)
 - ...
 
-[Scorge](Scorge) is sometime incorrectly included in this group.
+[Scorge](Scorge) is sometimes incorrectly included in this group.
