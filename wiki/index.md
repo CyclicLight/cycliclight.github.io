@@ -12,7 +12,6 @@ Everything on the server is quasi-canonical where major events may be canonical 
 - [The Cycles](concepts/The-Cycles)
 - [Veil Gates](concepts/Veil-Gates)
 
-
 ### Places
 
 #### Continents & Island groups
@@ -21,7 +20,7 @@ Everything on the server is quasi-canonical where major events may be canonical 
 - [Central Sea Isles](continents/Central-Sea-Isles)
 - [Scorge](continents/Scorge)
 
-### Locations
+#### Locations
 - [The Museum of Ancient Artifacts](places/Museum-of-Ancient-Artifacts)
 - [The Knighthold](places/The-Knighthold)
 
