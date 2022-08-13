@@ -31,7 +31,7 @@ Everything on the server is quasi-canonical where major events may be canonical 
 - [Vampires](creatures/Vampires)
 
 ### Events
-- [Ancient Artifacts](event/Ancient-Artifacts)
+- [Hunt for the Ancient Artifacts](event/Hunt-for-the-Ancient-Artifacts)
 - [The Reshaping](event/The-Reshaping)
 
 ### Characters
