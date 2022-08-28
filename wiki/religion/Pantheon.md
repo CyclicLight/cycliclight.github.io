@@ -13,7 +13,7 @@ The commonly accepted patheon places [The Maker](The-Maker) as the creator of th
 - [Hemer, Herald of Light](Hemer)
 - [Pria, Goddess of Life](Pria)
 - [Harmon, Bringer of Peace](Harmon)
-- [Lokin, Deity of Trickery](Lokin)
+- [Lokin, The Trickster](Lokin)
 - [Thyra, The Storm Bringer](Thyra)
 - ...
 
