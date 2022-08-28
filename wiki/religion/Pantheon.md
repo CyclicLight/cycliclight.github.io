@@ -7,7 +7,7 @@ The commonly accepted patheon places [The Maker](The-Maker) as the creator of th
 
 #### The Shards
 - [Aranuo, Lord of Arcana](Aranuo)
-- [Arthera, Guardian of Nature](Arthera)
+- [Arthera, Warden of Nature](Arthera)
 - [Alai, Goddess of Ingenuity](Alai)
 - [Arum, God of Glory, War, and Soldier](Arum)
 - [Hemer, Herald of Light](Hemer)
