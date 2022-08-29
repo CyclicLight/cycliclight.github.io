@@ -40,3 +40,4 @@ Everything on the server is quasi-canonical where major events may be canonical 
 
 ### Organisations
 - [Artifact Adventurers](organisations/Artifact-Adventurers)
+- [The Viridescent Vigil](organisations/The-Viridescent-Vigil.md)

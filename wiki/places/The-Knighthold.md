@@ -20,7 +20,7 @@ Sometime during the Third Cycle the Knighthold was discovered by a group of adve
 
 ### Fourth Cycle
 
-In the Fourth Cycle, the Knighthold was found again by The Curator and then visited by the [Artifact Adventurers](/wiki/organisations/Artifact-Adventurers) following the recovery of the Last Knight's armor (now known as "The Ancient Artifacts"). At this time the Veil Gate was opened causing [The Reshaping](/wiki/event/The-Reshaping).
+In the Fourth Cycle, the Knighthold was found again by The Curator and then visited by the [Artifact Adventurers](/wiki/organisations/Artifact-Adventurers) following the recovery of the Last Knight's Set (now known as "The Ancient Artifacts"). At this time the Veil Gate was opened causing [The Reshaping](/wiki/event/The-Reshaping).
 
 ### After the Reshaping
 
