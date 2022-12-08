@@ -10,11 +10,9 @@ The commonly accepted pantheon places [The Maker](The-Maker) as the creator of t
 - [Arthera, Warden of Nature](Arthera)
 - [Alai, Goddess of Ingenuity](Alai)
 - [Arum, God of Glory, War, and Soldier](Arum)
-- [Hemer, Herald of Light](Hemer)
+- [Hemos, Herald of Light](Hemos)
 - [Pria, Goddess of Life](Pria)
-- [Harmon, Bringer of Peace](Harmon)
-- [Lokin, The Trickster](Lokin)
+- [Caelon, Bringer of Peace](Caelon)
+- [Lokin, Deity of Stories](Lokin)
 - [Thyra, The Storm Bringer](Thyra)
 - ...
-
-<img src="/assets/images/ciphers/1.png" class="cipher">

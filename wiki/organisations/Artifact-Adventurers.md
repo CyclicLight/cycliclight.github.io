@@ -3,7 +3,7 @@ title: Artifact Adventurers
 layout: wiki-page
 ---
 
-The Artifact Adventurers were a group of adventurers assembled by [The Curator](/wiki/characters/The-Curator.md) to gather the Last Knight's Set. They were primarily active on [Tev'esh](/wiki/continents/Tev'esh.md) and played an essential part in the lead up to [the Reshaping](/wiki/event/The-Reshaping).
+The Artifact Adventurers were a group of adventurers assembled by [The Curator](/wiki/characters/The-Curator) to gather the Last Knight's Set. They were primarily active on [Tev'esh](/wiki/continents/Tev'esh) and played an essential part in the lead up to [the Reshaping](/wiki/event/The-Reshaping).
 
 ## History
 

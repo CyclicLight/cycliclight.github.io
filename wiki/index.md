@@ -5,9 +5,6 @@ layout: wiki-page
 
 ## WIP Everything here is subject to change.
 
-### Maker's Vale canonicity.
-Everything on the server is quasi-canonical where major events may be canonical but their details are muddy.
-
 ### Concepts.
 - [The Cycles](concepts/The-Cycles)
 - [Veil Gates](concepts/Veil-Gates)
@@ -16,9 +13,10 @@ Everything on the server is quasi-canonical where major events may be canonical 
 
 #### Continents & Island groups
 - [Tav'esh](continents/Tav'esh)
-- [Tev'esh](continents/Tev'esh) (Location of **Maker's Vale**).
+- [Tev'esh](continents/Tev'esh)
 - [Central Sea Isles](continents/Central-Sea-Isles)
 - [Scorge](continents/Scorge)
+- [Eac](continents/Eac)
 
 #### Locations
 - [The Museum of Ancient Artifacts](places/Museum-of-Ancient-Artifacts)
@@ -40,4 +38,4 @@ Everything on the server is quasi-canonical where major events may be canonical 
 
 ### Organisations
 - [Artifact Adventurers](organisations/Artifact-Adventurers)
-- [The Viridescent Vigil](organisations/The-Viridescent-Vigil.md)
+- [The Viridescent Vigil](organisations/The-Viridescent-Vigil)

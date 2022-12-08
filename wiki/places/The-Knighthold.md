@@ -3,7 +3,7 @@ title: The Knighthold
 layout: wiki-page
 ---
 
-**The Knighthold** is an underground stronghold containing a [Veil Gate](/wiki/concepts/Veil-Gates.md).
+**The Knighthold** is an underground stronghold containing a [Veil Gate](/wiki/concepts/Veil-Gates).
 
 ## History
 
@@ -16,7 +16,7 @@ Due to shifting during cycles, the position of the Knighthold has changed severa
 
 ### Third Cycle
 
-Sometime during the Third Cycle the Knighthold was discovered by a group of adventurers containing [The Curator](/wiki/characters/The-Curator.md) who recovered the Last Knight's armor.
+Sometime during the Third Cycle the Knighthold was discovered by a group of adventurers containing [The Curator](/wiki/characters/The-Curator) who recovered the Last Knight's armor.
 
 ### Fourth Cycle
 
