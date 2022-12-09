@@ -27,6 +27,7 @@ layout: wiki-page
 
 ### Creatures
 - [Vampires](creatures/Vampires)
+- [Goblins](creatures/Goblins)
 
 ### Events
 - [Hunt for the Ancient Artifacts](event/Hunt-for-the-Ancient-Artifacts)
