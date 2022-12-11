@@ -5,7 +5,7 @@ layout: wiki-page
 
 **Goblins** are an engineered species of (mostly) small humanoids with pointed ears, born from early alchemical experimentation.
 
-Whilst a typical goblin is small, green, and has pointed ears, due to the nature of their creation goblins come with all sorts of mutations & colorations.
+Whilst a typical goblin is small, green, and has pointed ears, due to the nature of their creation, goblins come with all sorts of mutations & colorations.
 
 ## The Goblin Concoction
 The Goblin concoction is the source of all goblins. A goblin is born when sufficient fuel is provided for a goblin concoction. Creating a concoction is usually done by taking a body part from an existing or deceased goblin and throwing it into a grand cauldron alongside other alchemical reagents at hand. These reagents then affect the properties of the created goblin. 
