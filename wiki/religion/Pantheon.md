@@ -14,5 +14,6 @@ The commonly accepted pantheon places [The Maker](The-Maker) as the creator of t
 - [Pria, Goddess of Life](Pria)
 - [Caelon, Bringer of Peace](Caelon)
 - [Lokin, Deity of Stories](Lokin)
-- [Thyra, The Storm Bringer](Thyra)
+- [Tyra, The Storm Bringer](Thyra)
+- [Moern, Lord of Graves](Moern)
 - ...

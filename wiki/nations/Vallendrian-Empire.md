@@ -1,9 +1,9 @@
 ---
-title: The Empire
+title: Empire of Vallendria
 layout: wiki-page
 ---
 
-**The Empire** was a collection of territories in central [Tav'esh](/wiki/continents/Tav'esh) that formed the Imperial Expanse. It fell a decade prior to the Reshaping when the reigning emperor was murdered on his birthday.
+**The Empire of Vallendria** was a collection of territories in central [Tav'esh](/wiki/continents/Tav'esh) that formed the Imperial Expanse. It fell a decade prior to the Reshaping when the reigning emperor was murdered on his birthday.
 
 ## History
 
