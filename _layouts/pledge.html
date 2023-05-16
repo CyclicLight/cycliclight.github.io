@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel="stylesheet"> 
+
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/pledge.css">
+  </head>
+  <body>
+    <div id="pledge_title">
+        <h1>{{ page.title }}</h1>
+    </div>
+
+    <div id="content">
+        {{ content }}
+    </div>
+    
+    <footer>
+      For The Cyclical Realms by TheGrimsey.<br>
+      {{ site.time | date: '%Y-%m-%d %H:%M'}}
+    </footer>
+  </body>
+</html>
