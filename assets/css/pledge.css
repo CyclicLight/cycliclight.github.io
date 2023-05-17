@@ -23,11 +23,8 @@ img {
     margin-right: auto;
 }
 
-#nav_and_title {
-    width: calc(100% - 60px);
-    display: grid;
-    grid: auto auto / auto auto;
-    align-items: flex-end;
+#pledge_title {
+    font-family: 'Shadows Into Light', serif;
 }
 #content {
     box-sizing: border-box;
@@ -61,4 +58,23 @@ img {
 
 footer {
     text-align: center;
+}
+
+.ImageFlexBox {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin: 5px;
+    width: 100%;
+}
+
+.ImageFlexBox > img {
+    max-height: 150px;
+    padding: 5px;
+}
+
+.SmallImage {
+    max-height: 150px;
+    display: block;
+    margin-left: auto;
 }
