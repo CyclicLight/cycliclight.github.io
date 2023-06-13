@@ -4,8 +4,7 @@ layout: pledge
 ---
 
 <div id="centered">
-    <h1>Seeking: Rogues  & Adventurers.</h1>
-
+    <h1>Seeking: Rogues & Adventurers.</h1>
     <p>
         Monarch, Head of the Mycelian Council, calls for adventurers & rogues to lay claim to the Eastern Isle.
     </p>
@@ -30,9 +29,13 @@ layout: pledge
     <div>
         <h3> Why Mycelia? </h3>
         <p>
-            ???
+            To keep a free port in the central sea, beyond the meddling of nations.
         </p>
     </div>
+</div>
+
+<div class="ImageFlexBox">
+    <img src="/assets/images/monarch.png">
 </div>
 
 ![???](/assets/images/ciphers/mycelia.png)

@@ -25,14 +25,17 @@ layout: pledge
             Sanctuary is an island nation in the Central Sea. Ruled by a council representing different schools of research and one Arch Scholar, selected by means unknown.
         </p>
         <p>
-            No subject of research is discouraged within the grounds. Knowledge others may consider dangerous is a natural by-product of pushing the limits. It's not to be feared.
+            As patrons of Alai, no subject of research is discouraged within the grounds. Knowledge others may consider dangerous is a natural by-product of pushing the limits. It's not to be feared.
         </p>
         <i>In short: They're scholars.</i>
     </div>
     <div>
         <h3> Why Sanctuary? </h3>
         <p>
-            ???
+            To discover the secrets of the world. Delve into ancient knowledge hidden away beneath layers of destruction. To feed that voice in the back of your head telling you to continue learning.
+        </p>
+        <p>
+            Knowledge is Power.
         </p>
     </div>
 </div>
