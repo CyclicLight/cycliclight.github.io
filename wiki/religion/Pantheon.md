@@ -12,12 +12,13 @@ The commonly accepted pantheon places [The Maker](The-Maker) as the creator of t
 | [Arthera, Warden of Nature](Arthera) | Nature | Balance, Cycle of Life | Chaotic Good | Hunters, Druids, Sailors |
 | [Alai, Goddess of Ingenuity](Alai) | Knowledge | | Neutral | Scholars, Artisans |
 | [Arum](Arum) | Honor | Warfare, Glory | Lawful Neutral | Soldiers, Mercenaries, Guardians |
-| [Hemos, Herald of Light](Hemos) | Light | Purity | Neutral Good | 
+| [Hemos, Herald of Light](Hemos) | Light | Purity | Neutral Good | Any |
 | [Pria](Pria) | Life | | Chaotic Good | Any |
-| [Caelon, Bringer of Peace](Caelon) | Peace | Diplomacy | Lawful Good | Diplomats, 
-| [Lokin, the Trickster Bard](Lokin) | Stories | Mischief, Entertainment | Chaotic Neutral |
-| [Tyra, The Storm Bringer](Tyra) | Storm | Nature | Chaotic Good | 
-| [Moern, Lord of Graves](Moern) | Graves | Cycle of Life | Neutral |
+| [Caelon, Bringer of Peace](Caelon) | Peace | Diplomacy | Lawful Good | Diplomats |
+| [Lokin, the Trickster Bard](Lokin) | Stories | Mischief, Entertainment | Chaotic Neutral | Entertainers, Thieves |
+| [Tyra, The Storm Bringer](Tyra) | Storm | Nature | Chaotic Good | Sailors, Soldiers |
+| [Moern, Lord of Graves](Moern) | Graves | Cycle of Life | Neutral | Gravekeepers, Morugarde |
+| [The Daughter, The Void Lost](Daughter) | Twilight | ??? | Neutral | ??? |
 
 ### Polytheism
 
