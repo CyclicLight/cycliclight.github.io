@@ -26,6 +26,7 @@ layout: wiki-page
 - [Pantheon](religion/Pantheon)
 
 ### Creatures
+- [Birdfolk](creatures/Birdfolk)
 - [Vampires](creatures/Vampires)
 - [Goblins](creatures/Goblins)
 
