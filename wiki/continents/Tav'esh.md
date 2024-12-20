@@ -27,7 +27,7 @@ Many towns previously protected by the Empire were left without support with man
 | Square/Star: Nation Capital     |
 | Green Area: Forest              |
 
-| Locations                        |
+| Locations                       |
 ----------------------------------|
  1. Capital Ruins                 |
  2. Drien                         |
@@ -37,6 +37,7 @@ Many towns previously protected by the Empire were left without support with man
  6.                               |
  7.                               |
  8.                               |
+ 9. The Hills                     |
 
 ![Map of Vallendria](/assets/images/VallendriaMapAnnotated.jpg)
 
