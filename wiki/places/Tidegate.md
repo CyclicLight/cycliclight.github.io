@@ -3,7 +3,7 @@ title: Tidegate
 layout: wiki-page
 ---
 
-A free port in the former [Vallendria](/wiki/nations/Vallendrian-Empire.md). Named after the now broken tide gate toward the ocean.
+A free port in the former [Vallendria](/wiki/nations/Vallendrian-Empire). Named after the now broken tide gate toward the ocean.
 
 It is located directly south (and down river) from the Vallendrian capital as well as east of the Highheaths cliffs of [Aeros](/wiki/nations/Aeros).
 
