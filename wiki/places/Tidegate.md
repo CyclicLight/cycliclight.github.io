@@ -35,7 +35,7 @@ A mish-mash of old refurnished buildings & driftwood houses. The town is split f
 
 - Courier's Office (Postal Service)
 
-*Representatives from the Vallendrian Courier Company*
+*Representatives from the [Vallendrian Courier Company](/wiki/organisations/Vallendrian-Courier-Company)*
 
 ## Map
 
