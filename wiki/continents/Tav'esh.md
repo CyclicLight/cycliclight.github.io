@@ -32,7 +32,7 @@ Many towns previously protected by the Empire were left without support with man
 ----------------------------------|
  1. Capital Ruins                 |
  2. Drien                         |
- 3.                               |
+ 3. [Vallen](/wiki/nations/Vallen)|
  4. [Lyascen](/wiki/nations/Lyascen) |
  5. [Tidegate](/wiki/places/Tidegate) |
  6.                               |
