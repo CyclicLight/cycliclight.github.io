@@ -9,9 +9,9 @@ The Museum of Ancient Artifacts is a museum founded in the Third Cycle by [The C
 
 ### Third Cycle
 
-The museum was established by The Curator following the dissolution of their adventuring party, with resources donated by Lord Minder.
+The museum was established by The Curator following the dissolution of their adventuring party with resources donated by Lord Minder.
 
-At the end of the Third Cycle, the structure was protected by the power contained within the Curator's Staff.
+At the end of the Third Cycle, the structure was protected by a power beyond.
 
 ### Fourth Cycle
 

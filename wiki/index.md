@@ -5,6 +5,10 @@ layout: wiki-page
 
 ## WIP Everything here is subject to change.
 
+### Time Keeping
+
+Years on the timeline are represented relative to [The Divine Storm](event/The-Divine-Storm) and are denoted as BD (Before Divine) & AD (After Divine).
+
 ### Concepts.
 - [The Cycles](concepts/The-Cycles)
 - [Veil Gates](concepts/Veil-Gates)
@@ -22,6 +26,8 @@ layout: wiki-page
 - [The Museum of Ancient Artifacts](places/Museum-of-Ancient-Artifacts)
 - [The Knighthold](places/The-Knighthold)
 
+- [Tidegate](places/Tidegate)
+
 ### Gods & The Pantheon
 - [Pantheon](religion/Pantheon)
 
@@ -31,8 +37,8 @@ layout: wiki-page
 - [Goblins](creatures/Goblins)
 
 ### Events
+- [The Divine Storm](event/The-Divine-Storm)
 - [Hunt for the Ancient Artifacts](event/Hunt-for-the-Ancient-Artifacts)
-- [The Reshaping](event/The-Reshaping)
 
 ### Characters
 - [The Curator](characters/The-Curator)

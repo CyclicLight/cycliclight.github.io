@@ -3,7 +3,7 @@ title: The World-Eater
 layout: wiki-page
 ---
 
-**The World-Eater** (also called **The Mad Divine**) is a draconic deity imprisoned by [the Shards](Pantheon) within a pocket realm. Its release is usually accompanied by the end of a cycle and thus the remaking of the world only once has this been in part avoided (see [The Reshaping](/wiki/event/The-Reshaping)).
+**The World-Eater** (also called **The Mad Divine**) is a draconic deity imprisoned by [the Shards](Pantheon) within a pocket realm. Its release is usually accompanied by the end of a cycle and thus the remaking of the world only once has this been in part avoided (see [The Reshaping](/wiki/event/The-Divine-Storm)).
 
 The World-Eater is known to whisper cryptically to inhabitants of the material plane, manipulating events towards their release.
 

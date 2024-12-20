@@ -7,7 +7,7 @@ layout: wiki-page
 
 ## History
 
-### Rise
+### Rise (~400 BD)
 
 The Empire was initially formed around 3 centuries before the Reshaping pulling together several territories under one rule.
 
@@ -15,6 +15,6 @@ The Empire was initially formed around 3 centuries before the Reshaping pulling 
 
 Over the centuries the Empire was beset by corruption at all levels of government. The political games played by rivalling nobles spilled over into the capital and eventually became a deep rooted part of Imperial high-society.
 
-### Fall
+### Fall (10 BD)
 
 On the 49th birthday of the last emperor the Pirate Monarch of [Mycelia](/wiki/nations/Mycelia) fired the bullet that ended the Empire. It is believed that they pulled the strings of the corrupt nobility to let them enter the capital and murder the emperor. The Lords had then each believed they'd take the throne leading to the following civil war and quick end to the Empire. It is believed this end was the Pirate's intention all along.

@@ -1,9 +1,10 @@
 ---
-title: The Reshaping
+title: The Divine Storm
 layout: wiki-page
 ---
 
-**The Reshaping** of Tev'esh was a cataclysmic event that permanently reshaped the face of the continent, it came one month after the [Artifact Adventurers](/wiki/organisations/Artifact-Adventurers) defeated the avatar of the [World-Eater](/wiki/religion/World-Eater.md).
+**The Divine Storm** (also known as **The Reshaping** of Tev'esh) was a cataclysmic event that permanently reshaped the face of the Tev'esh, it came one month after the [Artifact Adventurers](/wiki/organisations/Artifact-Adventurers) defeated the avatar of the [World-Eater](/wiki/religion/World-Eater.md) on the 26th of February -1 BD.
+
 
 ## Cause
 
