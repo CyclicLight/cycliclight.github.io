@@ -8,6 +8,7 @@ Tav'esh is the largest continent on the world's surface.
 ## Highheaths
 The Highheaths is the western region of the continent, located upon a heath, therefore the name. Beneath the land runs a nexus of leylines, causing the emergence of grand arcane crystals across the surface.
 
+**Nations**
 - [Aeros](/wiki/nations/Aeros)
 - [Khartor](/wiki/nations/Khartor)
 
@@ -53,5 +54,12 @@ Many towns previously protected by the Empire were left without support with man
 ## Vash'lands
 The Vash'lands is the eastern region of the continent, named after the great forest Vash'el.
 
+**Nations**
 - [Kalix](/wiki/nations/Kalix)
 - [Recksol](/wiki/nations/Recksol)
+
+## The Cold North
+
+A mostly inhospitable frozen tundra covering the far north of the continent. Though small villages exist, outside of Starpointe few hold any significance.
+
+Accesible past the Khartor mountain range or north of Drien in Vallendria.
