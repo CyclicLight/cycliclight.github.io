@@ -16,6 +16,18 @@ Named after [the Empire of Vallendria](/wiki/nations/Vallendrian-Empire), the ce
 
 Following the fall of the Empire the region was thrown into war, an uneasy peace was established between the rivalling lords after several years of bloodshed. Many of the towns previously protected by the Empire were left without support after the fall with many falling into ruin or being forced to create new local militias.
 
+### The Region of Vallendria
+![Map of Vallendria](/assets/images/VallendriaMapAnnotated.jpg)
+
+1. Ruins of the Capital
+2. Drien
+3. 
+4. [Lyascen](/wiki/nations/Lyascen)
+5. [Tidegate](/wiki/places/Tidegate)
+6. 
+7. 
+8. 
+
 **Current Nations:**
 
 - [Lyascen](/wiki/nations/Lyascen)
