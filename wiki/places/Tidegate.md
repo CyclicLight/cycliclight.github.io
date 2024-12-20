@@ -15,7 +15,6 @@ Originally established to guard the river way to the capital. After the nation's
 
 Around 9 [BD](/wiki/event/The-Divine-Storm), it was settled again by opportunists.
 
-
 ## Governance
 
 Led by a pair of nobles who watch the town from a manor.
@@ -23,7 +22,6 @@ Led by a pair of nobles who watch the town from a manor.
 ## Appearance
 
 A mish-mash of old refurnished buildings & driftwood houses. The town is split from the Harbour in the South-West to the North-Eastern gate by a wide trade street.
-
 
 ## Notable locations
 
@@ -34,6 +32,10 @@ A mish-mash of old refurnished buildings & driftwood houses. The town is split f
 - The Lost Man's Chest (Tavern)
 
 *Located along the trade road.*
+
+- Courier's Office (Postal Service)
+
+*Representatives from the Vallendrian Courier Company*
 
 ## Map
 
