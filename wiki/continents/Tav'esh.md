@@ -37,7 +37,7 @@ Many towns previously protected by the Empire were left without support with man
  5. [Tidegate](/wiki/places/Tidegate) |
  6.                               |
  7.                               |
- 8.                               |
+ 8. [Silverbeck](/wiki/places/Silverbeck)|
  9. The Hills                     |
 
 ![Map of Vallendria](/assets/images/VallendriaMapAnnotated.jpg)
