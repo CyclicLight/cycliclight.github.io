@@ -22,28 +22,13 @@ Mayor elected by local merchants. Formerly noble determined by the Vallendrian c
 
 ## Notable Locations
 
-- Coliseum of Arum (Combat Arena)
-
-*A grand arena for gladiatorial combat located outside the city walls.*
-
-- The Woven Wing (Tavern)
-
-*A large tavern near the docks.*
-
-- The Frog Statues
-
-*A series of Frog Statues of increasing scale. Possibly heretical.*
-
-- Temple of Tyra
-
-*A marble temple dedicated to [the Storm Bringer](/wiki/religion/Pantheon).*
-
-- Hooting River Docks
-
-*Named after it's owl infestation.*
-
-- The Music Hole
-*An underground concert hall for the highest echelons of society.*
-
-- The Grand Hall
-*Dedicated to [Aranuo](/wiki/religion/Aranou) & [Alai](/wiki/religion/Alai), the grand hall acts as both town center & trading floor. Filled by countless of traders peddling wares from all across the realms.*
+| Name | Description |
+| ---- | ----------- |
+| Coliseum of Arum (Combat Arena) | *A grand arena for gladiatorial combat located outside the city walls.* |
+| The Woven Wing (Tavern) | *A large tavern near the docks.* |
+| The Frog Statues | *A series of Frog Statues of increasing scale. Possibly heretical.* |
+| Temple of Tyra | *A marble temple dedicated to [the Storm Bringer](/wiki/religion/Pantheon).* |
+| Hooting River Docks | *Named after it's owl infestation.* |
+| The Music Hole | *An underground concert hall for the highest echelons of society.* |
+| The Grand Hall | *Dedicated to [Aranuo](/wiki/religion/Aranou) & [Alai](/wiki/religion/Alai), the grand hall acts as both town center & trading floor. Filled by countless of traders peddling wares from all across the realms.* |
+| The Imperial Forgeworks | *An abandoned airship research & construction yard. It's first vessel left unfinished from when the engineers were moved.*

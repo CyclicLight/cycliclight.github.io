@@ -25,17 +25,12 @@ A mish-mash of old refurnished buildings & driftwood houses. The town is split f
 
 ## Notable locations
 
-- The Sunken Root (Inn)
-
-*Located in the Harbor, common stopping point for travelers.*
-
-- The Lost Man's Chest (Tavern)
-
-*Located along the trade road.*
-
-- Courier's Office (Postal Service)
-
-*Representatives from the [Vallendrian Courier Company](/wiki/organisations/Vallendrian-Courier-Company)*
+| Name | Description |
+| ---- | ----------- |
+| The Sunken Root (Inn) | *Located in the Harbor, common stopping point for travelers.* |
+| The Lost Man's Chest (Tavern) | *Located along the trade road.* |
+| Courier's Office (Postal Service) | *Representatives from the [Vallendrian Courier Company](/wiki/organisations/Vallendrian-Courier-Company)* |
+| The Gravel Pit (Combat Arena) | *Located on the southern edge of town, the gravel pit is a low level betting & fighting operation. Famous for it's scarlet gravel* |
 
 ## Map
 
