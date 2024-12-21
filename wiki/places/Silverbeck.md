@@ -31,3 +31,13 @@ Mayor elected by local merchants. Formerly noble determined by the Vallendrian c
 - Temple of Tyra
 
 *A marble temple dedicated to [the Storm Bringer](/wiki/religion/Pantheon).*
+
+- Hooting River Docks
+
+*Named after it's owl infestation.*
+
+- The Music Hole
+*An underground concert hall for the highest echelons of society.*
+
+- The Grand Hall
+*Dedicated to [Aranuo](/wiki/religion/Aranou) & [Alai](/wiki/religion/Alai), the grand hall acts as both town center & trading floor. Filled by countless of traders peddling wares from all across the realms.*
