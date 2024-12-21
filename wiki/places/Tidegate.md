@@ -13,7 +13,7 @@ Tidegate is home to an assortment of sailors, magic users, and peddlers of goods
 
 Originally established to guard the river way to the capital. After the nation's fall it was quickly abandoned by the guards assigned to it. 
 
-Around 9 [BD](/wiki/event/The-Divine-Storm), it was settled again by opportunists.
+Around 7 [BD](/wiki/event/The-Divine-Storm), it was settled again by opportunists.
 
 ## Governance
 

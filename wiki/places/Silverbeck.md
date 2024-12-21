@@ -14,6 +14,12 @@ A walled trade-hub nestled along the Riverside on the border between [Vallendria
 
 Mayor elected by local merchants. Formerly noble determined by the Vallendrian central government.
 
+## History
+
+**136 BD**: Established by the Vallendrian central government as trade with [Kalix](/wiki/nations/Kalix) & [Recksol](/wiki/nations/Recksol) increased.
+
+**~10 BD**: Gained independence as a consequence of the fall of Vallendria.
+
 ## Notable Locations
 
 - Coliseum of Arum (Combat Arena)
