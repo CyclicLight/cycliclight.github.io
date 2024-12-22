@@ -27,12 +27,14 @@ A mish-mash of old refurnished buildings & driftwood houses. The town is split f
 
 | Name | Description |
 | ---- | ----------- |
-| The Sunken Root (Inn) | *Located in the Harbor, common stopping point for travelers.* |
-| The Lost Man's Chest (Tavern) | *Located along the trade road.* |
+| The Sunken Root (Inn) | *Located in the Harbor, the best stopping point for travelers looking for a night's rest or food & entertainment!* |
+| The Lost Man's Chest (Tavern) | *Located near the gate, experience the world's finest & cheapest liquors set to the sounds of bards!* |
 | Courier's Office (Postal Service) | *Representatives from the [Vallendrian Courier Company](/wiki/organisations/Vallendrian-Courier-Company)* |
-| The Artificer's Arcana (Magic Shop) | *A quaint magic shop ran by an excentric gnome.* |
-| The Standing Shrines | *Located along the winding road, an outdoor temple to [the Shards](/wiki/religion/Pantheon) formed within a circle of standing stones..* | 
-| The Gravel Pit (Combat Arena) | *Located on the southern edge of town, the gravel pit is a low level betting & fighting operation. Famous for it's scarlet gravel* |
+| The Artificer's Arcana (Magic Shop) | *The town's greatest artificer!* |
+| The Standing Shrines | *Located along the winding road, an outdoor temple to [the Shards](/wiki/religion/Pantheon). Donations welcome!* | 
+| The Gravel Pit (Combat Arena) | *Located on the southern edge of town, the prime spot for gambling & fighting! Famous for it's scarlet gravel* |
+| Mullmar's Maps | *The prime purveyor of proportional maps of the region!* |
+| Arms of Arum | *Lightly used weapons & equipment for reasonable prices!* |
 
 ## Map
 
