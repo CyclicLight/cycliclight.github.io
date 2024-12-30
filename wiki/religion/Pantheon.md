@@ -26,6 +26,13 @@ The Null Gods, unlike the Shards are not born from the Maker. As their names imp
 
 Their motives are separate from the Shards and may not align the mortal morality.
 
+An incomplete list of Null Gods:
+
+| **Name** | **Primary Domain** | **Common Worshippers**  |
+| Erebon   | Death, Necromancy  | Necromancers, Murderers |
+| Clyde    | ???                | The Church of Clyde     |
+| The Frog Lord | ???           | ???                     |
+
 ### Polytheism
 
 Though a person may hold a certain deity in higher regard than the rest, many pray to multiple throughout their lives. For example; a grieving son may pray for Moern to protect the spirit of their recently departed mother, a spouse may pray to Tyra to protect their beloved as they cross the sea, whilst an soldier might pray to Caelon for an end to the war.
