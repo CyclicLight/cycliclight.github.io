@@ -20,6 +20,12 @@ The commonly accepted pantheon places [The Maker](The-Maker) as the creator of t
 | [Moern, Lord of Graves](Moern) | Graves | Cycle of Life | Neutral | Gravekeepers, Morugarde |
 | [The Daughter, The Void Lost](Daughter) | Twilight | ??? | Neutral | ??? |
 
+### The Not Gods / Null Gods 
+
+The Null Gods, unlike the Shards are not born from the Maker. As their names imply they are not considered deities in the way the Shards are though they have the ability to draw power from faith & prayer as any other deity. Their numbers are made up of varying demons, bastard demi-gods, fey, and other powerful beings like some Liches & Dragons.
+
+Their motives are separate from the Shards and may not align the mortal morality.
+
 ### Polytheism
 
 Though a person may hold a certain deity in higher regard than the rest, many pray to multiple throughout their lives. For example; a grieving son may pray for Moern to protect the spirit of their recently departed mother, a spouse may pray to Tyra to protect their beloved as they cross the sea, whilst an soldier might pray to Caelon for an end to the war.
