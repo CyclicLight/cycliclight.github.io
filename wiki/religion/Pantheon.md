@@ -31,7 +31,7 @@ An incomplete list of Null Gods:
 | **Name** | **Primary Domain** | **Common Worshippers**  | **Origins**    |
 | Erebon   | Death, Necromancy  | Necromancers, Murderers | Child of Moern |
 | Clyde    | ???                | The Church of Clyde     | Insanity       |
-| The Frog Lord | ???           | ???                     | Frog Demon     |
+| The Frog Lord | ???           | ???                     | ???            |
 
 ### Polytheism
 
