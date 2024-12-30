@@ -28,10 +28,10 @@ Their motives are separate from the Shards and may not align the mortal morality
 
 An incomplete list of Null Gods:
 
-| **Name** | **Primary Domain** | **Common Worshippers**  |
-| Erebon   | Death, Necromancy  | Necromancers, Murderers |
-| Clyde    | ???                | The Church of Clyde     |
-| The Frog Lord | ???           | ???                     |
+| **Name** | **Primary Domain** | **Common Worshippers**  | **Origins**    |
+| Erebon   | Death, Necromancy  | Necromancers, Murderers | Child of Moern |
+| Clyde    | ???                | The Church of Clyde     | Insanity       |
+| The Frog Lord | ???           | ???                     | Frog Demon     |
 
 ### Polytheism
 
