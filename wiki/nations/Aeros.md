@@ -13,9 +13,10 @@ The monarch is advised by a council of powerful representatives from the nation,
 
 ## Cities
 
-### Arinium (Capital)
-
-The Crown Jewel of Aeros, a sprawling city built by mages, resting at the edge of the southern high of the Highheaths. It overlooks the divide of the Central & Weastern Seas & [Tev'esh](/wiki/continents/Tev'esh) to the far south
+| Name | Status | Traits |
+| [**Arinium (Capital)**](/wiki/places/Arinium) | Active | Capital |
+| Aven | Active | Trading Stop |
+| Wildsbrook | Destroyed | Caused a war |
 
 ## History
 
