@@ -34,6 +34,7 @@ A mish-mash of old refurnished buildings & driftwood houses. The town is split f
 | The Standing Shrines | *Located along the winding road, an outdoor temple to [the Shards](/wiki/religion/Pantheon). Donations welcome!* | 
 | The Gravel Pit (Combat Arena) | *Located on the southern edge of town, the prime spot for gambling & fighting! Famous for it's scarlet gravel* |
 | Mullmar's Maps | *The prime purveyor of proportional maps of the region!* |
+| Books of Botany & OTHER LITERATURE | *Pre-owned books sold at fine prices! Now includes other genres!* |
 | Arms of Arum | *Lightly used weapons & equipment for reasonable prices!* |
 
 ## Map
