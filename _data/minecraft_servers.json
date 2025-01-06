@@ -242,6 +242,10 @@
                                     "description": "1000 stacks of wheat in a barrel."
                                 },
                                 {
+                                    "image": "/valhelsia/WheatMap.png",
+                                    "description": "A work in progress overhead map screenshot of the farm."
+                                },
+                                {
                                     "image": "/valhelsia/Wheat2.jpg",
                                     "description": "It initally started with the field ring but that was too slow and eventually the big square was built."
                                 },
@@ -264,6 +268,10 @@
                                 {
                                     "image": "/valhelsia/GodOfWheat.jpg",
                                     "description": "I became slightly mad with power."
+                                },
+                                {
+                                    "image": "/valhelsia/WheatEpilogue.jpg",
+                                    "description": "When it was over, I published a news page about it."
                                 }
                             ]
                         },
@@ -318,6 +326,10 @@
                             "group_description": "A 1600 block railroad with a CREATE mod train. This was before actual train track was added to CREATE.",
                             "images": [
                                 {
+                                    "image": "/valhelsia/RailroadMachine.png",
+                                    "description": "The machine used to build the railroad."
+                                },
+                                {
                                     "video": "177M_61fgMY",
                                     "description": "Railroad building machine."
                                 },
@@ -332,6 +344,10 @@
                                 {
                                     "image": "/valhelsia/Railroad3.jpg",
                                     "description": "Path through the mountain."
+                                },
+                                {
+                                    "image": "/valhelsia/Railroad4.png",
+                                    "description": "The train in the world (Knighthold station)"
                                 },
                                 {
                                     "video": "TmP8raI5evk",
@@ -374,6 +390,14 @@
                                 {
                                     "image": "/valhelsia/Pyramid8.jpg",
                                     "description": "The Vault."
+                                },
+                                {
+                                    "image": "/valhelsia/Pyramid9.png",
+                                    "description": "Floor 3: Armory, Brewery, & Weaponry."
+                                },
+                                {
+                                    "image": "/valhelsia/Pyramid10.png",
+                                    "description": "Top Floor: Museum with scaled down models of my builds."
                                 }
                             ]
                         },
@@ -390,7 +414,7 @@
                     ]
                 },
                 {
-                    "title": "Undercity",
+                    "title": "The Undercity",
                     "minecraft_version": "1.16",
                     "modpack_name": "DrunkenDruidSMP 1.16.5",
                     "start_date": "April 2021",
@@ -403,7 +427,54 @@
                             "group_name": "The Undercity",
                             "group_description": "The main city where most of the players lived. A series of Underground corridors (this inspired the Stoneholm mod)",
                             "images": [
-        
+                                {
+                                    "image": "/undercity/Undercity1.png",
+                                    "description": "The above ground view of the Undercity."
+                                },
+                                {
+                                    "image": "/undercity/Undercity2.png",
+                                    "description": "Museum, it held a map of the spawn area and random relics."
+                                },
+                                {
+                                    "image": "/undercity/Undercity3.png",
+                                    "description": "One corridor. The closest opening to the left is the ladder down. Next opening was the market place."
+                                },
+                                {
+                                    "image": "/undercity/Undercity4.png",
+                                    "description": "The second gate called 'Epcot'. It was at the far end of the previous corridor."
+                                },
+                                {
+                                    "image": "/undercity/Undercity5.png",
+                                    "description": "The Fish Emporium in the market place. It was ran by a fish."
+                                },
+                                {
+                                    "image": "/undercity/Undercity6.png",
+                                    "description": "Stylish Mooshroom in their home."
+                                },
+                                {
+                                    "image": "/undercity/Undercity7.png",
+                                    "description": "The community warehouse, it was meant to be a shared storage area where anyone could leave or take items."
+                                },
+                                {
+                                    "image": "/undercity/Undercity8.png",
+                                    "description": "Rat infestation at the restaurant."
+                                },
+                                {
+                                    "image": "/undercity/Undercity9.png",
+                                    "description": "The finished restaurant, Le Pomme de Terre. It sold potatoes."
+                                },
+                                {
+                                    "image": "/undercity/Undercity10.png",
+                                    "description": "A very tall sandwich. It was later displayed as a relic in the museum."
+                                },
+                                {
+                                    "image": "/undercity/Undercity11.png",
+                                    "description": "Updated museum."
+                                },
+                                {
+                                    "image": "/undercity/Undercity12.png",
+                                    "description": "Donut County Cafe. A few steps into the corridor."
+                                }
                             ]
                         }
                     ]
