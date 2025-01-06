@@ -543,7 +543,7 @@
                                     "description": "The first statue."
                                 },
                                 {
-                                    "image": "/drunkenlands/unc/SpawnGenerationError.png",
+                                    "image": "/drunkenlands/unc/SpawnGenerationError.jpg",
                                     "description": "A map screenshot showing the issues with the spawn generation (not the square in the middle)."
                                 },
                                 {
@@ -561,19 +561,19 @@
                                     "description": "Isla De Hongos, later renamed to Mycelia."
                                 },
                                 {
-                                    "image": "/drunkenlands/unc/IslaDeHongos2.png",
+                                    "image": "/drunkenlands/unc/IslaDeHongos2.jpg",
                                     "description": "Early constructions on Isla De Hongos."
                                 },
                                 {
-                                    "image": "/drunkenlands/unc/IslaDeHongos3.png",
+                                    "image": "/drunkenlands/unc/IslaDeHongos3.jpg",
                                     "description": "View of home."
                                 },
                                 {
-                                    "image": "/drunkenlands/unc/IslaDeHongos4.png",
+                                    "image": "/drunkenlands/unc/IslaDeHongos4.jpg",
                                     "description": "View from above."
                                 },
                                 {
-                                    "image": "/drunkenlands/unc/IslaDeHongos5.png",
+                                    "image": "/drunkenlands/unc/IslaDeHongos5.jpg",
                                     "description": "Inside the home.."
                                 }
                             ]
@@ -745,6 +745,10 @@
                                     "description": "Herbalist's Island."
                                 },
                                 {
+                                    "image": "/drunkendragon/HerbalistIsland2.png",
+                                    "description": "Herbalist's Island."
+                                },
+                                {
                                     "image": "/drunkendragon/HeadCollection.jpg",
                                     "description": "Head Collection. Players & Mobs would drop them on death."
                                 }
@@ -807,7 +811,7 @@
                                 {
                                     "image": "/drunkendragon/whispers/6.png",
                                     "description": "Steady your heart in the face of an uncertain future. Let not darkness break your spirit or mind. (This one was positive, meant to be from the Curator of the Museum of Ancient Artifacts)"
-                                },
+                                }
                             ]
                         }
                     ]
