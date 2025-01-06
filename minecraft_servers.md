@@ -40,14 +40,21 @@ A list of servers.
         <td>{{ server.canon_date }}</td>
     </tr>
 </table>
-Screenshots
+Media
 {% for screenshot_group in server.screenshots %}
 <details>
     <summary><b>{{ screenshot_group.group_name }}</b></summary>
     {{screenshot_group.group_description}}
 
     {% for entry in screenshot_group.images %}
+        {% if entry.image %}
         <img src="/assets/images/minecraft_servers/{{ entry.image }}" alt="{{ entry.description }}" >
+        {% endif %}
+        {% if entry.video %}
+        <div style="display: flex; justify-content: center;">
+            <iframe style="width:80%; aspect-ratio:16/9;" src="https://www.youtube.com/embed/{{entry.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        {% endif %}
         <p style="text-align: center;"><i>{{ entry.description }}</i></p>
     {% endfor %}
 </details>

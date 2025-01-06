@@ -41,6 +41,10 @@
                             "group_description": "A MineColony near the spawn. I was up very late many nights trying to make it work. Recruited a couple of knights to dig out mountains.",
                             "images": [
                                 {
+                                    "image": "/camelot/OldCamelot.png",
+                                    "description": "The original camelot area."
+                                },
+                                {
                                     "image": "/camelot/FirstEraEndCamelot.PNG",
                                     "description": "Map of Camelot at the end of the server."
                                 },
@@ -221,6 +225,10 @@
                                 {
                                     "image": "/valhelsia/EEPandaPit.jpg",
                                     "description": "The Panda Pit."
+                                },
+                                {
+                                    "image": "/valhelsia/SpawnArea1.jpg",
+                                    "description": "Maddening Castle"
                                 }
                                 
                             ]
@@ -244,6 +252,10 @@
                                 {
                                     "image": "/valhelsia/Wheat3.jpg",
                                     "description": "Riding the Wheat machine."
+                                },
+                                {
+                                    "video": "mk1-AhNeTGM",
+                                    "description": "Harvesting the wheat square.."
                                 }
                             ]
                         },
@@ -251,6 +263,10 @@
                             "group_name": "The Knighthold",
                             "group_description": "Occupied a Stronghold, turned it into the Knighthold. This place is very lore and reappeared in the Artifact Adventures.",
                             "images": [
+                                {
+                                    "image": "/valhelsia/KnightholdEntrance.png",
+                                    "description": "The unceremonious entrance to the Knighthold."
+                                },
                                 {
                                     "image": "/valhelsia/Knighthold1.jpg",
                                     "description": "The Knight Hold center in the first moments of moving in, shortly after the Wheat project finished."
@@ -285,7 +301,17 @@
                                 },
                                 {
                                     "image": "/valhelsia/Knighthold9.jpg",
-                                    "description": "The cleaned up fountain/entrance chamber from before. The portal room is referred to as \"The Veil-Portal\", later in lore it's called a Gate."
+                                    "description": "The cleaned up fountain/entrance chamber from before. The portal room is referred to as 'The Veil-Portal', later in lore it's called a Gate."
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "The Railroad",
+                            "group_description": "A 1600 block railroad with a CREATE mod train. This was before actual train track was added to CREATE.",
+                            "images": [
+                                {
+                                    "image": "/valhelsia/Pyramid1.jpg",
+                                    "description": "The Imperial Pyramid."
                                 }
                             ]
                         },
@@ -320,6 +346,10 @@
                                 {
                                     "image": "/valhelsia/Pyramid7.jpg",
                                     "description": "Top floor done."
+                                },
+                                {
+                                    "image": "/valhelsia/Pyramid8.jpg",
+                                    "description": "The Vault."
                                 }
                             ]
                         }
