@@ -478,6 +478,14 @@
                                 {
                                     "image": "/undercity/Undercity12.png",
                                     "description": "Donut County Cafe. A few steps into the corridor."
+                                },
+                                {
+                                    "image": "/undercity/Syndicate.png",
+                                    "description": "An evil group, doing evil things."
+                                },
+                                {
+                                    "image": "/undercity/Syndicate2.png",
+                                    "description": "I don't know what these signs mean anymore. But the evil group was working for the World-Eater."
                                 }
                             ]
                         }
