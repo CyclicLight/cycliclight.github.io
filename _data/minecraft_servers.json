@@ -502,7 +502,7 @@
                                     "description": "This might not even be from this server.."
                                 }
                             ]
-                        },
+                        }
                     ]
                 },
                 {
@@ -614,8 +614,24 @@
                                     "description": "The original teaser for the event series. It was the second event ran for the guild, hence the 2."
                                 },
                                 {
+                                    "image": "/drunkendragon/MinderManors.jpg",
+                                    "description": "The second dungeon was Minder Manor. The version to the left was the original, it was rebuilt to be bigger after Duhg Molir."
+                                },
+                                {
+                                    "image": "/drunkendragon/MinderManor2.jpg",
+                                    "description": "Minder Manor was styled after the Haunted Mansion rides & escape rooms. Multiple parallel puzzles to be solved, each allowing you to deposit one honey comb into the stretching room's hopper."
+                                },
+                                {
+                                    "image": "/drunkendragon/Arena.jpg",
+                                    "description": "The third dungeon was the Red Oasis, a gladiatorial arena. Initially, it was meant to be PvP but that was scrapped early."
+                                },
+                                {
                                     "image": "/drunkendragon/OceanTemple.png",
-                                    "description": "The final dungeon was a frozen over Ocean Temple. The only ones that found the right place."
+                                    "description": "The final ARTIFACT dungeon was a frozen over Ocean Temple. The only ones that found the right place."
+                                },
+                                {
+                                    "image": "/drunkendragon/KnightholdCopy.jpg",
+                                    "description": "The actual final dungeon was the Knighthold. Finally using the ideas from the Valhelsia server & having players have to unlock the way to the portal."
                                 }
                             ]
                         },
@@ -678,6 +694,44 @@
                                 {
                                     "image": "/drunkendragon/event1/14.jpg",
                                     "description": "They had opened portals and suffered for it." 
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/15.jpg",
+                                    "description": "Toward the Throne Room where the King still waited." 
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/16.jpg",
+                                    "description": "Treasures beyond imagination." 
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/17.jpg",
+                                    "description": "A feast before battle." 
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/18.jpg",
+                                    "description": "Fighting the Dwarven King." 
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "Artifact Event 2: ",
+                            "group_description": "Assorted gameplay screenshots.",
+                            "images": [
+                                {
+                                    "image": "/drunkendragon/Toproad.jpg",
+                                    "description": "A sandwich store."
+                                },
+                                {
+                                    "image": "/drunkendragon/Goldsmelt.jpg",
+                                    "description": "Goldsmelt, a dwarven home by spawn."
+                                },
+                                {
+                                    "image": "/drunkendragon/EEIsland.jpg",
+                                    "description": "Herbalist's Island."
+                                },
+                                {
+                                    "image": "/drunkendragon/HeadCollection.jpg",
+                                    "description": "Head Collection. Players & Mobs would drop them on death."
                                 }
                             ]
                         },
@@ -700,7 +754,45 @@
                                 {
                                     "image": "/drunkendragon/HeadCollection.jpg",
                                     "description": "Head Collection. Players & Mobs would drop them on death."
+                                },
+                                {
+                                    "image": "/drunkendragon/MountainForge.jpg",
+                                    "description": "The Mountain Forge stables, part of a gigantic structure collecting everything that could be collected."
+                                },
+                                {
+                                    "image": "/drunkendragon/MinderManorInWorld.jpg",
+                                    "description": "Looking at Minder Manor in the world."
                                 }
+                            ]
+                        },
+                        {
+                            "group_name": "Whispers",
+                            "group_description": "A lot of whispers were scheduled or put out with vaguely spooky vibes. These were meant to be from the main antagonist, the World-Eater.",
+                            "images": [
+                                {
+                                    "image": "/drunkendragon/whispers/1.png",
+                                    "description": "I once knew more of your kind. Their downfall was a joy."
+                                },
+                                {
+                                    "image": "/drunkendragon/whispers/2.png",
+                                    "description": "Chaos spoils the bunch."
+                                },
+                                {
+                                    "image": "/drunkendragon/whispers/3.png",
+                                    "description": "Do you fear the reaper? You should for they come for you. (This was teasing the Rider, a death standing who'd come and attack once, they also appeared in the Red Oasis event)"
+                                },
+                                {
+                                    "image": "/drunkendragon/whispers/4.png",
+                                    "description": "This world will burn as all before. (This cycle will end)"
+                                },
+                                {
+                                    "image": "/drunkendragon/whispers/5.png",
+                                    "description": "You stand alone. What now? (This was one of the targeted ones which I manually wrote into the console to mess with people)"
+                                },
+                                {
+                                    "image": "/drunkendragon/whispers/6.png",
+                                    "description": "Steady your heart in the face of an uncertain future. Let not darkness break your spirit or mind. (This one was positive, meant to be from the Curator of the Museum of Ancient Artifacts)"
+                                },
                             ]
                         }
                     ]
