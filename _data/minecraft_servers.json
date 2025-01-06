@@ -256,6 +256,14 @@
                                 {
                                     "video": "mk1-AhNeTGM",
                                     "description": "Harvesting the wheat square.."
+                                },
+                                {
+                                    "image": "/valhelsia/Wheat4.png",
+                                    "description": "Couldn't handle the wheat."
+                                },
+                                {
+                                    "image": "/valhelsia/GodOfWheat.jpg",
+                                    "description": "I became slightly mad with power."
                                 }
                             ]
                         },
@@ -310,8 +318,24 @@
                             "group_description": "A 1600 block railroad with a CREATE mod train. This was before actual train track was added to CREATE.",
                             "images": [
                                 {
-                                    "image": "/valhelsia/Pyramid1.jpg",
-                                    "description": "The Imperial Pyramid."
+                                    "video": "177M_61fgMY",
+                                    "description": "Railroad building machine."
+                                },
+                                {
+                                    "image": "/valhelsia/Railroad1.jpg",
+                                    "description": "Knighthold-side station."
+                                },
+                                {
+                                    "image": "/valhelsia/Railroad2.jpg",
+                                    "description": "Spawn-side station. It was right over the hill from the Wheat field."
+                                },
+                                {
+                                    "image": "/valhelsia/Railroad3.jpg",
+                                    "description": "Path through the mountain."
+                                },
+                                {
+                                    "video": "TmP8raI5evk",
+                                    "description": "Insdie the train on a creative world."
                                 }
                             ]
                         },
@@ -350,6 +374,16 @@
                                 {
                                     "image": "/valhelsia/Pyramid8.jpg",
                                     "description": "The Vault."
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "Project Teaser Trailer",
+                            "group_description": "Though originally a teaser for Drunken Dragon 2 (which never happened), it uses footage from the Valhelsia server which isn't represented in any screenshots.",
+                            "images": [
+                                {
+                                    "video": "yxkUgHbBOZo",
+                                    "description": "Trailer edited by MythicEl. A conversation between an engineer & a knight at the end of the First Cycle."
                                 }
                             ]
                         }
