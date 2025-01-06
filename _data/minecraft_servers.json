@@ -114,7 +114,84 @@
                             "group_name": "Sanctuary Spawn Town",
                             "group_description": "There was an effort to have a spawn town on this server. It worked out very well.",
                             "images": [
-        
+                                {
+                                    "image": "/sanctuary/SpawnTown.jpg",
+                                    "description": "The spawn town."
+                                },
+                                {
+                                    "image": "/sanctuary/Nightingale.jpg",
+                                    "description": "The Nightingale Inn. It actually had a secret tunnel for vampires."
+                                },
+                                {
+                                    "image": "/sanctuary/ElAxe.jpg",
+                                    "description": "An axe."
+                                },
+                                {
+                                    "image": "/sanctuary/LastKnightsTower.jpg",
+                                    "description": "Tower belonging to the Last Knights of Camelot."
+                                },
+                                {
+                                    "image": "/sanctuary/CommunityChanter.jpg",
+                                    "description": "Community Enchanting hall."
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "Vampire Castle",
+                            "group_description": "The inpeneterable castle.",
+                            "images": [
+                                {
+                                    "image": "/sanctuary/VCastle1.jpg",
+                                    "description": "Outside, it was never finished."
+                                },
+                                {
+                                    "image": "/sanctuary/VCastle2.jpg",
+                                    "description": "Inside corridors. It was very spooky."
+                                },
+                                {
+                                    "image": "/sanctuary/VCastle3.jpg",
+                                    "description": "Armory?."
+                                },
+                                {
+                                    "image": "/sanctuary/VCastle4.jpg",
+                                    "description": "The room to the right is the armory."
+                                },
+                                {
+                                    "image": "/sanctuary/VCastle5.jpg",
+                                    "description": "I think this was a bedroom?"
+                                },
+                                {
+                                    "image": "/sanctuary/VCastle6.jpg",
+                                    "description": "Maybe an office?"
+                                },
+                                {
+                                    "image": "/sanctuary/VCastleLower1.jpg",
+                                    "description": "Lower entrance to the castle. From the orchard."
+                                },
+                                {
+                                    "image": "/sanctuary/VCastleLower2.jpg",
+                                    "description": "Storage room in the basement."
+                                },
+                                {
+                                    "image": "/sanctuary/VCastleLower3.jpg",
+                                    "description": "Further back from the Orchard."
+                                },
+                                {
+                                    "image": "/sanctuary/VCastleHeart.jpg",
+                                    "description": "Across the water, the Heart Statue."
+                                },
+                                {
+                                    "image": "/sanctuary/VCastleTree.jpg",
+                                    "description": "Unfinished giant tree."
+                                },
+                                {
+                                    "image": "/sanctuary/VCastleManor.jpg",
+                                    "description": "Across the water, the manor by Ed."
+                                },
+                                {
+                                    "image": "/sanctuary/VampireWarning.jpg",
+                                    "description": "A good thing to remember."
+                                }
                             ]
                         }
                     ]
