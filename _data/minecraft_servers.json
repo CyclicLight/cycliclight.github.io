@@ -229,8 +229,11 @@
                                 {
                                     "image": "/valhelsia/SpawnArea1.jpg",
                                     "description": "Maddening Castle"
+                                },
+                                {
+                                    "image": "/valhelsia/EEPandaPit2.png",
+                                    "description": "Another view of the Panda pit."
                                 }
-                                
                             ]
                         },
                         {
@@ -351,6 +354,10 @@
                                 },
                                 {
                                     "image": "/valhelsia/RailroadMap.png",
+                                    "description": "Map covering the part of the world the railroad would travel."
+                                },
+                                {
+                                    "image": "/valhelsia/RidingTrain.png",
                                     "description": "Map covering the part of the world the railroad would travel."
                                 },
                                 {
