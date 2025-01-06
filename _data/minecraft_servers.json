@@ -205,9 +205,9 @@
             "commentary": "Under a new guild, lore development prospered.",
             "servers": [
                 {
-                    "title": "Valhelsia 4",
+                    "title": "Valhelsia 3",
                     "minecraft_version": "1.16",
-                    "modpack_name": "Valhelsia 4",
+                    "modpack_name": "Valhelsia 3",
                     "start_date": "January 2021",
                     "end_date": "April 2021",
                     "canonized_location": "First Cycle Continent",
@@ -218,14 +218,109 @@
                             "group_name": "Spawn Area",
                             "group_description": "The world of the Prime Cycle.",
                             "images": [
-        
+                                {
+                                    "image": "/valhelsia/EEPandaPit.jpg",
+                                    "description": "The Panda Pit."
+                                }
+                                
                             ]
                         },
                         {
-                            "group_name": "Imperial Continent",
-                            "group_description": "Locations on the Imperial Continent. The birth of imperialism.",
+                            "group_name": "Wheat",
+                            "group_description": "My first goal on this server was to acquire 1 000 stacks of wheat. I did it twice because I accidentally deleted the first barrel...",
                             "images": [
-        
+                                {
+                                    "image": "/valhelsia/Wheat1.jpg",
+                                    "description": "1000 stacks of wheat in a barrel."
+                                },
+                                {
+                                    "image": "/valhelsia/Wheat2.jpg",
+                                    "description": "It initally started with the field ring but that was too slow and eventually the big square was built."
+                                },
+                                {
+                                    "image": "/valhelsia/WorstMistakeOfMyLife.PNG",
+                                    "description": "The worst mistake of my life was deleting the barrel."
+                                },
+                                {
+                                    "image": "/valhelsia/Wheat3.jpg",
+                                    "description": "Riding the Wheat machine."
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "The Knighthold",
+                            "group_description": "Occupied a Stronghold, turned it into the Knighthold. This place is very lore and reappeared in the Artifact Adventures.",
+                            "images": [
+                                {
+                                    "image": "/valhelsia/Knighthold1.jpg",
+                                    "description": "The Knight Hold center in the first moments of moving in, shortly after the Wheat project finished."
+                                },
+                                {
+                                    "image": "/valhelsia/Knighthold2.jpg",
+                                    "description": "Fountain cleared up."
+                                },
+                                {
+                                    "image": "/valhelsia/Knighthold3.jpg",
+                                    "description": "Portal Room, it was never opened on this server. It did set off lore though and the ideas for it's opening were used for the Artifact Adventures."
+                                },
+                                {
+                                    "image": "/valhelsia/Knighthold4.jpg",
+                                    "description": "Many signs were necessary for people to navigate."
+                                },
+                                {
+                                    "image": "/valhelsia/Knighthold5.jpg",
+                                    "description": "Library & Villager trading hall."
+                                },
+                                {
+                                    "image": "/valhelsia/Knighthold6.jpg",
+                                    "description": "The vaults was well, vaults. Anything not put into apartments went here for storage."
+                                },
+                                {
+                                    "image": "/valhelsia/Knighthold7.jpg",
+                                    "description": "An empty vault."
+                                },
+                                {
+                                    "image": "/valhelsia/Knighthold8.jpg",
+                                    "description": "The entrance ladder & portal into the Knighthold (seen from the inside)"
+                                },
+                                {
+                                    "image": "/valhelsia/Knighthold9.jpg",
+                                    "description": "The cleaned up fountain/entrance chamber from before. The portal room is referred to as \"The Veil-Portal\", later in lore it's called a Gate."
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "The Imperial Pyramid",
+                            "group_description": "Locations on the Imperial Continent. The birth of imperialism. There was a computer vault beneath it accesibly only by waystone. This was the final project on the server.",
+                            "images": [
+                                {
+                                    "image": "/valhelsia/Pyramid1.jpg",
+                                    "description": "The Imperial Pyramid."
+                                },
+                                {
+                                    "image": "/valhelsia/Pyramid2.jpg",
+                                    "description": "The Farming Floor."
+                                },
+                                {
+                                    "image": "/valhelsia/Pyramid3.jpg",
+                                    "description": "Farming floor finished."
+                                },
+                                {
+                                    "image": "/valhelsia/Pyramid4.jpg",
+                                    "description": "Three levels done."
+                                },
+                                {
+                                    "image": "/valhelsia/Pyramid5.jpg",
+                                    "description": "Outside Complete."
+                                },
+                                {
+                                    "image": "/valhelsia/Pyramid6.jpg",
+                                    "description": "First floor hallway. The side rooms were filled with machines."
+                                },
+                                {
+                                    "image": "/valhelsia/Pyramid7.jpg",
+                                    "description": "Top floor done."
+                                }
                             ]
                         }
                     ]
