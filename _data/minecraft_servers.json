@@ -1,0 +1,361 @@
+{
+    "eras": [
+        {
+            "era_name": "Pre-Canon Era",
+            "start_date": "Q1 2020",
+            "end_date": "Spring 2020",
+            "commentary": "Before canon became a thing.",
+            "servers": [
+                {
+                    "title": "Alexland",
+                    "minecraft_version": "1.15 (Unverified)",
+                    "start_date": "Spring 2020",
+                    "end_date": "Spring 2020",
+                    "modpack_name": "N/A",
+                    "canonized_location": "Non-Canon",
+                    "canon_date": "N/A",
+                    "comment": "This was a vanilla server made before any sort of lore had started popping into my head. T'was a fun time, but it was short-lived.",
+                    "screenshots": [
+                    ]
+                }
+            ]
+        },
+        {
+            "era_name": "Sober Era",
+            "start_date": "Spring 2020",
+            "end_date": "Summer 2020",
+            "commentary": "Nonsensical mostly, but laid the foundations for the current lore.",
+            "servers": [
+                {
+                    "title": "Camelot",
+                    "minecraft_version": "1.15 (Unverified)",
+                    "modpack_name": "???",
+                    "start_date": "Spring 2020",
+                    "end_date": "Spring 2020",
+                    "canonized_location": "Unknown Prime Cycle Continent",
+                    "canon_date": "The Prime Cycle",
+                    "comment": "First modded server. The dawn of lore. Much of what was considered lore here has been reworked/retconned. It featured the Minecolonies mod.",
+                    "screenshots": [
+                        {
+                            "group_name": "Camelot",
+                            "group_description": "A MineColony near the spawn. I was up very late many nights trying to make it work. Recruited a couple of knights to dig out mountains.",
+                            "images": [
+                                {
+                                    "image": "/camelot/FirstEraEndCamelot.PNG",
+                                    "description": "Map of Camelot at the end of the server."
+                                },
+                                {
+                                    "image": "/camelot/Camelot.png",
+                                    "description": "A painted over map of the original districts."
+                                },
+                                {
+                                    "image": "/camelot/CamelotV3.png",
+                                    "description": "A painted over map of an unifinished expansion. Version 3."
+                                },
+                                {
+                                    "image": "/camelot/MapOfcamelot.png",
+                                    "description": "Full Map."
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "World Map",
+                            "group_description": "World map as assembled by MythicEl. This is 60 MB.",
+                            "images": [
+                                {
+                                    "image": "/camelot/MC_HD_Map.jpg",
+                                    "description": "A big world map."
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "Lore Preview",
+                            "group_description": "Originally an imgur album meant to tease future ideas. Most things were never implemented.",
+                            "images": [
+                                {
+                                    "image": "/camelot/FirstEra.png",
+                                    "description": "The timeline for the first weeks of the server.."
+                                },
+                                {
+                                    "image": "/camelot/FirstEra1.png",
+                                    "description": "..."
+                                },
+                                {
+                                    "image": "/camelot/FirstEra2.png",
+                                    "description": "..."
+                                },
+                                {
+                                    "image": "/camelot/FirstEra3.png",
+                                    "description": "..."
+                                },
+                                {
+                                    "image": "/camelot/FirstEra5v3.png",
+                                    "description": "V3 of this image."
+                                },
+                                {
+                                    "image": "/camelot/FirstEraFinal.png",
+                                    "description": "..."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Sanctuary & Destruction",
+                    "modpack_name": "World of Disappointment",
+                    "minecraft_version": "1.16 (Unverified)",
+                    "start_date": "May 2020",
+                    "end_date": "???",
+                    "canonized_location": "Unknown Shadow Cycle Continent",
+                    "canon_date": "The Shadow Cycle",
+                    "comment": "Second modded server. Lore was forming here. The originally story followed millenias after the Camelot server though altering it's end to failing to defeat the Ender Dragon.",
+                    "screenshots": [
+                        {
+                            "group_name": "Sanctuary Spawn Town",
+                            "group_description": "There was an effort to have a spawn town on this server. It worked out very well.",
+                            "images": [
+        
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_name": "Drunken Era",
+            "start_date": "January 2021",
+            "end_date": "Present",
+            "commentary": "Under a new guild, lore development prospered.",
+            "servers": [
+                {
+                    "title": "Valhelsia 4",
+                    "minecraft_version": "1.16",
+                    "modpack_name": "Valhelsia 4",
+                    "start_date": "January 2021",
+                    "end_date": "April 2021",
+                    "canonized_location": "First Cycle Continent",
+                    "canon_date": "First Cycle",
+                    "comment": "",
+                    "screenshots": [
+                        {
+                            "group_name": "Spawn Area",
+                            "group_description": "The world of the Prime Cycle.",
+                            "images": [
+        
+                            ]
+                        },
+                        {
+                            "group_name": "Imperial Continent",
+                            "group_description": "Locations on the Imperial Continent. The birth of imperialism.",
+                            "images": [
+        
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Undercity",
+                    "minecraft_version": "1.16",
+                    "modpack_name": "DrunkenDruidSMP 1.16.5",
+                    "start_date": "April 2021",
+                    "end_date": "June 2021",
+                    "canonized_location": "Second Cycle Continent",
+                    "canon_date": "Second Cycle",
+                    "comment": "At this point there was an underlyind narrative being woven through the servers. This Cycle was meant to be another dark one, setting a sort of tick-tock pattern. People were forced underground.",
+                    "screenshots": [
+                        {
+                            "group_name": "The Undercity",
+                            "group_description": "The main city where most of the players lived. A series of Underground corridors (this inspired the Stoneholm mod)",
+                            "images": [
+        
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Undercity",
+                    "minecraft_version": "1.16",
+                    "modpack_name": "DrunkenDruidSMP 1.16.5",
+                    "start_date": "April 2021",
+                    "end_date": "June 2021",
+                    "canonized_location": "Second Cycle Continent",
+                    "canon_date": "Second Cycle",
+                    "comment": "At this point there was an underlyind narrative being woven through the servers. This Cycle was meant to be another dark one, setting a sort of tick-tock pattern. People were forced underground. Possibly the first Fabric modpack?",
+                    "screenshots": [
+                        {
+                            "group_name": "The Undercity",
+                            "group_description": "The main city where most of the players lived. A series of Underground corridors (this inspired the Stoneholm mod)",
+                            "images": [
+        
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Vanilla Server",
+                    "minecraft_version": "1.17",
+                    "modpack_name": "N/A",
+                    "start_date": "June 2021",
+                    "end_date": "June 2021",
+                    "canonized_location": "Third Cycle Continent",
+                    "canon_date": "Third Cycle",
+                    "comment": "This server lasted a week. I don't know why we made it. Tested the 1.18 generation datapack. There are no screenshot from this.",
+                    "screenshots": [
+                    ]
+                },
+                {
+                    "title": "The Drunkenlands",
+                    "minecraft_version": "1.17",
+                    "modpack_name": "The Drunkenlands Cascade",
+                    "start_date": "August 2021",
+                    "end_date": "September 2021",
+                    "canonized_location": "Mycelia & other locations",
+                    "canon_date": "Fourth Cycle",
+                    "comment": "This was the last server that progressed the Cycle count & had a pretty shallow modpack. The spawn area's generation was very messed up.",
+                    "screenshots": [
+                        {
+                            "group_name": "Uncategorized",
+                            "group_description": "Lost a lot of data from this server. It is one of the few which doesn't have a world backup.",
+                            "images": [
+        
+                            ]
+                        },
+                        {
+                            "group_name": "Pre-launch images",
+                            "group_description": "A series of introductory images as a teaser for the server.",
+                            "images": [
+                                {
+                                    "image": "/drunkenlands/teasers/2SpaceTimeReality.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkenlands/teasers/4GearWeapons.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkenlands/teasers/5Items.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkenlands/teasers/ChoicesAndRpg.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkenlands/teasers/Tech.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkenlands/teasers/Transport.png",
+                                    "description": "???"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "The Artifact Adventures",
+                    "minecraft_version": "1.17",
+                    "modpack_name": "Drunken Dragon",
+                    "start_date": "January 2022",
+                    "end_date": "February 2022",
+                    "canonized_location": "Tev'esh",
+                    "canon_date": "-1 BD to 0 BD (Fourth Cycle)",
+                    "comment": "The server was marked by a series of events with the overarching goal of extending the lifetime. I spent a ton of time building the custom dungeon areas. It was a huge success. This also marked the first server which I hosted.",
+                    "screenshots": [
+                        {
+                            "group_name": "Artifact Locations",
+                            "group_description": "Lost a lot of data from this server. It is one of the few which doesn't have a world backup.",
+                            "images": [
+        
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_name": "Independent Era",
+            "start_date": "Summer 2022",
+            "end_date": "Present",
+            "commentary": "The Drunken Era ended because the guild died. But the lore must go on.",
+            "servers": [
+                {
+                    "title": "Maker's Vale",
+                    "minecraft_version": "???",
+                    "modpack_name": "Maker's Vale",
+                    "start_date": "Summer 2022",
+                    "end_date": "Summer 2022",
+                    "canonized_location": "Tev'esh",
+                    "canon_date": "0 BD",
+                    "comment": "To continue the story in the same place as the previous server, this marked the introduction of the Legacy structures mod. Many player structures from Drunken Dragon were brought back as ruins. This was explained by the Divine Storm / Reshaping. It also introduced the Divine Artifacts, weapons that had been placed around in the world to be found. Not much lore was developed because I was reeling from the guild's death.",
+                    "screenshots": [
+                        {
+                            "group_name": "Artifacts",
+                            "group_description": "Some of the artifacts.",
+                            "images": [
+        
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "MVS: Seafaring!",
+                    "minecraft_version": "???",
+                    "modpack_name": "MVS",
+                    "start_date": "April 2023",
+                    "end_date": "June 2023",
+                    "canonized_location": "Third Central Sea Island",
+                    "canon_date": "0 BD",
+                    "comment": "This split off from Maker's Vale, mostly because I was annoyed by many of the randoms that had been invited to Maker's Vale. The best thing about this server was the boats.",
+                    "screenshots": [
+                        {
+                            "group_name": "Screenshots",
+                            "group_description": "Assorted screenshots.",
+                            "images": [
+        
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "MVS 2",
+                    "minecraft_version": "???",
+                    "modpack_name": "MVS",
+                    "start_date": "28th March 2024",
+                    "end_date": "8th June 2024",
+                    "canonized_location": "Silverbeck, Tav'esh",
+                    "canon_date": "0 BD",
+                    "comment": "New spawn town, lot of religion. A lot of airships, and a lot of players leaning into the RP.",
+                    "screenshots": [
+                        {
+                            "group_name": "Spawn Town",
+                            "group_description": "This place was post-humously named Silverbeck.",
+                            "images": [
+        
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "MVS 3",
+                    "minecraft_version": "???",
+                    "modpack_name": "MVS",
+                    "start_date": "14th August 2024",
+                    "end_date": "Shutdown December 2024",
+                    "canonized_location": "???",
+                    "canon_date": "0 BD",
+                    "comment": "This was an excuse to play around with floating islands. I am not sure if it was a success.",
+                    "screenshots": [
+                        {
+                            "group_name": "Spawn Island",
+                            "group_description": "I did like the island though I didn't do a ton with it.",
+                            "images": [
+        
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
