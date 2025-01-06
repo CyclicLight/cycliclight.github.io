@@ -205,7 +205,7 @@
         {
             "era_name": "Drunken Era",
             "start_date": "January 2021",
-            "end_date": "Present",
+            "end_date": "Spring 2022",
             "commentary": "Under a new guild, lore development prospered.",
             "servers": [
                 {
@@ -350,6 +350,10 @@
                                     "description": "The train in the world (Knighthold station)"
                                 },
                                 {
+                                    "image": "/valhelsia/RailroadMap.png",
+                                    "description": "Map covering the part of the world the railroad would travel."
+                                },
+                                {
                                     "video": "TmP8raI5evk",
                                     "description": "Insdie the train on a creative world."
                                 }
@@ -480,25 +484,6 @@
                     ]
                 },
                 {
-                    "title": "Undercity",
-                    "minecraft_version": "1.16",
-                    "modpack_name": "DrunkenDruidSMP 1.16.5",
-                    "start_date": "April 2021",
-                    "end_date": "June 2021",
-                    "canonized_location": "Second Cycle Continent",
-                    "canon_date": "Second Cycle",
-                    "comment": "At this point there was an underlyind narrative being woven through the servers. This Cycle was meant to be another dark one, setting a sort of tick-tock pattern. People were forced underground. Possibly the first Fabric modpack?",
-                    "screenshots": [
-                        {
-                            "group_name": "The Undercity",
-                            "group_description": "The main city where most of the players lived. A series of Underground corridors (this inspired the Stoneholm mod)",
-                            "images": [
-        
-                            ]
-                        }
-                    ]
-                },
-                {
                     "title": "Vanilla Server",
                     "minecraft_version": "1.17",
                     "modpack_name": "N/A",
@@ -508,6 +493,16 @@
                     "canon_date": "Third Cycle",
                     "comment": "This server lasted a week. I don't know why we made it. Tested the 1.18 generation datapack. There are no screenshot from this.",
                     "screenshots": [
+                        {
+                            "group_name": "The One",
+                            "group_description": "This might not even be from this server but it's the only thing I have.",
+                            "images": [
+                                {
+                                    "image": "/vanilla_server/RandomScreenshot.jpg",
+                                    "description": "This might not even be from this server.."
+                                }
+                            ]
+                        },
                     ]
                 },
                 {
@@ -524,36 +519,47 @@
                             "group_name": "Uncategorized",
                             "group_description": "Lost a lot of data from this server. It is one of the few which doesn't have a world backup.",
                             "images": [
-        
+                                {
+                                    "image": "/drunkenlands/unc/LibraryOfBabel.png",
+                                    "description": "A portal to the Library of Babel where a series of statues of players were built.."
+                                },
+                                {
+                                    "image": "/drunkenlands/unc/InsideTheLibrary.png",
+                                    "description": "The first statue."
+                                },
+                                {
+                                    "image": "/drunkenlands/unc/SpawnGenerationError.png",
+                                    "description": "A map screenshot showing the issues with the spawn generation (not the square in the middle)."
+                                },
+                                {
+                                    "image": "/drunkenlands/unc/InsideTheLibrary2.png",
+                                    "description": "More statues."
+                                }
                             ]
                         },
                         {
-                            "group_name": "Pre-launch images",
-                            "group_description": "A series of introductory images as a teaser for the server.",
+                            "group_name": "Isla De Hongos (Mycelia)",
+                            "group_description": "The Island was renamed Mycelia in later lore.",
                             "images": [
                                 {
-                                    "image": "/drunkenlands/teasers/2SpaceTimeReality.png",
-                                    "description": "???"
+                                    "image": "/drunkenlands/unc/IslaDeHongos.png",
+                                    "description": "Isla De Hongos, later renamed to Mycelia."
                                 },
                                 {
-                                    "image": "/drunkenlands/teasers/4GearWeapons.png",
-                                    "description": "???"
+                                    "image": "/drunkenlands/unc/IslaDeHongos2.png",
+                                    "description": "Early constructions on Isla De Hongos."
                                 },
                                 {
-                                    "image": "/drunkenlands/teasers/5Items.png",
-                                    "description": "???"
+                                    "image": "/drunkenlands/unc/IslaDeHongos3.png",
+                                    "description": "View of home."
                                 },
                                 {
-                                    "image": "/drunkenlands/teasers/ChoicesAndRpg.png",
-                                    "description": "???"
+                                    "image": "/drunkenlands/unc/IslaDeHongos4.png",
+                                    "description": "View from above."
                                 },
                                 {
-                                    "image": "/drunkenlands/teasers/Tech.png",
-                                    "description": "???"
-                                },
-                                {
-                                    "image": "/drunkenlands/teasers/Transport.png",
-                                    "description": "???"
+                                    "image": "/drunkenlands/unc/IslaDeHongos5.png",
+                                    "description": "Inside the home.."
                                 }
                             ]
                         }
@@ -570,10 +576,131 @@
                     "comment": "The server was marked by a series of events with the overarching goal of extending the lifetime. I spent a ton of time building the custom dungeon areas. It was a huge success. This also marked the first server which I hosted.",
                     "screenshots": [
                         {
-                            "group_name": "Artifact Locations",
-                            "group_description": "Lost a lot of data from this server. It is one of the few which doesn't have a world backup.",
+                            "group_name": "Pre-launch images",
+                            "group_description": "A series of introductory images as a teaser for the server.",
                             "images": [
-        
+                                {
+                                    "image": "/drunkendragon/teasers/2SpaceTimeReality.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkendragon/teasers/4GearWeapons.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkendragon/teasers/5Items.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkendragon/teasers/ChoicesAndRpg.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkendragon/teasers/Tech.png",
+                                    "description": "???"
+                                },
+                                {
+                                    "image": "/drunkendragon/teasers/Transport.png",
+                                    "description": "???"
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "Artifact Locations",
+                            "group_description": "The artifacts were spread out in 4 dungeons. Each dungeon was meant to evoke different dimensions as if the inhabitants had been driven mad into finding some alien dimension. This was meant to back-fill lore for the Third Cycle (the short-lived vanilla server).",
+                            "images": [
+                                {
+                                    "image": "/drunkendragon/MC-FC2.gif",
+                                    "description": "The original teaser for the event series. It was the second event ran for the guild, hence the 2."
+                                },
+                                {
+                                    "image": "/drunkendragon/OceanTemple.png",
+                                    "description": "The final dungeon was a frozen over Ocean Temple. The only ones that found the right place."
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "Artifact Event 1: Ruins of Duhg Molir",
+                            "group_description": "The artifacts were spread out in 4 dungeons. Each dungeon was meant to evoke different dimensions as if the inhabitants had been driven mad into finding some alien dimension. This was meant to back-fill lore for the Third Cycle (the short-lived vanilla server).",
+                            "images": [
+                                {
+                                    "image": "/drunkendragon/event1/1.jpg",
+                                    "description": "Flooded cave entrance to the dungeon."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/2.jpg",
+                                    "description": "The closed door."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/3.jpg",
+                                    "description": "Behind the door was a TNT."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/4.jpg",
+                                    "description": "Entering the elevator shaft."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/5.jpg",
+                                    "description": "Only one way down."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/6.jpg",
+                                    "description": "A dwarven city overtaken by zombies?"
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/7.jpg",
+                                    "description": "Mead Machine infested."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/8.jpg",
+                                    "description": "Opening the door with mead!"
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/9.jpg",
+                                    "description": "The next floor was covered in rails & shops."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/10.jpg",
+                                    "description": "The mines expected TNT."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/11.jpg",
+                                    "description": "It was a trial by pushing."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/12.jpg",
+                                    "description": "Into the mines."
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/13.jpg",
+                                    "description": "And the cart blows the way to the Noble's Quarters open." 
+                                },
+                                {
+                                    "image": "/drunkendragon/event1/14.jpg",
+                                    "description": "They had opened portals and suffered for it." 
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "Regular Screenshots",
+                            "group_description": "Assorted gameplay screenshots.",
+                            "images": [
+                                {
+                                    "image": "/drunkendragon/Toproad.jpg",
+                                    "description": "A sandwich store."
+                                },
+                                {
+                                    "image": "/drunkendragon/Goldsmelt.jpg",
+                                    "description": "Goldsmelt, a dwarven home by spawn."
+                                },
+                                {
+                                    "image": "/drunkendragon/EEIsland.jpg",
+                                    "description": "Herbalist's Island."
+                                },
+                                {
+                                    "image": "/drunkendragon/HeadCollection.jpg",
+                                    "description": "Head Collection. Players & Mobs would drop them on death."
+                                }
                             ]
                         }
                     ]
