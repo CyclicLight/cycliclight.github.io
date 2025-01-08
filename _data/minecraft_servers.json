@@ -864,6 +864,10 @@
                                     "description": "The Sunken Root, an Inn in what was later known as Tidegate."
                                 },
                                 {
+                                    "image": "/mvs101/Undertavern.jpg",
+                                    "description": "The Undertavern, the hideout of shady types under the Sunken Root."
+                                },
+                                {
                                     "image": "/mvs101/Tidegate1.jpg",
                                     "description": "Tidegate"
                                 },
