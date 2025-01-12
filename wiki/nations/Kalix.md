@@ -3,7 +3,7 @@ title: Kalix
 layout: wiki-page
 ---
 
-**Kalix** is a nation in the Vash'lands of [Tav'esh](/wiki/continents/Tav'esh.md). It's capital city Galvar is situated on the cliffs above a wide fjord.
+**Kalix** is a nation in the Vash'lands of [Tav'esh](/wiki/continents/Tav'esh). It's capital city Galvar is situated on the cliffs above a wide fjord.
 
 ## Governance
 
@@ -32,3 +32,12 @@ Said to have lightning in their veins the Stormborn make up a grand majority of 
 ## Muugningar
 
 Kalix's own shadowy organisation of spies and assassins. Though to most they are simply a legend, the Muugningar are undoubtably real, appearing to defend Kalix interest wherever they are threatened.
+
+# Map
+
+
+| Locations                       | Description |
+----------------------------------| ----------- |
+| Galvar (Capital) | A fortress set upon the cliffs between the fjordic waters |
+
+![Map of the Kalix region](/assets/images/maps/Kalix.jpg)
