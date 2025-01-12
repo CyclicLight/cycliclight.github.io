@@ -11,3 +11,7 @@ Islands within this group include:
 - ...
 
 [Scorge](Scorge) is sometimes incorrectly included in this group.
+
+# Map
+
+![Central Sea Isles](/assets/images/maps/Central%20Sea%20Isles.jpg)
