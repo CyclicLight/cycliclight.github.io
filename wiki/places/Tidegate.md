@@ -39,4 +39,4 @@ A mish-mash of old refurnished buildings & driftwood houses. The town is split f
 
 ## Map
 
-![Map](/assets/images/TidegateMapV2.jpg)
+![Map](/assets/images/TidegateMapV3.jpg)
