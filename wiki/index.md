@@ -5,6 +5,8 @@ layout: wiki-page
 
 ## WIP Everything here is subject to change.
 
+### [5th Cycle](5thCycle/index)
+
 ### Time Keeping
 
 Years on the timeline are represented relative to [The Divine Storm](event/The-Divine-Storm) and are denoted as BD (Before Divine) & AD (After Divine).
