@@ -18,3 +18,7 @@ Holy book of the Order of the Frogfather.
 ### ["Dragon Adoption"](books/dragon_adoption)
 
 Dragon Adoption Guide produced by the "Hooters Department for Dragon Protection".
+
+### ["Mycelium Infection"](books/mycelium_infection)
+
+Research notes on a Mycelium Infection.
