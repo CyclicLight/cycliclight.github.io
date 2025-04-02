@@ -10,3 +10,5 @@ The consequences of one's actions are not always immediately obvious. When one's
 ### ["How did we get here?"](books/hdwgh)
 
 Recollections of the Divine Storm, the Fallen Harmony, and the Automatons.
+
+### ["The Order of the Frogfather"](books/order_of_frogfather)
