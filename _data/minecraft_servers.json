@@ -1133,6 +1133,28 @@
                                     "description": "Captured from Dynmap on the 24th of March."
                                 }
                             ]
+                        },
+                        {
+                            "group_name": "Order of the Frogfather",
+                            "group_description": "Memories from the Frug",
+                            "images": [
+                                {
+                                    "image": "/mvs4/order_of_frog/dirt.jpg",
+                                    "description": "Vorrik pondering dirt."
+                                },
+                                {
+                                    "image": "/mvs4/order_of_frog/temple1.jpg",
+                                    "description": "From the benches in the Order's temple."
+                                },
+                                {
+                                    "image": "/mvs4/order_of_frog/temple2.jpg",
+                                    "description": "The Bard played... music. After some issues."
+                                },
+                                {
+                                    "image": "/mvs4/order_of_frog/temple3.jpg",
+                                    "description": "A great frog watches from the back."
+                                }
+                            ]
                         }
                     ]
                 }
