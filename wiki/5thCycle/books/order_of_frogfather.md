@@ -1,7 +1,7 @@
 ---
 title: "Order of Frogfather"
 layout: wiki-page
-author: Grim
+author: Akaltat
 ---
 
 (Transcribed from "Order of Frogfather" by Akaltat)

@@ -12,3 +12,9 @@ The consequences of one's actions are not always immediately obvious. When one's
 Recollections of the Divine Storm, the Fallen Harmony, and the Automatons.
 
 ### ["The Order of the Frogfather"](books/order_of_frogfather)
+
+Holy book of the Order of the Frogfather.
+
+### ["Dragon Adoption"](books/dragon_adoption)
+
+Dragon Adoption Guide produced by the "Hooters Department for Dragon Protection".
