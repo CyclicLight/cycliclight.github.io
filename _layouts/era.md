@@ -40,7 +40,7 @@ layout: wiki-page
 
     {% for entry in screenshot_group.images %}
         {% if entry.image %}
-        <img src="/assets/images/minecraft_servers/{{ entry.image }}" alt="{{ entry.description }}" >
+        <img src="/assets/images/minecraft_servers/{{ entry.image }}" alt="{{ entry.description }}" loading="lazy">
         {% endif %}
         {% if entry.video %}
         <div style="display: flex; justify-content: center;">

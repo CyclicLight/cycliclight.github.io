@@ -1131,6 +1131,10 @@
                                 {
                                     "image": "/mvs4/WorldMap03-24.jpg",
                                     "description": "Captured from Dynmap on the 24th of March."
+                                },
+                                {
+                                    "image": "/mvs4/WorldMap04-03.jpg",
+                                    "description": "Captured from Dynmap on the 3rd of April."
                                 }
                             ]
                         },
@@ -1153,6 +1157,44 @@
                                 {
                                     "image": "/mvs4/order_of_frog/temple3.jpg",
                                     "description": "A great frog watches from the back."
+                                }
+                            ]
+                        },
+                        {
+                            "group_name": "Hooters Hotel & Dragon Departments",
+                            "group_description": "Here be dragons... They are very big.",
+                            "images": [
+                                {
+                                    "image": "/mvs4/hooters/1.jpg",
+                                    "description": "The Hooters Hotel"
+                                },
+                                {
+                                    "image": "/mvs4/hooters/Axolotl.jpg",
+                                    "description": "A room at the hotel, decorated with the finest of art: Axolotls."
+                                },
+                                {
+                                    "image": "/mvs4/hooters/2.jpg",
+                                    "description": "The Lighthouse & farms"
+                                },
+                                {
+                                    "image": "/mvs4/hooters/Dragons1.jpg",
+                                    "description": "The entrance to the dragon department's lairs."
+                                },
+                                {
+                                    "image": "/mvs4/hooters/Dragons2.jpg",
+                                    "description": "Dragon X"
+                                },
+                                {
+                                    "image": "/mvs4/hooters/Dragons3.jpg",
+                                    "description": "Dragon Y"
+                                },
+                                {
+                                    "image": "/mvs4/hooters/Dragons4.jpg",
+                                    "description": "Within the lairs, a growing dragon is chained up."
+                                },
+                                {
+                                    "image": "/mvs4/hooters/Dragons5.jpg",
+                                    "description": "The Hooters Owl stands beside her dragon."
                                 }
                             ]
                         }
