@@ -1197,6 +1197,20 @@
                                     "description": "The Hooters Owl stands beside her dragon."
                                 }
                             ]
+                        },
+                        {
+                            "group_name": "Fly-Away Isle",
+                            "group_description": "Disclaimer: Doesn't actually fly.",
+                            "images": [
+                                {
+                                    "image": "/mvs4/flyaway_isle/1.jpg",
+                                    "description": "The Barn"
+                                },
+                                {
+                                    "image": "/mvs4/flyaway_isle/2.jpg",
+                                    "description": "The Mill of Winds"
+                                }
+                            ]
                         }
                     ]
                 }
