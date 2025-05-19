@@ -1282,6 +1282,40 @@
                                 }
                             ]
 
+                        },
+                        {
+                            "group_name": "The Library",
+                            "group_description": "Fraying at the edge of reality...",
+                            "images": [
+                                {
+                                    "image": "/mvs4/library/1.jpg",
+                                    "description": "Entry..."
+                                },
+                                {
+                                    "image": "/mvs4/library/2.jpg",
+                                    "description": "Library proper..."
+                                },
+                                {
+                                    "image": "/mvs4/library/3.jpg",
+                                    "description": "Books unto the edge."
+                                },
+                                {
+                                    "image": "/mvs4/library/4.jpg",
+                                    "description": "A museum?"
+                                },
+                                {
+                                    "image": "/mvs4/library/5.jpg",
+                                    "description": "The Truth, they called it."
+                                },
+                                {
+                                    "image": "/mvs4/library/6.jpg",
+                                    "description": "Paintings to the left"
+                                },
+                                {
+                                    "image": "/mvs4/library/7.jpg",
+                                    "description": "Paintings to the right"
+                                }
+                            ]
                         }
                     ]
                 }
