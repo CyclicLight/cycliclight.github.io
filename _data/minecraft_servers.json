@@ -1119,7 +1119,7 @@
                     "minecraft_version": "1.20.1",
                     "modpack_name": "MVS 4",
                     "start_date": "21st March 2025",
-                    "end_date": "Ongoing",
+                    "end_date": "27th July 2025",
                     "canonized_location": "???",
                     "canon_date": "80 AD",
                     "comment": "It's all canon. For once, the world border is non-existant which has led certain mutants to explore a lot. The first backup (3 days after launch), was 700 MB.",
@@ -1135,6 +1135,18 @@
                                 {
                                     "image": "/mvs4/WorldMap04-03.jpg",
                                     "description": "Captured from Dynmap on the 3rd of April."
+                                },
+                                {
+                                    "image": "/mvs4/JourneyMap04-04.jpg",
+                                    "description": "Captured from Journey Map on the 4th of April. Includes some Frontiers but not the entire world."
+                                },
+                                {
+                                    "image": "/mvs4/journeymap-2025-05-19.png",
+                                    "description": "Exported from Journey Map on the 19th of May."
+                                },
+                                {
+                                    "image": "/mvs4/Map2025-05-19.JPG",
+                                    "description": "Dynmap on the 19th of May."
                                 }
                             ]
                         },
