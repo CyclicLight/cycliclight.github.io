@@ -1223,6 +1223,65 @@
                                     "description": "The Mill of Winds"
                                 }
                             ]
+                        },
+                        {
+                            "group_name": "Rosewood & Rosegrave",
+                            "group_description": "A home long since lost to demonkind, its legacy told by the bloodied strikes of the Clocktower",
+                            "images": [
+                                {
+                                    "image": "/mvs4/rose/1.jpg",
+                                    "description": "From a withered tree, into a grave-ground old, this way, that way, be so bold."
+                                },
+                                {
+                                    "image": "/mvs4/rose/2.jpg",
+                                    "description": "Into a temple, long since lost."
+                                },
+                                {
+                                    "image": "/mvs4/rose/3.jpg",
+                                    "description": "Through the ruin, toward the Clock."
+                                },
+                                {
+                                    "image": "/mvs4/rose/4.jpg",
+                                    "description": "The past's not gone."
+                                },
+                                {
+                                    "image": "/mvs4/rose/5.jpg",
+                                    "description": "Find your spot."
+                                },
+                                {
+                                    "image": "/mvs4/rose/6.jpg",
+                                    "description": "Observe the Clock."
+                                },
+                                {
+                                    "image": "/mvs4/rose/7.jpg",
+                                    "description": "Witches' Rest."
+                                },
+                                {
+                                    "image": "/mvs4/rose/8.jpg",
+                                    "description": "Camper's Tent."
+                                },
+                                {
+                                    "image": "/mvs4/rose/9.jpg",
+                                    "description": "Tavern Quests."
+                                },
+                                {
+                                    "image": "/mvs4/rose/10.jpg",
+                                    "description": "Potions Test."
+                                },
+                                {
+                                    "image": "/mvs4/rose/11.jpg",
+                                    "description": "To me, my tree-friends."
+                                },
+                                {
+                                    "image": "/mvs4/rose/12.jpg",
+                                    "description": "Storyteller's Nest."
+                                },
+                                {
+                                    "image": "/mvs4/rose/13.jpg",
+                                    "description": "Voting Block."
+                                }
+                            ]
+
                         }
                     ]
                 }
