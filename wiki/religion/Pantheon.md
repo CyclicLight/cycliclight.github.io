@@ -32,6 +32,7 @@ An incomplete list of Null Gods:
 | Erebon   | Death, Necromancy  | Necromancers, Murderers | Child of Moern |
 | Clyde    | ???                | The Church of Clyde     | Insanity       |
 | The Frog Lord | ???           | ???                     | ???            |
+| Cecille | Light | ??? | Daughter of Hemos |
 
 ### Polytheism
 
