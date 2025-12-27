@@ -21,5 +21,17 @@
     "status": "Active",
     "kind": "Druid Circle",
     "leaders": "Archdruid Aegaros & Archdruid Faewynn"
+  },
+  {
+    "name": "Sternbough",
+    "status": "Active",
+    "kind": "Clan",
+    "leaders": "???"
+  },
+  {
+    "name": "Greygong",
+    "status": "Extinct",
+    "kind": "Clan",
+    "leaders": "None"
   }
 ]

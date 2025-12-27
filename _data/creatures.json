@@ -169,11 +169,20 @@
   {
     "name": "Vampire",
     "kind": "mutation",
-    "short_desc": "Blood-drinking agents of the World-Eater.",
+    "short_desc": "Blood-drinking wanderers of the night, raised in undeath to serve the World-Eater.",
     "long_desc": "",
     "classification": "Undead",
     "origin": "The World-Eater",
     "lifespan": "Eternal"
+  },
+  {
+    "name": "Werewolf",
+    "kind": "mutation",
+    "short_desc": "Changed by the full light of the Daughter, a curse of rage.",
+    "long_desc": "",
+    "classification": "Monstrosity",
+    "origin": "The Daughter",
+    "lifespan": "Normal for species"
   },
   {
     "name": "Demonspawn",

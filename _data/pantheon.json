@@ -29,7 +29,13 @@
       }
     ],
     "affiliation": "The Shards",
-    "table_class": "spanTall dark"
+    "table_class": "spanTall dark",
+    "followers": [
+      {
+        "name": "Scribes of Aranuo",
+        "link": "/factions/scribes-of-aranuo"
+      }
+    ]
   },
   {
     "name": "Arthera",
@@ -47,7 +53,13 @@
       }
     ],
     "affiliation": "The Shards",
-    "table_class": "deityLeftBorder"
+    "table_class": "deityLeftBorder",
+    "followers": [
+      {
+        "name": "Viridescent Vigil",
+        "link": "/factions/viridescent-vigil"
+      }
+    ]
   },
   {
     "name": "Alai",
@@ -65,7 +77,12 @@
       }
     ],
     "affiliation": "The Shards",
-    "table_class": "deityLeftBorder dark"
+    "table_class": "deityLeftBorder dark",
+    "followers": [
+      {
+        "name": "Sanctuary"
+      }
+    ]
   },
   {
     "name": "Arum",
