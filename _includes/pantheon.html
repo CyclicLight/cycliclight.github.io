@@ -9,7 +9,8 @@
     {% for deity in site.data.pantheon %} {% if deity.table_class %}
     <div class="{{deity.table_class}}">
         <a href="{{deity.name | downcase | slugify}}"
-            >{{deity.name}}, {{deity.subname}}</a
+            >{{deity.name}}{% if deity.subname %}, {{deity.subname}}{% endif
+            %}</a
         >
         <div class="deityDescription">{{deity.domains}}</div>
     </div>

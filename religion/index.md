@@ -28,7 +28,7 @@ Sometimes referred to as **Null Gods**, the minor deities are not creations of t
   <tr>
     <td>
         <a href="{{deity.name | downcase | slugify}}"
-            >{{deity.name}}, {{deity.subname}}</a
+            >{{deity.name}}{% if deity.subname %}, {{deity.subname}}{% endif %}</a
         >
     </td>
         <td>{{deity.domains}}</td>
