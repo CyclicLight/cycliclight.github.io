@@ -11,6 +11,12 @@
     "kind": "Religious Organisation"
   },
   {
+    "name": "Scribes of Aranuo",
+    "status": "Active",
+    "kind": "Religious Organisation",
+    "leaders": "Council"
+  },
+  {
     "name": "Viridescent Vigil",
     "status": "Active",
     "kind": "Druid Circle",

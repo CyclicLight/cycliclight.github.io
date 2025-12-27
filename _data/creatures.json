@@ -1,6 +1,7 @@
 [
   {
     "name": "Elf",
+    "kind": "sentient",
     "short_desc": "Created to watch over the surface.",
     "lineages": [
       {
@@ -22,6 +23,7 @@
   },
   {
     "name": "Dwarf",
+    "kind": "sentient",
     "short_desc": "Rocky, rich in minerals. Created to watch over the underground.",
     "lineages": [
       {
@@ -37,6 +39,7 @@
   },
   {
     "name": "Dragon",
+    "kind": "sentient",
     "short_desc": "Large, scaled & bewinged, mighty & temperamental. Amongst the oldest creatures walking the world.",
     "lineages": [
       {
@@ -58,6 +61,7 @@
   },
   {
     "name": "Dragonborn",
+    "kind": "sentient",
     "short_desc": "Smaller & flightless but sturdy & as tempermental as their creators.",
     "lineages": [
       {
@@ -79,6 +83,7 @@
   },
   {
     "name": "Aasimar",
+    "kind": "sentient",
     "short_desc": "Marble-skinned, winged, forged by divine hands, assistants to the Shards.",
     "long_desc": "The Aasimar are humanoid creatures forged by Hemos with a connection to the <i>Font of Divinity</i> from which their innate magics are derived. They were made to assist the Shards, travelling the world & ensuring it was safe from threats beyond & within.",
     "lineages": [
@@ -97,6 +102,7 @@
   },
   {
     "name": "Birdfolk",
+    "kind": "sentient",
     "short_desc": "Bipedal birds.",
     "long_desc": "Created in 'cooperation' between Hemos & Loh, the Birdfolk are birdlike humanoids covered in feathers with clawed three pointed extremities.",
     "lineages": [
@@ -115,6 +121,7 @@
   },
   {
     "name": "Goblin",
+    "kind": "sentient",
     "short_desc": "Green, Aquamarine, Thin, Wide, Tall, Short, *Long-eared*.",
     "long_desc": "Goblinoids are not truly a singular species, born from the alchemical <i>Goblin Concoction</i>, they are as twice as varied and twice as mad as most others. While typically small, green, and pointy-eared, their construction gives way to all manners of mutations & colourations.",
     "lineages": [
@@ -129,6 +136,7 @@
   },
   {
     "name": "Gnome",
+    "kind": "sentient",
     "short_desc": "Short, cunning.",
     "long_desc": "The origins of gnomes are veiled in mystery, though the more common theories include disagreements between Alai & Arum following the creation of dwarves. Following this gnomes were either Alai's own lineage without Arum's influence or her improved mold.",
     "lineages": [
@@ -145,15 +153,35 @@
   },
   {
     "name": "Halfling",
+    "kind": "sentient",
     "short_desc": "Medium-short.",
     "long_desc": "",
     "lineages": [
       {
-        "name": "Halfling"
+        "name": "Halfling",
+        "long_desc": "No one quite knows where halflings came from."
       }
     ],
     "classification": "Humanoid",
     "origin": "???",
     "lifespan": "300-400 years"
+  },
+  {
+    "name": "Vampire",
+    "kind": "mutation",
+    "short_desc": "Blood-drinking agents of the World-Eater.",
+    "long_desc": "",
+    "classification": "Undead",
+    "origin": "The World-Eater",
+    "lifespan": "Eternal"
+  },
+  {
+    "name": "Demonspawn",
+    "kind": "mutation",
+    "short_desc": "Half-demons, born or infected.",
+    "long_desc": "",
+    "classification": "Demon",
+    "origin": "Varying",
+    "lifespan": "Normal for species"
   }
 ]
