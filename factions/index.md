@@ -23,7 +23,7 @@ title: Factions
       {% assign header = faction.kind %}
     {% endif %}
     <tr>
-      <td><a href="{{faction.name|downcase}}">{{faction.name}}</a></td>
+      <td><a href="{{faction.name | downcase | slugify}}">{{faction.name}}</a></td>
       <td>{{faction.status}}</td>
     </tr>
     {% endfor %}

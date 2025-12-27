@@ -27,7 +27,7 @@ Sometimes referred to as **Null Gods**, the minor deities are not creations of t
 {% for deity in site.data.pantheon %} {% unless deity.table_class %}
   <tr>
     <td>
-        <a href="{{deity.name | downcase}}"
+        <a href="{{deity.name | downcase | slugify}}"
             >{{deity.name}}, {{deity.subname}}</a
         >
     </td>

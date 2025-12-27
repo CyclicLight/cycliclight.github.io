@@ -25,7 +25,7 @@ title: Creatures
 
     {% for creature in site.data.creatures %}
     <tr>
-      <td><a href="{{creature.name|downcase}}">{{creature.name}}</a></td>
+      <td><a href="{{creature.name | downcase | slugify}}">{{creature.name}}</a></td>
       <td>{{creature.short_desc}}</td>
       <td>{% for lineage in creature.lineages %}
         {{lineage.name}}{% unless forloop.last %}, {% endunless %}

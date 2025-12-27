@@ -1,3 +1,5 @@
+require 'jekyll'
+
 module Jekyll
   class GenerateFactionPages < Generator
     safe true
@@ -18,7 +20,8 @@ module Jekyll
       @site = site
       @base = base
       @dir = File.join('factions')
-      @name = "#{faction['name'].downcase}.html"
+      slug = Jekyll::Utils.slugify(faction['name'])
+      @name = "#{slug}.html"
 
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'faction.md')

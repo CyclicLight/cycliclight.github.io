@@ -119,12 +119,13 @@
     "long_desc": "Goblinoids are not truly a singular species, born from the alchemical <i>Goblin Concoction</i>, they are as twice as varied and twice as mad as most others. While typically small, green, and pointy-eared, their construction gives way to all manners of mutations & colourations.",
     "lineages": [
       {
-        "name": "Endless"
+        "name": "Endless",
+        "long_desc": "Owing to the unstable nature of their origins Goblin lineages are near impossible to categorize. Every tribe & individual may vary greatly from the next, depending on the exact ingredients of their making."
       }
     ],
     "classification": "Construct (Goblinoid)",
     "origin": "Mortal Alchemy",
-    "lifespan": "20-60 years (Mutation dependent)"
+    "lifespan": "20 - ??? years (Mutation dependent)"
   },
   {
     "name": "Gnome",

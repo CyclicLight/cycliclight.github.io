@@ -47,7 +47,7 @@ layout: default
                         <td>
                             {% for follower in page.followers %} {% if
                             follower.link %}
-                            <a href="{{follower.link}}">
+                            <a href="{{follower.link | slugify}}">
                                 <i>{{follower.name}}</i></a
                             >
                             {% else %} <i>{{follower.name}}</i> {% endif %}{%

@@ -112,7 +112,8 @@
     "table_class": "dark",
     "followers": [
       {
-        "name": "Lights' Blades"
+        "name": "Lights' Blades",
+        "link": "/factions/lights-blades"
       }
     ]
   },
@@ -151,7 +152,8 @@
     "table_class": "",
     "followers": [
       {
-        "name": "Morugarde"
+        "name": "Morugarde",
+        "link": "/factions/morugarde"
       }
     ]
   },
