@@ -3,12 +3,14 @@
     "name": "Morugarde",
     "status": "Degraded",
     "kind": "Religious Organisation",
-    "leaders": "???"
+    "leaders": "??? (Currently), Highlord Krarnis (Formely), Orson Freewillow (Formerly)",
+    "quote": "The scourge of the undead once, now? There's a reason cremation's become preferable."
   },
   {
     "name": "Lights' Blades",
     "status": "Active",
-    "kind": "Religious Organisation"
+    "kind": "Religious Organisation",
+    "leaders": "High Priestess Grey"
   },
   {
     "name": "Scribes of Aranuo",
@@ -17,21 +19,32 @@
     "leaders": "Council"
   },
   {
+    "name": "Ravendraught",
+    "status": "Active",
+    "kind": "Clan",
+    "leaders": "???",
+    "quote": "Bone speakers playing at merchants. Those ravens are not simply aesthetic."
+  },
+  {
     "name": "Viridescent Vigil",
     "status": "Active",
     "kind": "Druid Circle",
-    "leaders": "Archdruid Aegaros & Archdruid Faewynn"
+    "leaders": "Archdruid Aegaros & Archdruid Faewynn",
+    "quote": "Older than most nations and among the first druids in existence. Needest thou a guide in the realm of faerie, they are it."
   },
   {
     "name": "Sternbough",
     "status": "Active",
     "kind": "Clan",
-    "leaders": "???"
+    "leaders": "???",
+    "quote": "At journey's end, he found it, home, beyond the Mountain of Eld.",
+    "quote_speaker": "Memoirs of Sire Sternbough"
   },
   {
     "name": "Greygong",
     "status": "Extinct",
     "kind": "Clan",
-    "leaders": "None"
+    "leaders": "None",
+    "quote": "Their fault was the same as any of our kind, they dug too deep."
   }
 ]

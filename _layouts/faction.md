@@ -11,7 +11,8 @@ layout: default
 >
     <div>
         {% if page.quote %}
-        <i>"{{page.quote}}"</i>
+        <i>"{{page.quote}}"
+        {% if page.quote_speaker %} - {{page.quote_speaker}}{% endif %}</i>
         {% endif %}
     
         {{page.long_desc}}

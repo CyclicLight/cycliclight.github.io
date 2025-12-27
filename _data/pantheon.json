@@ -91,7 +91,13 @@
     "alignment": "Lawful Neutral",
     "affiliation": "The Shards",
     "quote": "He was an old soldier and that was enough to strike fear into the hearts of Eld.",
-    "table_class": ""
+    "table_class": "",
+    "relations": [
+      {
+        "deity": "Tyra",
+        "relation": "Rival"
+      }
+    ]
   },
   {
     "name": "Tyra",
@@ -103,11 +109,21 @@
       {
         "deity": "Loh",
         "relation": "Sibling"
+      },
+      {
+        "deity": "Arum",
+        "relation": "Rival"
       }
     ],
     "affiliation": "The Shards",
     "quote": "And the thunder drove them on.",
-    "table_class": "deityLeftBorder"
+    "table_class": "deityLeftBorder",
+    "followers": [
+      {
+        "name": "Ravendraught",
+        "link": "/factions/ravendraught"
+      }
+    ]
   },
   {
     "name": "Hemos",
@@ -171,6 +187,10 @@
       {
         "name": "Morugarde",
         "link": "/factions/morugarde"
+      },
+      {
+        "name": "Ravendraught",
+        "link": "/factions/ravendraught"
       }
     ]
   },
