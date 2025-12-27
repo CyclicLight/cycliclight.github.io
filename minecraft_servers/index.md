@@ -1,6 +1,6 @@
 ---
 title: Minecraft Servers
-layout: wiki-page
+layout: default
 ---
 {% for era in site.data.minecraft_servers.eras %}
 <div class="serverEra" onclick="window.location.href='{{ era.id }}'">

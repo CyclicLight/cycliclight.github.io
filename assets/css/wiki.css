@@ -1,9 +1,11 @@
 html {
     width: 100%;
-    background-image: url("/assets/images/parchment-background.jpg");
+    background-image: url("/assets/wiki/background.jpg");
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: multiply;
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: 'Source Serif Pro', serif;
+    font-family: "Source Serif Pro", serif;
 }
 body {
     padding: 5px;
@@ -11,12 +13,13 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    min-height: 95vh;
 }
 nav {
     justify-self: flex-end;
 }
 nav > a {
-    background-image: url("/assets/images/parchment-foreground.png");
+    background-image: url("/assets/wiki/background.jpg");
     background-size: auto;
     padding: 5px;
     padding-bottom: 0px;
@@ -28,7 +31,7 @@ nav > a {
 }
 nav > a:hover {
     color: rgb(92, 0, 241);
-    box-shadow: 2px 5px 3px black;
+    box-shadow: 2px 0px 3px black;
 }
 
 a {
@@ -43,34 +46,36 @@ a {
 }
 #content {
     box-sizing: border-box;
-    background-image: url("/assets/images/parchment-foreground.png");
+    background-image: url("/assets/wiki/background.jpg");
     background-size: cover;
     background-repeat: repeat-y;
-    box-shadow: 1px 35px 30px rgba(0, 0, 0, 0.339);
+    box-shadow: 1px 15px 15px rgba(0, 0, 0, 0.339);
     padding: 15px;
     margin-bottom: 5px;
     border: 1px solid;
-    border-radius: 5px;
+    border-radius: 3px;
     width: calc(100% - 50px);
     overflow: hidden;
-}
-
-.cipher {
-    max-height: 1em;
-    max-width: 90%;
+    flex: 1;
 }
 
 footer {
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    text-align: right;
+    width: calc(100% - 60px);
 }
 
 table {
-    width: 100%;
     border-spacing: 0px;
 }
 
 tbody tr:nth-child(odd) {
     background-color: rgba(0, 0, 0, 0.105);
+}
+td {
+    padding: 5px 10px;
 }
 
 img {
@@ -83,7 +88,7 @@ img {
 }
 
 .serverEra {
-    background-image: url("/assets/images/parchment-background.jpg");
+    background-image: url("/assets/wiki/foreground.png");
     background-size: auto;
     padding: 0px 10px;
     margin: 10px;
@@ -91,7 +96,7 @@ img {
     border-radius: 5px;
 }
 .serverEra:hover {
-    transform: translateX(-10.0px);
+    transform: translateX(-10px);
     transition: transform 0.2s;
     cursor: pointer;
 }
@@ -101,4 +106,43 @@ img {
 }
 .serverEra p {
     margin: 8px 0;
+}
+
+.deitiesGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.deitiesGrid > div {
+    padding: 5px;
+    font-weight: bold;
+}
+.deitiesGrid > .dark {
+    background-color: rgba(0, 0, 0, 0.105);
+}
+.deityRightBorder {
+    border-right: 1px solid black;
+}
+.deityLeftBorder {
+    border-left: 1px solid black;
+}
+.deityTopBorder {
+    border-top: 1px solid black;
+}
+.deityBottomBorder {
+    border-bottom: 1px solid black;
+}
+.deityThinRow {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.deityDescription {
+    font-style: italic;
+    font-weight: normal;
+    margin-top: 5px;
+}
+.spanWide {
+    grid-column: span 2;
+}
+.spanTall {
+    grid-row: span 2;
+    align-content: center;
 }

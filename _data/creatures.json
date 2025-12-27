@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Elf",
+    "short_desc": "Created to watch over the surface.",
+    "lineages": [
+      {
+        "name": "Arcane",
+        "long_desc": "Born of Aranou, attuned to & sensitive to the fluctuations of the Leylines."
+      },
+      {
+        "name": "Green",
+        "long_desc": "Born of Arthera, attuned to nature. The Green Elves were made to watch over the bounds of the natural world."
+      },
+      {
+        "name": "Orc",
+        "long_desc": ""
+      }
+    ],
+    "classification": "Fey",
+    "origin": "Aranou & Arthera",
+    "lifespan": "500 years"
+  },
+  {
+    "name": "Dwarf",
+    "short_desc": "Rocky, rich in minerals. Created to watch over the underground.",
+    "lineages": [
+      {
+        "name": "Stone"
+      },
+      {
+        "name": "Crag"
+      }
+    ],
+    "classification": "Elemental",
+    "origin": "Arum & Alai",
+    "lifespan": "300 years"
+  },
+  {
+    "name": "Dragon",
+    "short_desc": "Large, scaled & bewinged, mighty & temperamental. Amongst the oldest creatures walking the world.",
+    "lineages": [
+      {
+        "name": "Sphene"
+      },
+      {
+        "name": "Sapphire"
+      },
+      {
+        "name": "Ruby"
+      },
+      {
+        "name": "Quartz"
+      }
+    ],
+    "classification": "Elemental (Draconic)",
+    "origin": "The Maker",
+    "lifespan": "1000 years"
+  },
+  {
+    "name": "Dragonborn",
+    "short_desc": "Smaller & flightless but sturdy & as tempermental as their creators.",
+    "lineages": [
+      {
+        "name": "Sphene"
+      },
+      {
+        "name": "Sapphire"
+      },
+      {
+        "name": "Ruby"
+      },
+      {
+        "name": "Quartz"
+      }
+    ],
+    "classification": "Draconic",
+    "origin": "Draconic Alchemy",
+    "lifespan": "100 years"
+  },
+  {
+    "name": "Aasimar",
+    "short_desc": "Marble-skinned, winged, forged by divine hands, assistants to the Shards.",
+    "long_desc": "The Aasimar are humanoid creatures forged by Hemos with a connection to the <i>Font of Divinity</i> from which their innate magics are derived. They were made to assist the Shards, travelling the world & ensuring it was safe from threats beyond & within.",
+    "lineages": [
+      {
+        "name": "Radiant",
+        "long_desc": "The original state of the Aasimari, connected to the <i>Font of Divinity</i>. Though initially many, their numbers have dwindled to near extinction, being replaced by Humans. Rarely they are born or raised from humans."
+      },
+      {
+        "name": "Human",
+        "long_desc": "Corrupted by time or their own doing, a number of Aasimar lost their connection to the <i>Font of Divinity</i>, losing their wings & becoming humans."
+      }
+    ],
+    "classification": "Celestial",
+    "origin": "Hemos",
+    "lifespan": "1000 years (Radiant), 80 years (Human)"
+  },
+  {
+    "name": "Birdfolk",
+    "short_desc": "Bipedal birds.",
+    "long_desc": "Created in 'cooperation' between Hemos & Loh, the Birdfolk are birdlike humanoids covered in feathers with clawed three pointed extremities.",
+    "lineages": [
+      {
+        "name": "Flying",
+        "long_desc": "Born from Hemos' vision the Birdfolk had separated arms & wings, allowing them to glide but not propel themselves upward."
+      },
+      {
+        "name": "Flightless",
+        "long_desc": "Changed from their original mold by Loh, arm & wing were fused together."
+      }
+    ],
+    "classification": "Humanoid",
+    "origin": "Hemos & Loh",
+    "lifespan": "60 - 80 years"
+  },
+  {
+    "name": "Goblin",
+    "short_desc": "Green, Aquamarine, Thin, Wide, Tall, Short, *Long-eared*.",
+    "long_desc": "Goblinoids are not truly a singular species, born from the alchemical <i>Goblin Concoction</i>, they are as twice as varied and twice as mad as most others. While typically small, green, and pointy-eared, their construction gives way to all manners of mutations & colourations.",
+    "lineages": [
+      {
+        "name": "Endless"
+      }
+    ],
+    "classification": "Construct (Goblinoid)",
+    "origin": "Mortal Alchemy",
+    "lifespan": "20-60 years (Mutation dependent)"
+  },
+  {
+    "name": "Gnome",
+    "short_desc": "Short, cunning.",
+    "long_desc": "The origins of gnomes are veiled in mystery, though the more common theories include disagreements between Alai & Arum following the creation of dwarves. Following this gnomes were either Alai's own lineage without Arum's influence or her improved mold.",
+    "lineages": [
+      {
+        "name": "Wood"
+      },
+      {
+        "name": "Stone"
+      }
+    ],
+    "classification": "Humanoid",
+    "origin": "Alai",
+    "lifespan": "300-400 years"
+  },
+  {
+    "name": "Halfling",
+    "short_desc": "Medium-short.",
+    "long_desc": "",
+    "lineages": [
+      {
+        "name": "Halfling"
+      }
+    ],
+    "classification": "Humanoid",
+    "origin": "???",
+    "lifespan": "300-400 years"
+  }
+]

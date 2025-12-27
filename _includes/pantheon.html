@@ -1,0 +1,17 @@
+<div class="deitiesGrid">
+    <h4 class="deityThinRow" style="text-align: center; margin-bottom: 0px">
+        Ordered
+    </h4>
+    <h4 class="deityThinRow" style="text-align: center; margin-bottom: 0px">
+        Chaotic
+    </h4>
+
+    {% for deity in site.data.pantheon %} {% if deity.table_class %}
+    <div class="{{deity.table_class}}">
+        <a href="{{deity.name | downcase}}"
+            >{{deity.name}}, {{deity.subname}}</a
+        >
+        <div class="deityDescription">{{deity.domains}}</div>
+    </div>
+    {% endif %} {% endfor %}
+</div>

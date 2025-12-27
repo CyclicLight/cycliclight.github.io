@@ -1,5 +1,5 @@
 ---
-layout: wiki-page
+layout: default
 ---
 
 <div class="serverEra" onclick="window.location.href='/minecraft_servers'">

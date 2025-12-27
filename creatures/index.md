@@ -1,0 +1,37 @@
+---
+layout: default
+title: Creatures
+
+---
+
+## Sentient
+
+<table>
+    <th>
+        Name
+    </th>
+    <th>
+        Description
+    </th>
+    <th>
+        Sub-Lineages
+    </th>
+    <th>
+        Classification
+    </th>
+    <th>
+        Origin
+    </th>
+
+    {% for creature in site.data.creatures %}
+    <tr>
+      <td><a href="{{creature.name|downcase}}">{{creature.name}}</a></td>
+      <td>{{creature.short_desc}}</td>
+      <td>{% for lineage in creature.lineages %}
+        {{lineage.name}}{% unless forloop.last %}, {% endunless %}
+      {% endfor %}</td>
+      <td>{{creature.classification}}</td>
+      <td>{{creature.origin}}</td>
+    </tr>
+    {% endfor %}
+</table>

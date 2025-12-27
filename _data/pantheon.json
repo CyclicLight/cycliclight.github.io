@@ -1,0 +1,227 @@
+[
+  {
+    "name": "The Maker",
+    "domains": "Creation, Reality",
+    "alignment": "Lawful Good",
+    "quote": "And from themselves, they broke off shards, each granted a domain & part in shaping the world.",
+    "table_class": "dark deityThinRow"
+  },
+  {
+    "name": "The World-Eater",
+    "domains": "Destruction, Void",
+    "alignment": "Chaotic Evil",
+    "table_class": "deityLeftBorder deityTopBorder dark deityThinRow",
+    "quote": "Throw wide the ordered gates."
+  },
+  {
+    "name": "Aranou",
+    "subname": "Lord of the Arcane",
+    "domains": "Arcana, Knowledge, Study",
+    "alignment": "Lawful Neutral",
+    "relations": [
+      {
+        "deity": "Arthera",
+        "relation": "Sister"
+      },
+      {
+        "deity": "Alai",
+        "relation": "Lover"
+      }
+    ],
+    "affiliation": "The Shards",
+    "table_class": "spanTall dark"
+  },
+  {
+    "name": "Arthera",
+    "subname": "Warden of the Green",
+    "domains": "Nature, Cycle of Life",
+    "alignment": "Chaotic Good",
+    "relations": [
+      {
+        "deity": "Aranou",
+        "relation": "Brother"
+      },
+      {
+        "deity": "Alai",
+        "relation": "Lover"
+      }
+    ],
+    "affiliation": "The Shards",
+    "table_class": "deityLeftBorder"
+  },
+  {
+    "name": "Alai",
+    "subname": "Ingenuity Incarnate",
+    "domains": "Invention, Knowledge, Mystery",
+    "alignment": "Chaotic Neutral",
+    "relations": [
+      {
+        "deity": "Aranou",
+        "relation": "Lover"
+      },
+      {
+        "deity": "Arthera",
+        "relation": "Lover"
+      }
+    ],
+    "affiliation": "The Shards",
+    "table_class": "deityLeftBorder dark"
+  },
+  {
+    "name": "Arum",
+    "subname": "Father of Battle",
+    "domains": "Honor, Warfare",
+    "alignment": "Lawful Neutral",
+    "affiliation": "The Shards",
+    "quote": "He was an old soldier and that was enough to strike fear into the hearts of Eld.",
+    "table_class": ""
+  },
+  {
+    "name": "Tyra",
+    "subname": "The Storm",
+    "tittle": "The Storm",
+    "domains": "Storms, Warfare",
+    "alignment": "Chaotic Good",
+    "relations": [
+      {
+        "deity": "Loh",
+        "relation": "Sibling"
+      }
+    ],
+    "affiliation": "The Shards",
+    "quote": "And the thunder drove them on.",
+    "table_class": "deityLeftBorder"
+  },
+  {
+    "name": "Hemos",
+    "subname": "Light's Herald",
+    "domains": "Light",
+    "alignment": "Lawful Neutral",
+    "relations": [
+      {
+        "deity": "Loh",
+        "relation": "Rival"
+      },
+      {
+        "deity": "Cecille",
+        "relation": "Daughter"
+      }
+    ],
+    "affiliation": "The Shards",
+    "quote": "An ever-burning blade cuts through the darkest night, his blade, our faith.",
+    "table_class": "dark",
+    "followers": [
+      {
+        "name": "Lights' Blades"
+      }
+    ]
+  },
+  {
+    "name": "Loh",
+    "subname": "The Bard",
+    "domains": "Stories, Mischief",
+    "alignment": "Neutral",
+    "relations": [
+      {
+        "deity": "Tyra",
+        "relation": "Sister"
+      },
+      {
+        "deity": "Hemos",
+        "relation": "Rival"
+      }
+    ],
+    "affiliation": "The Shards",
+    "quote": "Ever-shifting, ever-changing, they came to me and I heard song.",
+    "table_class": "deityLeftBorder dark"
+  },
+  {
+    "name": "Moern",
+    "subname": "Lord of Graves",
+    "domains": "Graves, Cycle of Life",
+    "alignment": "Lawful Neutral",
+    "affiliation": "The Shards",
+    "quote": "And when all was over, in the fields stood a figure encloaked in silver, wielding a shepherds crook. A single bell rang, and they passed on.",
+    "relations": [
+      {
+        "deity": "Erebon",
+        "relation": "Son"
+      }
+    ],
+    "table_class": "",
+    "followers": [
+      {
+        "name": "Morugarde"
+      }
+    ]
+  },
+  {
+    "name": "Pria",
+    "subname": "Lady of Life",
+    "domains": "Life, Cycle of Life",
+    "alignment": "Chaotic Good",
+    "affiliation": "The Shards",
+    "quote": "All life is chaos, you can not tame it. It must be given the chance to grow.",
+    "table_class": "deityLeftBorder"
+  },
+  {
+    "name": "Caelon",
+    "subname": "Fallen Lord of Peace",
+    "domains": "Peace",
+    "alignment": "Lawful Good",
+    "affiliation": "The Shards",
+    "quote": "I heard him once, a century past, before the end. A hymn carried by the winds, it brought me home.",
+    "table_class": "deityBottomBorder dark"
+  },
+  {
+    "name": "The Daughter",
+    "subname": "Of the Broken Moon",
+    "domains": "Moon, Twilight",
+    "alignment": "Chaotic ???",
+    "affiliation": "The Shards",
+    "quote": "Do you not believe in hope? Even in the dark, there is a moon.",
+    "table_class": "deityLeftBorder deityThinRow dark"
+  },
+  {
+    "name": "Erebon",
+    "subname": "The Netherghoul",
+    "domains": "Death, Necromancy",
+    "alignment": "Chaotic Evil",
+    "affiliation": "None",
+    "quote": "He is as much a child of the hells as of the grave, this offer of his has a price.",
+    "relations": [
+      {
+        "deity": "Moern",
+        "relation": "Father"
+      }
+    ]
+  },
+  {
+    "name": "Clyde",
+    "subname": "The Mad",
+    "domains": "Madness",
+    "alignment": "Chaotic Neutral",
+    "affiliation": "None"
+  },
+  {
+    "name": "Frug",
+    "subname": "The Frog Lord",
+    "domains": "Swamplands",
+    "alignment": "Chaotic Evil",
+    "affiliation": "None",
+    "quote": "Trust not the Croaker, he only hungers."
+  },
+  {
+    "name": "Cecille",
+    "subname": "Daughter of Light",
+    "domains": "Light",
+    "alignment": "Good",
+    "affiliation": "Hemos",
+    "relations": [
+      {
+        "deity": "Hemos",
+        "relation": "Father"
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Morugarde",
+    "status": "Degraded",
+    "kind": "Religious Organisation",
+    "leaders": "???"
+  },
+  {
+    "name": "Lights' Blades",
+    "status": "Active",
+    "kind": "Religious Organisation"
+  },
+  {
+    "name": "Viridescent Vigil",
+    "status": "Active",
+    "kind": "Druid Circle",
+    "leaders": "Archdruid Aegaros & Archdruid Faewynn"
+  }
+]

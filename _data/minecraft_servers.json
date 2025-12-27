@@ -1,1325 +1,1321 @@
 {
-    "eras": [
+  "eras": [
+    {
+      "id": "precanon",
+      "era_name": "Pre-Canon Era",
+      "start_date": "Q1 2020",
+      "end_date": "Spring 2020",
+      "commentary": "Before the idea of a canon was established.",
+      "servers": [
         {
-            "id": "precanon",
-            "era_name": "Pre-Canon Era",
-            "start_date": "Q1 2020",
-            "end_date": "Spring 2020",
-            "commentary": "Before canon became a thing.",
-            "servers": [
-                {
-                    "title": "Alexland",
-                    "minecraft_version": "1.15 (Unverified)",
-                    "start_date": "Spring 2020",
-                    "end_date": "Spring 2020",
-                    "modpack_name": "N/A",
-                    "canonized_location": "Non-Canon",
-                    "canon_date": "N/A",
-                    "comment": "This was a vanilla server made before any sort of lore had started popping into my head. T'was a fun time, but it was short-lived."
-                }
-            ]
-        },
-        {
-            "id": "sober",
-            "era_name": "Sober Era",
-            "start_date": "Spring 2020",
-            "end_date": "Summer 2020",
-            "commentary": "Nonsensical mostly, but laid the foundations for the current lore.",
-            "servers": [
-                {
-                    "title": "Camelot",
-                    "minecraft_version": "1.15 (Unverified)",
-                    "modpack_name": "???",
-                    "start_date": "Spring 2020",
-                    "end_date": "Spring 2020",
-                    "canonized_location": "Unknown Prime Cycle Continent",
-                    "canon_date": "The Prime Cycle",
-                    "comment": "First modded server. The dawn of lore. Much of what was considered lore here has been reworked/retconned. It featured the Minecolonies mod.",
-                    "screenshots": [
-                        {
-                            "group_name": "Camelot",
-                            "group_description": "A MineColony near the spawn. I was up very late many nights trying to make it work. Recruited a couple of knights to dig out mountains.",
-                            "images": [
-                                {
-                                    "image": "/camelot/OldCamelot.jpg",
-                                    "description": "The original camelot area."
-                                },
-                                {
-                                    "image": "/camelot/FirstEraEndCamelot.PNG",
-                                    "description": "Map of Camelot at the end of the server."
-                                },
-                                {
-                                    "image": "/camelot/Camelot.png",
-                                    "description": "A painted over map of the original districts."
-                                },
-                                {
-                                    "image": "/camelot/CamelotV3.png",
-                                    "description": "A painted over map of an unifinished expansion. Version 3."
-                                },
-                                {
-                                    "image": "/camelot/MapOfcamelot.png",
-                                    "description": "Full Map."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "World Map",
-                            "group_description": "World map as assembled by MythicEl. This is 47 MB.",
-                            "images": [
-                                {
-                                    "image": "/camelot/MC_HD_Map.jpg",
-                                    "description": "A big world map."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Lore Preview",
-                            "group_description": "Originally an imgur album meant to tease future ideas. Most things were never implemented.",
-                            "images": [
-                                {
-                                    "image": "/camelot/FirstEra.png",
-                                    "description": "The timeline for the first weeks of the server.."
-                                },
-                                {
-                                    "image": "/camelot/FirstEra1.png",
-                                    "description": "..."
-                                },
-                                {
-                                    "image": "/camelot/FirstEra2.png",
-                                    "description": "..."
-                                },
-                                {
-                                    "image": "/camelot/FirstEra3.png",
-                                    "description": "..."
-                                },
-                                {
-                                    "image": "/camelot/FirstEra5v3.png",
-                                    "description": "V3 of this image."
-                                },
-                                {
-                                    "image": "/camelot/FirstEraFinal.png",
-                                    "description": "..."
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "Sanctuary & Destruction",
-                    "modpack_name": "World of Disappointment",
-                    "minecraft_version": "1.16 (Unverified)",
-                    "start_date": "May 2020",
-                    "end_date": "June 2020",
-                    "canonized_location": "Unknown Shadow Cycle Continent",
-                    "canon_date": "The Shadow Cycle",
-                    "comment": "Second modded server. Lore was forming here. The originally story followed millenias after the Camelot server though altering it's end to failing to defeat the Ender Dragon.",
-                    "screenshots": [
-                        {
-                            "group_name": "Sanctuary Spawn Town",
-                            "group_description": "There was an effort to have a spawn town on this server. It worked out very well.",
-                            "images": [
-                                {
-                                    "image": "/sanctuary/SpawnTown.jpg",
-                                    "description": "The spawn town."
-                                },
-                                {
-                                    "image": "/sanctuary/Nightingale.jpg",
-                                    "description": "The Nightingale Inn. It actually had a secret tunnel for vampires."
-                                },
-                                {
-                                    "image": "/sanctuary/ElAxe.jpg",
-                                    "description": "An axe."
-                                },
-                                {
-                                    "image": "/sanctuary/LastKnightsTower.jpg",
-                                    "description": "Tower belonging to the Last Knights of Camelot."
-                                },
-                                {
-                                    "image": "/sanctuary/CommunityChanter.jpg",
-                                    "description": "Community Enchanting hall."
-                                },
-                                {
-                                    "image": "/sanctuary/VLavaCave.jpg",
-                                    "description": "The Vampire Lava Cave, this is where the Nightingale Inn's secret tunnel led."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Vampire Castle",
-                            "group_description": "The inpeneterable castle.",
-                            "images": [
-                                {
-                                    "image": "/sanctuary/VCastle1.jpg",
-                                    "description": "Outside, it was never finished."
-                                },
-                                {
-                                    "image": "/sanctuary/VCastle2.jpg",
-                                    "description": "Inside corridors. It was very spooky."
-                                },
-                                {
-                                    "image": "/sanctuary/VCastle3.jpg",
-                                    "description": "Armory?."
-                                },
-                                {
-                                    "image": "/sanctuary/VCastle4.jpg",
-                                    "description": "The room to the right is the armory."
-                                },
-                                {
-                                    "image": "/sanctuary/VCastle5.jpg",
-                                    "description": "I think this was a bedroom?"
-                                },
-                                {
-                                    "image": "/sanctuary/VCastle6.jpg",
-                                    "description": "Maybe an office?"
-                                },
-                                {
-                                    "image": "/sanctuary/VCastleLower1.jpg",
-                                    "description": "Lower entrance to the castle. From the orchard."
-                                },
-                                {
-                                    "image": "/sanctuary/VCastleLower2.jpg",
-                                    "description": "Storage room in the basement."
-                                },
-                                {
-                                    "image": "/sanctuary/VCastleLower3.jpg",
-                                    "description": "Further back from the Orchard."
-                                },
-                                {
-                                    "image": "/sanctuary/VCastleHeart.jpg",
-                                    "description": "Across the water, the Heart Statue."
-                                },
-                                {
-                                    "image": "/sanctuary/VCastleTree.jpg",
-                                    "description": "Unfinished giant tree."
-                                },
-                                {
-                                    "image": "/sanctuary/VCastleManor.jpg",
-                                    "description": "Across the water, the manor by Ed."
-                                },
-                                {
-                                    "image": "/sanctuary/VampireWarning.jpg",
-                                    "description": "A good thing to remember."
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "drunken",
-            "era_name": "Drunken Era",
-            "start_date": "January 2021",
-            "end_date": "Spring 2022",
-            "commentary": "Under a new guild, lore development prospered. This era was where the lore really began to connect.",
-            "servers": [
-                {
-                    "title": "Valhelsia 3",
-                    "minecraft_version": "1.16",
-                    "modpack_name": "Valhelsia 3",
-                    "start_date": "January 2021",
-                    "end_date": "April 2021",
-                    "canonized_location": "First Cycle Continent",
-                    "canon_date": "First Cycle",
-                    "comment": "One of the few pre-made modpacks.",
-                    "screenshots": [
-                        {
-                            "group_name": "Spawn Area",
-                            "group_description": "The world of the Prime Cycle.",
-                            "images": [
-                                {
-                                    "image": "/valhelsia/EEPandaPit.jpg",
-                                    "description": "The Panda Pit."
-                                },
-                                {
-                                    "image": "/valhelsia/SpawnArea1.jpg",
-                                    "description": "Maddening Castle"
-                                },
-                                {
-                                    "image": "/valhelsia/EEPandaPit2.jpg",
-                                    "description": "Another view of the Panda pit."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Wheat",
-                            "group_description": "My first goal on this server was to acquire 1 000 stacks of wheat. I did it twice because I accidentally deleted the first barrel...",
-                            "images": [
-                                {
-                                    "image": "/valhelsia/Wheat1.jpg",
-                                    "description": "1000 stacks of wheat in a barrel."
-                                },
-                                {
-                                    "image": "/valhelsia/WheatMap.png",
-                                    "description": "A work in progress overhead map screenshot of the farm."
-                                },
-                                {
-                                    "image": "/valhelsia/Wheat2.jpg",
-                                    "description": "It initally started with the field ring but that was too slow and eventually the big square was built."
-                                },
-                                {
-                                    "image": "/valhelsia/WorstMistakeOfMyLife.PNG",
-                                    "description": "The worst mistake of my life was deleting the barrel."
-                                },
-                                {
-                                    "image": "/valhelsia/Wheat3.jpg",
-                                    "description": "Riding the Wheat machine."
-                                },
-                                {
-                                    "video": "mk1-AhNeTGM",
-                                    "description": "Harvesting the wheat square.."
-                                },
-                                {
-                                    "image": "/valhelsia/Wheat4.png",
-                                    "description": "Couldn't handle the wheat."
-                                },
-                                {
-                                    "image": "/valhelsia/GodOfWheat.jpg",
-                                    "description": "I became slightly mad with power."
-                                },
-                                {
-                                    "image": "/valhelsia/WheatEpilogue.jpg",
-                                    "description": "When it was over, I published a news page about it."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "The Knighthold",
-                            "group_description": "Occupied a Stronghold, turned it into the Knighthold. This place is very lore and reappeared in the Artifact Adventures.",
-                            "images": [
-                                {
-                                    "image": "/valhelsia/KnightholdEntrance.jpg",
-                                    "description": "The unceremonious entrance to the Knighthold."
-                                },
-                                {
-                                    "image": "/valhelsia/Knighthold1.jpg",
-                                    "description": "The Knight Hold center in the first moments of moving in, shortly after the Wheat project finished."
-                                },
-                                {
-                                    "image": "/valhelsia/Knighthold2.jpg",
-                                    "description": "Fountain cleared up."
-                                },
-                                {
-                                    "image": "/valhelsia/Knighthold3.jpg",
-                                    "description": "Portal Room, it was never opened on this server. It did set off lore though and the ideas for it's opening were used for the Artifact Adventures."
-                                },
-                                {
-                                    "image": "/valhelsia/Knighthold4.jpg",
-                                    "description": "Many signs were necessary for people to navigate."
-                                },
-                                {
-                                    "image": "/valhelsia/Knighthold5.jpg",
-                                    "description": "Library & Villager trading hall."
-                                },
-                                {
-                                    "image": "/valhelsia/Knighthold6.jpg",
-                                    "description": "The vaults was well, vaults. Anything not put into apartments went here for storage."
-                                },
-                                {
-                                    "image": "/valhelsia/Knighthold7.jpg",
-                                    "description": "An empty vault."
-                                },
-                                {
-                                    "image": "/valhelsia/Knighthold8.jpg",
-                                    "description": "The entrance ladder & portal into the Knighthold (seen from the inside)"
-                                },
-                                {
-                                    "image": "/valhelsia/Knighthold9.jpg",
-                                    "description": "The cleaned up fountain/entrance chamber from before. The portal room is referred to as 'The Veil-Portal', later in lore it's called a Gate."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "The Railroad",
-                            "group_description": "A 1600 block railroad with a CREATE mod train. This was before actual train track was added to CREATE.",
-                            "images": [
-                                {
-                                    "image": "/valhelsia/RailroadMachine.png",
-                                    "description": "The machine used to build the railroad."
-                                },
-                                {
-                                    "video": "177M_61fgMY",
-                                    "description": "Railroad building machine."
-                                },
-                                {
-                                    "image": "/valhelsia/Railroad1.jpg",
-                                    "description": "Knighthold-side station."
-                                },
-                                {
-                                    "image": "/valhelsia/Railroad2.jpg",
-                                    "description": "Spawn-side station. It was right over the hill from the Wheat field."
-                                },
-                                {
-                                    "image": "/valhelsia/Railroad3.jpg",
-                                    "description": "Path through the mountain."
-                                },
-                                {
-                                    "image": "/valhelsia/Railroad4.png",
-                                    "description": "The train in the world (Knighthold station)"
-                                },
-                                {
-                                    "image": "/valhelsia/RailroadMap.jpg",
-                                    "description": "Map covering the part of the world the railroad would travel."
-                                },
-                                {
-                                    "image": "/valhelsia/RidingTrain.jpg",
-                                    "description": "Map covering the part of the world the railroad would travel."
-                                },
-                                {
-                                    "video": "TmP8raI5evk",
-                                    "description": "Insdie the train on a creative world."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "The Imperial Pyramid",
-                            "group_description": "Locations on the Imperial Continent. The birth of imperialism. There was a computer vault beneath it accesibly only by waystone. This was the final project on the server.",
-                            "images": [
-                                {
-                                    "image": "/valhelsia/Pyramid1.jpg",
-                                    "description": "The Imperial Pyramid."
-                                },
-                                {
-                                    "image": "/valhelsia/Pyramid2.jpg",
-                                    "description": "The Farming Floor."
-                                },
-                                {
-                                    "image": "/valhelsia/Pyramid3.jpg",
-                                    "description": "Farming floor finished."
-                                },
-                                {
-                                    "image": "/valhelsia/Pyramid4.jpg",
-                                    "description": "Three levels done."
-                                },
-                                {
-                                    "image": "/valhelsia/Pyramid5.jpg",
-                                    "description": "Outside Complete."
-                                },
-                                {
-                                    "image": "/valhelsia/Pyramid6.jpg",
-                                    "description": "First floor hallway. The side rooms were filled with machines."
-                                },
-                                {
-                                    "image": "/valhelsia/Pyramid7.jpg",
-                                    "description": "Top floor done."
-                                },
-                                {
-                                    "image": "/valhelsia/Pyramid8.jpg",
-                                    "description": "The Vault."
-                                },
-                                {
-                                    "image": "/valhelsia/Pyramid9.png",
-                                    "description": "Floor 3: Armory, Brewery, & Weaponry."
-                                },
-                                {
-                                    "image": "/valhelsia/Pyramid10.jpg",
-                                    "description": "Top Floor: Museum with scaled down models of my builds."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Project Teaser Trailer",
-                            "group_description": "Though originally a teaser for Drunken Dragon 2 (which never happened), it uses footage from the Valhelsia server which isn't represented in any screenshots.",
-                            "images": [
-                                {
-                                    "video": "yxkUgHbBOZo",
-                                    "description": "Trailer edited by MythicEl. A conversation between an engineer & a knight at the end of the First Cycle."
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "The Undercity",
-                    "minecraft_version": "1.16",
-                    "modpack_name": "DrunkenDruidSMP 1.16.5",
-                    "start_date": "April 2021",
-                    "end_date": "June 2021",
-                    "canonized_location": "Second Cycle Continent",
-                    "canon_date": "Second Cycle",
-                    "comment": "At this point there was an underlyind narrative being woven through the servers. This Cycle was meant to be another dark one, setting a sort of tick-tock pattern. People were forced underground.",
-                    "screenshots": [
-                        {
-                            "group_name": "The Undercity",
-                            "group_description": "The main city where most of the players lived. A series of Underground corridors (this inspired the Stoneholm mod)",
-                            "images": [
-                                {
-                                    "image": "/undercity/Undercity1.jpg",
-                                    "description": "The above ground view of the Undercity."
-                                },
-                                {
-                                    "image": "/undercity/Undercity2.jpg",
-                                    "description": "Museum, it held a map of the spawn area and random relics."
-                                },
-                                {
-                                    "image": "/undercity/Undercity3.jpg",
-                                    "description": "One corridor. The closest opening to the left is the ladder down. Next opening was the market place."
-                                },
-                                {
-                                    "image": "/undercity/Undercity4.jpg",
-                                    "description": "The second gate called 'Epcot'. It was at the far end of the previous corridor."
-                                },
-                                {
-                                    "image": "/undercity/Undercity5.jpg",
-                                    "description": "The Fish Emporium in the market place. It was ran by a fish."
-                                },
-                                {
-                                    "image": "/undercity/Undercity6.jpg",
-                                    "description": "Stylish Mooshroom in their home."
-                                },
-                                {
-                                    "image": "/undercity/Undercity7.jpg",
-                                    "description": "The community warehouse, it was meant to be a shared storage area where anyone could leave or take items."
-                                },
-                                {
-                                    "image": "/undercity/Undercity8.jpg",
-                                    "description": "Rat infestation at the restaurant."
-                                },
-                                {
-                                    "image": "/undercity/Undercity9.jpg",
-                                    "description": "The finished restaurant, Le Pomme de Terre. It sold potatoes."
-                                },
-                                {
-                                    "image": "/undercity/Undercity10.jpg",
-                                    "description": "A very tall sandwich. It was later displayed as a relic in the museum."
-                                },
-                                {
-                                    "image": "/undercity/Undercity11.jpg",
-                                    "description": "Updated museum."
-                                },
-                                {
-                                    "image": "/undercity/Undercity12.jpg",
-                                    "description": "Donut County Cafe. A few steps into the corridor."
-                                },
-                                {
-                                    "image": "/undercity/Syndicate.jpg",
-                                    "description": "An evil group, doing evil things."
-                                },
-                                {
-                                    "image": "/undercity/Syndicate2.jpg",
-                                    "description": "I don't know what these signs mean anymore. But the evil group was working for the World-Eater."
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "Vanilla Server",
-                    "minecraft_version": "1.17",
-                    "modpack_name": "N/A",
-                    "start_date": "June 2021",
-                    "end_date": "June 2021",
-                    "canonized_location": "Third Cycle Continent",
-                    "canon_date": "Third Cycle",
-                    "comment": "This server lasted a week. I don't know why we made it. Tested the 1.18 generation datapack. There are no screenshot from this.",
-                    "screenshots": [
-                        {
-                            "group_name": "The One",
-                            "group_description": "This might not even be from this server but it's the only thing I have.",
-                            "images": [
-                                {
-                                    "image": "/vanilla_server/RandomScreenshot.jpg",
-                                    "description": "This might not even be from this server.."
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "The Drunkenlands",
-                    "minecraft_version": "1.17",
-                    "modpack_name": "The Drunkenlands Cascade",
-                    "start_date": "August 2021",
-                    "end_date": "September 2021",
-                    "canonized_location": "Mycelia & other locations",
-                    "canon_date": "Fourth Cycle",
-                    "comment": "This was the last server that progressed the Cycle count & had a pretty shallow modpack. The spawn area's generation was very messed up.",
-                    "screenshots": [
-                        {
-                            "group_name": "Uncategorized",
-                            "group_description": "Lost a lot of data from this server. It is one of the few which doesn't have a world backup.",
-                            "images": [
-                                {
-                                    "image": "/drunkenlands/unc/LibraryOfBabel.png",
-                                    "description": "A portal to the Library of Babel where a series of statues of players were built.."
-                                },
-                                {
-                                    "image": "/drunkenlands/unc/InsideTheLibrary.png",
-                                    "description": "The first statue."
-                                },
-                                {
-                                    "image": "/drunkenlands/unc/SpawnGenerationError.jpg",
-                                    "description": "A map screenshot showing the issues with the spawn generation (not the square in the middle)."
-                                },
-                                {
-                                    "image": "/drunkenlands/unc/InsideTheLibrary2.png",
-                                    "description": "More statues."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Isla De Hongos (Mycelia)",
-                            "group_description": "The Island was renamed Mycelia in later lore.",
-                            "images": [
-                                {
-                                    "image": "/drunkenlands/unc/IslaDeHongos.png",
-                                    "description": "Isla De Hongos, later renamed to Mycelia."
-                                },
-                                {
-                                    "image": "/drunkenlands/unc/IslaDeHongos2.jpg",
-                                    "description": "Early constructions on Isla De Hongos."
-                                },
-                                {
-                                    "image": "/drunkenlands/unc/IslaDeHongos3.jpg",
-                                    "description": "View of home."
-                                },
-                                {
-                                    "image": "/drunkenlands/unc/IslaDeHongos4.jpg",
-                                    "description": "View from above."
-                                },
-                                {
-                                    "image": "/drunkenlands/unc/IslaDeHongos5.jpg",
-                                    "description": "Inside the home.."
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "The Artifact Adventures",
-                    "minecraft_version": "1.17",
-                    "modpack_name": "Drunken Dragon",
-                    "start_date": "February 2022",
-                    "end_date": "June 2022",
-                    "canonized_location": "Tev'esh",
-                    "canon_date": "-1 BD to 0 BD (Fourth Cycle)",
-                    "comment": "The server was marked by a series of events with the overarching goal of extending the lifetime. I spent a ton of time building the custom dungeon areas. It was a huge success. This also marked the first server which I hosted.",
-                    "screenshots": [
-                        {
-                            "group_name": "Pre-launch images",
-                            "group_description": "A series of introductory images as a teaser for the server.",
-                            "images": [
-                                {
-                                    "image": "/drunkendragon/teasers/2SpaceTimeReality.jpg",
-                                    "description": "???"
-                                },
-                                {
-                                    "image": "/drunkendragon/teasers/4GearWeapons.jpg",
-                                    "description": "???"
-                                },
-                                {
-                                    "image": "/drunkendragon/teasers/5Items.jpg",
-                                    "description": "???"
-                                },
-                                {
-                                    "image": "/drunkendragon/teasers/ChoicesAndRpg.jpg",
-                                    "description": "???"
-                                },
-                                {
-                                    "image": "/drunkendragon/teasers/Tech.jpg",
-                                    "description": "???"
-                                },
-                                {
-                                    "image": "/drunkendragon/teasers/Transport.jpg",
-                                    "description": "???"
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Artifact Locations",
-                            "group_description": "The artifacts were spread out in 4 dungeons. Each dungeon was meant to evoke different dimensions as if the inhabitants had been driven mad into finding some alien dimension. This was meant to back-fill lore for the Third Cycle (the short-lived vanilla server).",
-                            "images": [
-                                {
-                                    "image": "/drunkendragon/MC-FC2.gif",
-                                    "description": "The original teaser for the event series. It was the second event ran for the guild, hence the 2."
-                                },
-                                {
-                                    "image": "/drunkendragon/MinderManors.jpg",
-                                    "description": "The second dungeon was Minder Manor. The version to the left was the original, it was rebuilt to be bigger after Duhg Molir."
-                                },
-                                {
-                                    "image": "/drunkendragon/MinderManor2.jpg",
-                                    "description": "Minder Manor was styled after the Haunted Mansion rides & escape rooms. Multiple parallel puzzles to be solved, each allowing you to deposit one honey comb into the stretching room's hopper."
-                                },
-                                {
-                                    "image": "/drunkendragon/Arena.jpg",
-                                    "description": "The third dungeon was the Red Oasis, a gladiatorial arena. Initially, it was meant to be PvP but that was scrapped early."
-                                },
-                                {
-                                    "image": "/drunkendragon/OceanTemple.png",
-                                    "description": "The final ARTIFACT dungeon was a frozen over Ocean Temple. The only ones that found the right place."
-                                },
-                                {
-                                    "image": "/drunkendragon/KnightholdCopy.jpg",
-                                    "description": "The actual final dungeon was the Knighthold. Finally using the ideas from the Valhelsia server & having players have to unlock the way to the portal."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Artifact Event 1: Ruins of Duhg Molir",
-                            "group_description": "The artifacts were spread out in 4 dungeons. Each dungeon was meant to evoke different dimensions as if the inhabitants had been driven mad into finding some alien dimension. This was meant to back-fill lore for the Third Cycle (the short-lived vanilla server).",
-                            "images": [
-                                {
-                                    "image": "/drunkendragon/event1/1.jpg",
-                                    "description": "Flooded cave entrance to the dungeon."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/2.jpg",
-                                    "description": "The closed door."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/3.jpg",
-                                    "description": "Behind the door was a TNT."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/4.jpg",
-                                    "description": "Entering the elevator shaft."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/5.jpg",
-                                    "description": "Only one way down."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/6.jpg",
-                                    "description": "A dwarven city overtaken by zombies?"
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/7.jpg",
-                                    "description": "Mead Machine infested."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/8.jpg",
-                                    "description": "Opening the door with mead!"
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/9.jpg",
-                                    "description": "The next floor was covered in rails & shops."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/10.jpg",
-                                    "description": "The mines expected TNT."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/11.jpg",
-                                    "description": "It was a trial by pushing."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/12.jpg",
-                                    "description": "Into the mines."
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/13.jpg",
-                                    "description": "And the cart blows the way to the Noble's Quarters open." 
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/14.jpg",
-                                    "description": "They had opened portals and suffered for it." 
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/15.jpg",
-                                    "description": "Toward the Throne Room where the King still waited." 
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/16.jpg",
-                                    "description": "Treasures beyond imagination." 
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/17.jpg",
-                                    "description": "A feast before battle." 
-                                },
-                                {
-                                    "image": "/drunkendragon/event1/18.jpg",
-                                    "description": "Fighting the Dwarven King." 
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Regular Screenshots",
-                            "group_description": "Assorted gameplay screenshots.",
-                            "images": [
-                                {
-                                    "image": "/drunkendragon/Toproad.jpg",
-                                    "description": "A sandwich store."
-                                },
-                                {
-                                    "image": "/drunkendragon/Goldsmelt.jpg",
-                                    "description": "Goldsmelt, a dwarven home by spawn."
-                                },
-                                {
-                                    "image": "/drunkendragon/EEIsland.jpg",
-                                    "description": "Herbalist's Island."
-                                },
-                                {
-                                    "image": "/drunkendragon/HerbalistIsland2.jpg",
-                                    "description": "Herbalist's Island Lamps."
-                                },
-                                {
-                                    "image": "/drunkendragon/HeadCollection.jpg",
-                                    "description": "Head Collection. Players & Mobs would drop them on death."
-                                },
-                                {
-                                    "image": "/drunkendragon/MountainForge.jpg",
-                                    "description": "The Mountain Forge stables, part of a gigantic structure collecting everything that could be collected."
-                                },
-                                {
-                                    "image": "/drunkendragon/MinderManorInWorld.jpg",
-                                    "description": "Looking at Minder Manor in the world."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Whispers",
-                            "group_description": "A lot of whispers were scheduled or put out with vaguely spooky vibes. These were meant to be from the main antagonist, the World-Eater.",
-                            "images": [
-                                {
-                                    "image": "/drunkendragon/whispers/1.png",
-                                    "description": "I once knew more of your kind. Their downfall was a joy."
-                                },
-                                {
-                                    "image": "/drunkendragon/whispers/2.png",
-                                    "description": "Chaos spoils the bunch."
-                                },
-                                {
-                                    "image": "/drunkendragon/whispers/3.png",
-                                    "description": "Do you fear the reaper? You should for they come for you. (This was teasing the Rider, a death standing who'd come and attack once, they also appeared in the Red Oasis event)"
-                                },
-                                {
-                                    "image": "/drunkendragon/whispers/4.png",
-                                    "description": "This world will burn as all before. (This cycle will end)"
-                                },
-                                {
-                                    "image": "/drunkendragon/whispers/5.png",
-                                    "description": "You stand alone. What now? (This was one of the targeted ones which I manually wrote into the console to mess with people)"
-                                },
-                                {
-                                    "image": "/drunkendragon/whispers/6.png",
-                                    "description": "Steady your heart in the face of an uncertain future. Let not darkness break your spirit or mind. (This one was positive, meant to be from the Curator of the Museum of Ancient Artifacts)"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "independent",
-            "era_name": "Independent Era",
-            "start_date": "August 2022",
-            "end_date": "Present",
-            "commentary": "The Drunken Era ended because the guild died. But the lore must go on.",
-            "servers": [
-                {
-                    "title": "Maker's Vale",
-                    "minecraft_version": "???",
-                    "modpack_name": "Maker's Vale",
-                    "start_date": "5th of August 2022",
-                    "end_date": "September 2022 (Shutdown 11th of November 2022)",
-                    "canonized_location": "Tev'esh",
-                    "canon_date": "0 BD",
-                    "comment": "To continue the story in the same place as the previous server, this marked the introduction of the Legacy structures mod. Many player structures from Drunken Dragon were brought back as ruins. This was explained by the Divine Storm / Reshaping. It also introduced the Divine Artifacts, weapons that had been placed around in the world to be found. Not much lore was developed because I was reeling from the guild's death.",
-                    "screenshots": [
-                        {
-                            "group_name": "Artifacts",
-                            "group_description": "Some of the artifacts.",
-                            "images": [
-        
-                            ]
-                        },
-                        {
-                            "group_name": "Screenshots",
-                            "group_description": "Assorted screenshots.",
-                            "images": [
-                                {
-                                    "image": "/makersvale/SpawnBooks.jpg",
-                                    "description": "In a rebuilt Museum of Ancient Artifacts (Thanks to Ed), players read a lore book (or was it the Skyrim intro?)."
-                                },
-                                {
-                                    "image": "/makersvale/Toproad.jpg",
-                                    "description": "Toproad from earlier servers spawned in as a structure and was given a makeover."
-                                },
-                                {
-                                    "image": "/makersvale/Giants.jpg",
-                                    "description": "Size changing was somewhat common."
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "MVS 101",
-                    "minecraft_version": "1.18.2",
-                    "modpack_name": "MVS 101",
-                    "start_date": "21st of April 2023",
-                    "end_date": "4th of June 2023",
-                    "canonized_location": "Third Central Sea Island",
-                    "canon_date": "0 BD",
-                    "comment": "This split off from Maker's Vale, mostly because I was annoyed by many of the randoms that had been invited to Maker's Vale. The best thing about this server was the boats.",
-                    "screenshots": [
-                        {
-                            "group_name": "Screenshots",
-                            "group_description": "Assorted screenshots.",
-                            "images": [
-                                {
-                                    "image": "/mvs101/TheSunkenRoot.jpg",
-                                    "description": "The Sunken Root, an Inn in what was later known as Tidegate."
-                                },
-                                {
-                                    "image": "/mvs101/Undertavern.jpg",
-                                    "description": "The Undertavern, the hideout of shady types under the Sunken Root."
-                                },
-                                {
-                                    "image": "/mvs101/Tidegate1.jpg",
-                                    "description": "Tidegate"
-                                },
-                                {
-                                    "image": "/mvs101/Tidegate2.jpg",
-                                    "description": "Tidegate 2"
-                                },
-                                {
-                                    "image": "/mvs101/Tidegate2.jpg",
-                                    "description": "Tidegate Harbour"
-                                },
-                                {
-                                    "image": "/mvs101/FlyingIslands.jpg",
-                                    "description": "Magically (or by Airshiping accident) floating islands."
-                                },
-                                {
-                                    "image": "/mvs101/ChateuHoot.jpg",
-                                    "description": "Château Hoot"
-                                },
-                                {
-                                    "image": "/mvs101/Hooters.jpg",
-                                    "description": "Hooters (in Château Hoot)"
-                                },
-                                {
-                                    "image": "/mvs101/ChateuHoot2.jpg",
-                                    "description": "Château Hoot farms"
-                                },
-                                {
-                                    "image": "/mvs101/ArcadiaBay1.jpg",
-                                    "description": "Arcadia Bay"
-                                },
-                                {
-                                    "image": "/mvs101/ArcadiaBay2.jpg",
-                                    "description": "Arcadia Bay House"
-                                },
-                                {
-                                    "image": "/mvs101/HauntedMound1.jpg",
-                                    "description": "Haunted Mound"
-                                },
-                                {
-                                    "image": "/mvs101/HauntedMound2.jpg",
-                                    "description": "Haunted Mound's sheep pen"
-                                },
-                                {
-                                    "image": "/mvs101/CathedralOfClyde.jpg",
-                                    "description": "Cathedral of Clyde"
-                                },
-                                {
-                                    "image": "/mvs101/Blahaj.jpg",
-                                    "description": "Blåhaj"
-                                },
-                                {
-                                    "image": "/mvs101/Sad.jpg",
-                                    "description": "S.A.D Zone of Exclusion"
-                                },
-                                {
-                                    "image": "/mvs101/ManorAltar.jpg",
-                                    "description": "Underground altar & looming manor"
-                                },
-                                {
-                                    "image": "/mvs101/FloatingCity.jpg",
-                                    "description": "Floating City"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "MVS 2",
-                    "minecraft_version": "1.20.1",
-                    "modpack_name": "MVS 2",
-                    "start_date": "28th March 2024",
-                    "end_date": "8th June 2024",
-                    "canonized_location": "Silverbeck, Tav'esh",
-                    "canon_date": "0 BD",
-                    "comment": "New spawn town, lot of religion. A lot of airships, and a lot of players leaning into the RP. This was the greatest success since the Artifact Adventures.",
-                    "screenshots": [
-                        {
-                            "group_name": "Gameplay screenshots",
-                            "group_description": "Captured while playing.",
-                            "images": [
-                                {
-                                    "image": "/mvs2/Spawn1.jpg",
-                                    "description": "The Woven Wing"
-                                },
-                                {
-                                    "image": "/mvs2/Spawn2.jpg",
-                                    "description": "An airship departs over the hill by spawn."
-                                },
-                                {
-                                    "image": "/mvs2/Spawn3.jpg",
-                                    "description": "Early screenshot of the Western road."
-                                },
-                                {
-                                    "image": "/mvs2/Spawn4.jpg",
-                                    "description": "Battle at the Colosseum of Arum."
-                                },
-                                {
-                                    "image": "/mvs2/Spawn5.jpg",
-                                    "description": "Looking back at the spawn point as the High Priest delivers mooblooms."
-                                },
-                                {
-                                    "image": "/mvs2/Spawn6.jpg",
-                                    "description": "Local owl on the stairs to Hooters Harbour."
-                                },
-                                {
-                                    "image": "/mvs2/Spawn7.jpg",
-                                    "description": "The Colosseum of Arum when it was infested by cacti."
-                                },
-                                {
-                                    "image": "/mvs2/Spawn8.jpg",
-                                    "description": "Airship construction & crematorium."
-                                },
-                                {
-                                    "image": "/mvs2/Frog.jpg",
-                                    "description": "Big Frug"
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Cinematic Screenshots",
-                            "group_description": "Captured posthumously.",
-                            "images": [
-                                {
-                                    "image": "/mvs2/cinematic/CommunityCenter.jpg",
-                                    "description": "Community Center"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/AirshipDock.jpg",
-                                    "description": "Airship Dock"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/MusicHole.jpg",
-                                    "description": "Music Hole"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/FrugKing.jpg",
-                                    "description": "Frug King's Domain"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/DoncFarm.jpg",
-                                    "description": "Donc's Farm"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/DwarfStreet.jpg",
-                                    "description": "Dwarf Street"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/KingdomOfDwarves.jpg",
-                                    "description": "Kingdom of the Dwarves"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/HootersTakeout.jpg",
-                                    "description": "Hooters Takeout"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/OverheadView.jpg",
-                                    "description": "Overhead Town View"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/IslePiproaki.jpg",
-                                    "description": "Isle Piporaki"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/HiddenGrove.jpg",
-                                    "description": "Hidden Grove (Well, not so hidden here)"
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/AirshipNest.jpg",
-                                    "description": "Airship docked at the Nest."
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/PortalHub.jpg",
-                                    "description": "Portal Hub."
-                                },
-                                {
-                                    "image": "/mvs2/cinematic/EndPortal.jpg",
-                                    "description": "End Portal"
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "World Map",
-                            "group_description": "From the Dynmap",
-                            "images": [
-                                {
-                                    "image": "/mvs2/WorldMap.jpg",
-                                    "description": "Top down map of the final near spawn area."
-                                },
-                                {
-                                    "image": "/mvs2/WorldMap2.jpg",
-                                    "description": "Isometric view of the Spawn Town"
-                                },
-                                {
-                                    "image": "/mvs2/WorldMap3.jpg",
-                                    "description": "Isometric view of Isle Piporaki"
-                                },
-                                {
-                                    "image": "/mvs2/WorldMap4.jpg",
-                                    "description": "Isometric view of Hythe"
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Event Announcements",
-                            "group_description": "Multiple player ran events happened on this server, they were announced with these images.",
-                            "images": [
-                                {
-                                    "image": "/mvs2/Event1.jpg",
-                                    "description": "Akaltat vs Vorrik in the Colosseum of Arum. Vorrik was the greater champion."
-                                },
-                                {
-                                    "image": "/mvs2/Event2.jpg",
-                                    "description": "The Great Wizard Akaltat recruits people to clear out a cacti infestation by the Colosseum. The cacti were dangerous."
-                                },
-                                {
-                                    "image": "/mvs2/Event3.jpg",
-                                    "description": "Into the Ancient City to explore the world beyond. One member was afflicted by whispers telling them to open portals, we never followed up on that."
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "MVS 3",
-                    "minecraft_version": "1.20.1",
-                    "modpack_name": "MVS 3",
-                    "start_date": "14th August 2024",
-                    "end_date": "Shutdown December 2024",
-                    "canonized_location": "???",
-                    "canon_date": "0 BD",
-                    "comment": "This was an excuse to play around with floating islands. It is unlikely we'll go for it again. Maybe part of the world but not the whole.",
-                    "screenshots": [
-                        {
-                            "group_name": "Map & Screenshots",
-                            "group_description": "The islands made it hard to comprehend.",
-                            "images": [
-                                {
-                                    "image": "/mvs3/WorldMap.jpg",
-                                    "description": "The Spawn Island is hard to decipher. No side-view because the islands overlapped to make it even less decipherable."
-                                }
-        
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "title": "MVS 4",
-                    "minecraft_version": "1.20.1",
-                    "modpack_name": "MVS 4",
-                    "start_date": "21st March 2025",
-                    "end_date": "27th July 2025",
-                    "canonized_location": "???",
-                    "canon_date": "80 AD",
-                    "comment": "It's all canon. For once, the world border is non-existant which has led certain mutants to explore a lot. The first backup (3 days after launch), was 700 MB.",
-                    "screenshots": [
-                        {
-                            "group_name": "Maps",
-                            "group_description": "with the number of terrain gen mods stuffed into this, the world is quite interesting. Just beware of the dragons.",
-                            "images": [
-                                {
-                                    "image": "/mvs4/WorldMap03-24.jpg",
-                                    "description": "Captured from Dynmap on the 24th of March."
-                                },
-                                {
-                                    "image": "/mvs4/WorldMap04-03.jpg",
-                                    "description": "Captured from Dynmap on the 3rd of April."
-                                },
-                                {
-                                    "image": "/mvs4/JourneyMap04-04.jpg",
-                                    "description": "Captured from Journey Map on the 4th of April. Includes some Frontiers but not the entire world."
-                                },
-                                {
-                                    "image": "/mvs4/journeymap-2025-05-19.png",
-                                    "description": "Exported from Journey Map on the 19th of May."
-                                },
-                                {
-                                    "image": "/mvs4/Map2025-05-19.JPG",
-                                    "description": "Dynmap on the 19th of May."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Order of the Frogfather",
-                            "group_description": "Memories from the Frug",
-                            "images": [
-                                {
-                                    "image": "/mvs4/order_of_frog/dirt.jpg",
-                                    "description": "Vorrik pondering dirt."
-                                },
-                                {
-                                    "image": "/mvs4/order_of_frog/temple1.jpg",
-                                    "description": "From the benches in the Order's temple."
-                                },
-                                {
-                                    "image": "/mvs4/order_of_frog/temple2.jpg",
-                                    "description": "The Bard played... music. After some issues."
-                                },
-                                {
-                                    "image": "/mvs4/order_of_frog/temple3.jpg",
-                                    "description": "A great frog watches from the back."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Hooters Hotel & Dragon Departments",
-                            "group_description": "Here be dragons... They are very big.",
-                            "images": [
-                                {
-                                    "image": "/mvs4/hooters/1.jpg",
-                                    "description": "The Hooters Hotel"
-                                },
-                                {
-                                    "image": "/mvs4/hooters/Axolotl.jpg",
-                                    "description": "A room at the hotel, decorated with the finest of art: Axolotls."
-                                },
-                                {
-                                    "image": "/mvs4/hooters/2.jpg",
-                                    "description": "The Lighthouse & farms"
-                                },
-                                {
-                                    "image": "/mvs4/hooters/Dragons1.jpg",
-                                    "description": "The entrance to the dragon department's lairs."
-                                },
-                                {
-                                    "image": "/mvs4/hooters/Dragons2.jpg",
-                                    "description": "Dragon X"
-                                },
-                                {
-                                    "image": "/mvs4/hooters/Dragons3.jpg",
-                                    "description": "Dragon Y"
-                                },
-                                {
-                                    "image": "/mvs4/hooters/Dragons4.jpg",
-                                    "description": "Within the lairs, a growing dragon is chained up."
-                                },
-                                {
-                                    "image": "/mvs4/hooters/Dragons5.jpg",
-                                    "description": "The Hooters Owl stands beside her dragon."
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Fly-Away Isle",
-                            "group_description": "Disclaimer: Doesn't actually fly.",
-                            "images": [
-                                {
-                                    "image": "/mvs4/flyaway_isle/1.jpg",
-                                    "description": "The Barn"
-                                },
-                                {
-                                    "image": "/mvs4/flyaway_isle/2.jpg",
-                                    "description": "The Mill of Winds"
-                                }
-                            ]
-                        },
-                        {
-                            "group_name": "Rosewood & Rosegrave",
-                            "group_description": "A home long since lost to demonkind, its legacy told by the bloodied strikes of the Clocktower",
-                            "images": [
-                                {
-                                    "image": "/mvs4/rose/1.jpg",
-                                    "description": "From a withered tree, into a grave-ground old, this way, that way, be so bold."
-                                },
-                                {
-                                    "image": "/mvs4/rose/2.jpg",
-                                    "description": "Into a temple, long since lost."
-                                },
-                                {
-                                    "image": "/mvs4/rose/3.jpg",
-                                    "description": "Through the ruin, toward the Clock."
-                                },
-                                {
-                                    "image": "/mvs4/rose/4.jpg",
-                                    "description": "The past's not gone."
-                                },
-                                {
-                                    "image": "/mvs4/rose/5.jpg",
-                                    "description": "Find your spot."
-                                },
-                                {
-                                    "image": "/mvs4/rose/6.jpg",
-                                    "description": "Observe the Clock."
-                                },
-                                {
-                                    "image": "/mvs4/rose/7.jpg",
-                                    "description": "Witches' Rest."
-                                },
-                                {
-                                    "image": "/mvs4/rose/8.jpg",
-                                    "description": "Camper's Tent."
-                                },
-                                {
-                                    "image": "/mvs4/rose/9.jpg",
-                                    "description": "Tavern Quests."
-                                },
-                                {
-                                    "image": "/mvs4/rose/10.jpg",
-                                    "description": "Potions Test."
-                                },
-                                {
-                                    "image": "/mvs4/rose/11.jpg",
-                                    "description": "To me, my tree-friends."
-                                },
-                                {
-                                    "image": "/mvs4/rose/12.jpg",
-                                    "description": "Storyteller's Nest."
-                                },
-                                {
-                                    "image": "/mvs4/rose/13.jpg",
-                                    "description": "Voting Block."
-                                }
-                            ]
-
-                        },
-                        {
-                            "group_name": "The Library",
-                            "group_description": "Fraying at the edge of reality...",
-                            "images": [
-                                {
-                                    "image": "/mvs4/library/1.jpg",
-                                    "description": "Entry..."
-                                },
-                                {
-                                    "image": "/mvs4/library/2.jpg",
-                                    "description": "Library proper..."
-                                },
-                                {
-                                    "image": "/mvs4/library/3.jpg",
-                                    "description": "Books unto the edge."
-                                },
-                                {
-                                    "image": "/mvs4/library/4.jpg",
-                                    "description": "A museum?"
-                                },
-                                {
-                                    "image": "/mvs4/library/5.jpg",
-                                    "description": "The Truth, they called it."
-                                },
-                                {
-                                    "image": "/mvs4/library/6.jpg",
-                                    "description": "Paintings to the left"
-                                },
-                                {
-                                    "image": "/mvs4/library/7.jpg",
-                                    "description": "Paintings to the right"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "title": "Alexland",
+          "minecraft_version": "1.15 (Unverified)",
+          "start_date": "Spring 2020",
+          "end_date": "Spring 2020",
+          "modpack_name": "N/A",
+          "canonized_location": "Non-Canon",
+          "canon_date": "N/A",
+          "comment": "This was a vanilla server made before any sort of lore had started popping into my head. T'was a fun time, but it was short-lived."
         }
-    ]
+      ]
+    },
+    {
+      "id": "sober",
+      "era_name": "Sober Era",
+      "start_date": "Spring 2020",
+      "end_date": "Summer 2020",
+      "commentary": "Mostly nonsensical, though it laid the foundations for the current lore.",
+      "servers": [
+        {
+          "title": "Camelot",
+          "minecraft_version": "1.15 (Unverified)",
+          "modpack_name": "???",
+          "start_date": "Spring 2020",
+          "end_date": "Spring 2020",
+          "canonized_location": "Unknown Prime Cycle Continent",
+          "canon_date": "The Prime Cycle",
+          "comment": "First modded server. The dawn of lore. Much of what was considered lore here has been reworked/retconned. It featured the Minecolonies mod.",
+          "screenshots": [
+            {
+              "group_name": "Camelot",
+              "group_description": "A MineColony near the spawn. I was up very late many nights trying to make it work. Recruited a couple of knights to dig out mountains.",
+              "images": [
+                {
+                  "image": "/camelot/OldCamelot.jpg",
+                  "description": "The original camelot area."
+                },
+                {
+                  "image": "/camelot/FirstEraEndCamelot.PNG",
+                  "description": "Map of Camelot at the end of the server."
+                },
+                {
+                  "image": "/camelot/Camelot.png",
+                  "description": "A painted over map of the original districts."
+                },
+                {
+                  "image": "/camelot/CamelotV3.png",
+                  "description": "A painted over map of an unifinished expansion. Version 3."
+                },
+                {
+                  "image": "/camelot/MapOfcamelot.png",
+                  "description": "Full Map."
+                }
+              ]
+            },
+            {
+              "group_name": "World Map",
+              "group_description": "World map as assembled by MythicEl. This is 47 MB.",
+              "images": [
+                {
+                  "image": "/camelot/MC_HD_Map.jpg",
+                  "description": "A big world map."
+                }
+              ]
+            },
+            {
+              "group_name": "Lore Preview",
+              "group_description": "Originally an imgur album meant to tease future ideas. Most things were never implemented.",
+              "images": [
+                {
+                  "image": "/camelot/FirstEra.png",
+                  "description": "The timeline for the first weeks of the server.."
+                },
+                {
+                  "image": "/camelot/FirstEra1.png",
+                  "description": "..."
+                },
+                {
+                  "image": "/camelot/FirstEra2.png",
+                  "description": "..."
+                },
+                {
+                  "image": "/camelot/FirstEra3.png",
+                  "description": "..."
+                },
+                {
+                  "image": "/camelot/FirstEra5v3.png",
+                  "description": "V3 of this image."
+                },
+                {
+                  "image": "/camelot/FirstEraFinal.png",
+                  "description": "..."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sanctuary & Destruction",
+          "modpack_name": "World of Disappointment",
+          "minecraft_version": "1.16 (Unverified)",
+          "start_date": "May 2020",
+          "end_date": "June 2020",
+          "canonized_location": "Unknown Shadow Cycle Continent",
+          "canon_date": "The Shadow Cycle",
+          "comment": "Second modded server. Lore was forming here. The originally story followed millenias after the Camelot server though altering it's end to failing to defeat the Ender Dragon.",
+          "screenshots": [
+            {
+              "group_name": "Sanctuary Spawn Town",
+              "group_description": "There was an effort to have a spawn town on this server. It worked out very well.",
+              "images": [
+                {
+                  "image": "/sanctuary/SpawnTown.jpg",
+                  "description": "The spawn town."
+                },
+                {
+                  "image": "/sanctuary/Nightingale.jpg",
+                  "description": "The Nightingale Inn. It actually had a secret tunnel for vampires."
+                },
+                {
+                  "image": "/sanctuary/ElAxe.jpg",
+                  "description": "An axe."
+                },
+                {
+                  "image": "/sanctuary/LastKnightsTower.jpg",
+                  "description": "Tower belonging to the Last Knights of Camelot."
+                },
+                {
+                  "image": "/sanctuary/CommunityChanter.jpg",
+                  "description": "Community Enchanting hall."
+                },
+                {
+                  "image": "/sanctuary/VLavaCave.jpg",
+                  "description": "The Vampire Lava Cave, this is where the Nightingale Inn's secret tunnel led."
+                }
+              ]
+            },
+            {
+              "group_name": "Vampire Castle",
+              "group_description": "The inpeneterable castle.",
+              "images": [
+                {
+                  "image": "/sanctuary/VCastle1.jpg",
+                  "description": "Outside, it was never finished."
+                },
+                {
+                  "image": "/sanctuary/VCastle2.jpg",
+                  "description": "Inside corridors. It was very spooky."
+                },
+                {
+                  "image": "/sanctuary/VCastle3.jpg",
+                  "description": "Armory?."
+                },
+                {
+                  "image": "/sanctuary/VCastle4.jpg",
+                  "description": "The room to the right is the armory."
+                },
+                {
+                  "image": "/sanctuary/VCastle5.jpg",
+                  "description": "I think this was a bedroom?"
+                },
+                {
+                  "image": "/sanctuary/VCastle6.jpg",
+                  "description": "Maybe an office?"
+                },
+                {
+                  "image": "/sanctuary/VCastleLower1.jpg",
+                  "description": "Lower entrance to the castle. From the orchard."
+                },
+                {
+                  "image": "/sanctuary/VCastleLower2.jpg",
+                  "description": "Storage room in the basement."
+                },
+                {
+                  "image": "/sanctuary/VCastleLower3.jpg",
+                  "description": "Further back from the Orchard."
+                },
+                {
+                  "image": "/sanctuary/VCastleHeart.jpg",
+                  "description": "Across the water, the Heart Statue."
+                },
+                {
+                  "image": "/sanctuary/VCastleTree.jpg",
+                  "description": "Unfinished giant tree."
+                },
+                {
+                  "image": "/sanctuary/VCastleManor.jpg",
+                  "description": "Across the water, the manor by Ed."
+                },
+                {
+                  "image": "/sanctuary/VampireWarning.jpg",
+                  "description": "A good thing to remember."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drunken",
+      "era_name": "Guild Era",
+      "start_date": "January 2021",
+      "end_date": "Spring 2022",
+      "commentary": "The Guild Era, lore development prospered, the server-style & lore began to be established.",
+      "servers": [
+        {
+          "title": "Valhelsia 3",
+          "minecraft_version": "1.16",
+          "modpack_name": "Valhelsia 3",
+          "start_date": "January 2021",
+          "end_date": "April 2021",
+          "canonized_location": "First Cycle Continent",
+          "canon_date": "First Cycle",
+          "comment": "One of the few pre-made modpacks.",
+          "screenshots": [
+            {
+              "group_name": "Spawn Area",
+              "group_description": "The world of the Prime Cycle.",
+              "images": [
+                {
+                  "image": "/valhelsia/EEPandaPit.jpg",
+                  "description": "The Panda Pit."
+                },
+                {
+                  "image": "/valhelsia/SpawnArea1.jpg",
+                  "description": "Maddening Castle"
+                },
+                {
+                  "image": "/valhelsia/EEPandaPit2.jpg",
+                  "description": "Another view of the Panda pit."
+                }
+              ]
+            },
+            {
+              "group_name": "Wheat",
+              "group_description": "My first goal on this server was to acquire 1 000 stacks of wheat. I did it twice because I accidentally deleted the first barrel...",
+              "images": [
+                {
+                  "image": "/valhelsia/Wheat1.jpg",
+                  "description": "1000 stacks of wheat in a barrel."
+                },
+                {
+                  "image": "/valhelsia/WheatMap.png",
+                  "description": "A work in progress overhead map screenshot of the farm."
+                },
+                {
+                  "image": "/valhelsia/Wheat2.jpg",
+                  "description": "It initally started with the field ring but that was too slow and eventually the big square was built."
+                },
+                {
+                  "image": "/valhelsia/WorstMistakeOfMyLife.PNG",
+                  "description": "The worst mistake of my life was deleting the barrel."
+                },
+                {
+                  "image": "/valhelsia/Wheat3.jpg",
+                  "description": "Riding the Wheat machine."
+                },
+                {
+                  "video": "mk1-AhNeTGM",
+                  "description": "Harvesting the wheat square.."
+                },
+                {
+                  "image": "/valhelsia/Wheat4.png",
+                  "description": "Couldn't handle the wheat."
+                },
+                {
+                  "image": "/valhelsia/GodOfWheat.jpg",
+                  "description": "I became slightly mad with power."
+                },
+                {
+                  "image": "/valhelsia/WheatEpilogue.jpg",
+                  "description": "When it was over, I published a news page about it."
+                }
+              ]
+            },
+            {
+              "group_name": "The Knighthold",
+              "group_description": "Occupied a Stronghold, turned it into the Knighthold. This place is very lore and reappeared in the Artifact Adventures.",
+              "images": [
+                {
+                  "image": "/valhelsia/KnightholdEntrance.jpg",
+                  "description": "The unceremonious entrance to the Knighthold."
+                },
+                {
+                  "image": "/valhelsia/Knighthold1.jpg",
+                  "description": "The Knight Hold center in the first moments of moving in, shortly after the Wheat project finished."
+                },
+                {
+                  "image": "/valhelsia/Knighthold2.jpg",
+                  "description": "Fountain cleared up."
+                },
+                {
+                  "image": "/valhelsia/Knighthold3.jpg",
+                  "description": "Portal Room, it was never opened on this server. It did set off lore though and the ideas for it's opening were used for the Artifact Adventures."
+                },
+                {
+                  "image": "/valhelsia/Knighthold4.jpg",
+                  "description": "Many signs were necessary for people to navigate."
+                },
+                {
+                  "image": "/valhelsia/Knighthold5.jpg",
+                  "description": "Library & Villager trading hall."
+                },
+                {
+                  "image": "/valhelsia/Knighthold6.jpg",
+                  "description": "The vaults was well, vaults. Anything not put into apartments went here for storage."
+                },
+                {
+                  "image": "/valhelsia/Knighthold7.jpg",
+                  "description": "An empty vault."
+                },
+                {
+                  "image": "/valhelsia/Knighthold8.jpg",
+                  "description": "The entrance ladder & portal into the Knighthold (seen from the inside)"
+                },
+                {
+                  "image": "/valhelsia/Knighthold9.jpg",
+                  "description": "The cleaned up fountain/entrance chamber from before. The portal room is referred to as 'The Veil-Portal', later in lore it's called a Gate."
+                }
+              ]
+            },
+            {
+              "group_name": "The Railroad",
+              "group_description": "A 1600 block railroad with a CREATE mod train. This was before actual train track was added to CREATE.",
+              "images": [
+                {
+                  "image": "/valhelsia/RailroadMachine.png",
+                  "description": "The machine used to build the railroad."
+                },
+                {
+                  "video": "177M_61fgMY",
+                  "description": "Railroad building machine."
+                },
+                {
+                  "image": "/valhelsia/Railroad1.jpg",
+                  "description": "Knighthold-side station."
+                },
+                {
+                  "image": "/valhelsia/Railroad2.jpg",
+                  "description": "Spawn-side station. It was right over the hill from the Wheat field."
+                },
+                {
+                  "image": "/valhelsia/Railroad3.jpg",
+                  "description": "Path through the mountain."
+                },
+                {
+                  "image": "/valhelsia/Railroad4.png",
+                  "description": "The train in the world (Knighthold station)"
+                },
+                {
+                  "image": "/valhelsia/RailroadMap.jpg",
+                  "description": "Map covering the part of the world the railroad would travel."
+                },
+                {
+                  "image": "/valhelsia/RidingTrain.jpg",
+                  "description": "Map covering the part of the world the railroad would travel."
+                },
+                {
+                  "video": "TmP8raI5evk",
+                  "description": "Insdie the train on a creative world."
+                }
+              ]
+            },
+            {
+              "group_name": "The Imperial Pyramid",
+              "group_description": "Locations on the Imperial Continent. The birth of imperialism. There was a computer vault beneath it accesibly only by waystone. This was the final project on the server.",
+              "images": [
+                {
+                  "image": "/valhelsia/Pyramid1.jpg",
+                  "description": "The Imperial Pyramid."
+                },
+                {
+                  "image": "/valhelsia/Pyramid2.jpg",
+                  "description": "The Farming Floor."
+                },
+                {
+                  "image": "/valhelsia/Pyramid3.jpg",
+                  "description": "Farming floor finished."
+                },
+                {
+                  "image": "/valhelsia/Pyramid4.jpg",
+                  "description": "Three levels done."
+                },
+                {
+                  "image": "/valhelsia/Pyramid5.jpg",
+                  "description": "Outside Complete."
+                },
+                {
+                  "image": "/valhelsia/Pyramid6.jpg",
+                  "description": "First floor hallway. The side rooms were filled with machines."
+                },
+                {
+                  "image": "/valhelsia/Pyramid7.jpg",
+                  "description": "Top floor done."
+                },
+                {
+                  "image": "/valhelsia/Pyramid8.jpg",
+                  "description": "The Vault."
+                },
+                {
+                  "image": "/valhelsia/Pyramid9.png",
+                  "description": "Floor 3: Armory, Brewery, & Weaponry."
+                },
+                {
+                  "image": "/valhelsia/Pyramid10.jpg",
+                  "description": "Top Floor: Museum with scaled down models of my builds."
+                }
+              ]
+            },
+            {
+              "group_name": "Project Teaser Trailer",
+              "group_description": "Though originally a teaser for Drunken Dragon 2 (which never happened), it uses footage from the Valhelsia server which isn't represented in any screenshots.",
+              "images": [
+                {
+                  "video": "yxkUgHbBOZo",
+                  "description": "Trailer edited by MythicEl. A conversation between an engineer & a knight at the end of the First Cycle."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Undercity",
+          "minecraft_version": "1.16",
+          "modpack_name": "DrunkenDruidSMP 1.16.5",
+          "start_date": "April 2021",
+          "end_date": "June 2021",
+          "canonized_location": "Second Cycle Continent",
+          "canon_date": "Second Cycle",
+          "comment": "At this point there was an underlyind narrative being woven through the servers. This Cycle was meant to be another dark one, setting a sort of tick-tock pattern. People were forced underground.",
+          "screenshots": [
+            {
+              "group_name": "The Undercity",
+              "group_description": "The main city where most of the players lived. A series of Underground corridors (this inspired the Stoneholm mod)",
+              "images": [
+                {
+                  "image": "/undercity/Undercity1.jpg",
+                  "description": "The above ground view of the Undercity."
+                },
+                {
+                  "image": "/undercity/Undercity2.jpg",
+                  "description": "Museum, it held a map of the spawn area and random relics."
+                },
+                {
+                  "image": "/undercity/Undercity3.jpg",
+                  "description": "One corridor. The closest opening to the left is the ladder down. Next opening was the market place."
+                },
+                {
+                  "image": "/undercity/Undercity4.jpg",
+                  "description": "The second gate called 'Epcot'. It was at the far end of the previous corridor."
+                },
+                {
+                  "image": "/undercity/Undercity5.jpg",
+                  "description": "The Fish Emporium in the market place. It was ran by a fish."
+                },
+                {
+                  "image": "/undercity/Undercity6.jpg",
+                  "description": "Stylish Mooshroom in their home."
+                },
+                {
+                  "image": "/undercity/Undercity7.jpg",
+                  "description": "The community warehouse, it was meant to be a shared storage area where anyone could leave or take items."
+                },
+                {
+                  "image": "/undercity/Undercity8.jpg",
+                  "description": "Rat infestation at the restaurant."
+                },
+                {
+                  "image": "/undercity/Undercity9.jpg",
+                  "description": "The finished restaurant, Le Pomme de Terre. It sold potatoes."
+                },
+                {
+                  "image": "/undercity/Undercity10.jpg",
+                  "description": "A very tall sandwich. It was later displayed as a relic in the museum."
+                },
+                {
+                  "image": "/undercity/Undercity11.jpg",
+                  "description": "Updated museum."
+                },
+                {
+                  "image": "/undercity/Undercity12.jpg",
+                  "description": "Donut County Cafe. A few steps into the corridor."
+                },
+                {
+                  "image": "/undercity/Syndicate.jpg",
+                  "description": "An evil group, doing evil things."
+                },
+                {
+                  "image": "/undercity/Syndicate2.jpg",
+                  "description": "I don't know what these signs mean anymore. But the evil group was working for the World-Eater."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vanilla Server",
+          "minecraft_version": "1.17",
+          "modpack_name": "N/A",
+          "start_date": "June 2021",
+          "end_date": "June 2021",
+          "canonized_location": "Third Cycle Continent",
+          "canon_date": "Third Cycle",
+          "comment": "This server lasted a week. I don't know why we made it. Tested the 1.18 generation datapack. There are no screenshot from this.",
+          "screenshots": [
+            {
+              "group_name": "The One",
+              "group_description": "This might not even be from this server but it's the only thing I have.",
+              "images": [
+                {
+                  "image": "/vanilla_server/RandomScreenshot.jpg",
+                  "description": "This might not even be from this server.."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Drunkenlands",
+          "minecraft_version": "1.17",
+          "modpack_name": "The Drunkenlands Cascade",
+          "start_date": "August 2021",
+          "end_date": "September 2021",
+          "canonized_location": "Mycelia & other locations",
+          "canon_date": "Fourth Cycle",
+          "comment": "This was the last server that progressed the Cycle count & had a pretty shallow modpack. The spawn area's generation was very messed up.",
+          "screenshots": [
+            {
+              "group_name": "Uncategorized",
+              "group_description": "Lost a lot of data from this server. It is one of the few which doesn't have a world backup.",
+              "images": [
+                {
+                  "image": "/drunkenlands/unc/LibraryOfBabel.png",
+                  "description": "A portal to the Library of Babel where a series of statues of players were built.."
+                },
+                {
+                  "image": "/drunkenlands/unc/InsideTheLibrary.png",
+                  "description": "The first statue."
+                },
+                {
+                  "image": "/drunkenlands/unc/SpawnGenerationError.jpg",
+                  "description": "A map screenshot showing the issues with the spawn generation (not the square in the middle)."
+                },
+                {
+                  "image": "/drunkenlands/unc/InsideTheLibrary2.png",
+                  "description": "More statues."
+                }
+              ]
+            },
+            {
+              "group_name": "Isla De Hongos (Mycelia)",
+              "group_description": "The Island was renamed Mycelia in later lore.",
+              "images": [
+                {
+                  "image": "/drunkenlands/unc/IslaDeHongos.png",
+                  "description": "Isla De Hongos, later renamed to Mycelia."
+                },
+                {
+                  "image": "/drunkenlands/unc/IslaDeHongos2.jpg",
+                  "description": "Early constructions on Isla De Hongos."
+                },
+                {
+                  "image": "/drunkenlands/unc/IslaDeHongos3.jpg",
+                  "description": "View of home."
+                },
+                {
+                  "image": "/drunkenlands/unc/IslaDeHongos4.jpg",
+                  "description": "View from above."
+                },
+                {
+                  "image": "/drunkenlands/unc/IslaDeHongos5.jpg",
+                  "description": "Inside the home.."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "The Artifact Adventures",
+          "minecraft_version": "1.17",
+          "modpack_name": "Drunken Dragon",
+          "start_date": "February 2022",
+          "end_date": "June 2022",
+          "canonized_location": "Tev'esh",
+          "canon_date": "-1 BD to 0 BD (Fourth Cycle)",
+          "comment": "The server was marked by a series of events with the overarching goal of extending the lifetime. I spent a ton of time building the custom dungeon areas. It was a huge success. This also marked the first server which I hosted.",
+          "screenshots": [
+            {
+              "group_name": "Pre-launch images",
+              "group_description": "A series of introductory images as a teaser for the server.",
+              "images": [
+                {
+                  "image": "/drunkendragon/teasers/2SpaceTimeReality.jpg",
+                  "description": "???"
+                },
+                {
+                  "image": "/drunkendragon/teasers/4GearWeapons.jpg",
+                  "description": "???"
+                },
+                {
+                  "image": "/drunkendragon/teasers/5Items.jpg",
+                  "description": "???"
+                },
+                {
+                  "image": "/drunkendragon/teasers/ChoicesAndRpg.jpg",
+                  "description": "???"
+                },
+                {
+                  "image": "/drunkendragon/teasers/Tech.jpg",
+                  "description": "???"
+                },
+                {
+                  "image": "/drunkendragon/teasers/Transport.jpg",
+                  "description": "???"
+                }
+              ]
+            },
+            {
+              "group_name": "Artifact Locations",
+              "group_description": "The artifacts were spread out in 4 dungeons. Each dungeon was meant to evoke different dimensions as if the inhabitants had been driven mad into finding some alien dimension. This was meant to back-fill lore for the Third Cycle (the short-lived vanilla server).",
+              "images": [
+                {
+                  "image": "/drunkendragon/MC-FC2.gif",
+                  "description": "The original teaser for the event series. It was the second event ran for the guild, hence the 2."
+                },
+                {
+                  "image": "/drunkendragon/MinderManors.jpg",
+                  "description": "The second dungeon was Minder Manor. The version to the left was the original, it was rebuilt to be bigger after Duhg Molir."
+                },
+                {
+                  "image": "/drunkendragon/MinderManor2.jpg",
+                  "description": "Minder Manor was styled after the Haunted Mansion rides & escape rooms. Multiple parallel puzzles to be solved, each allowing you to deposit one honey comb into the stretching room's hopper."
+                },
+                {
+                  "image": "/drunkendragon/Arena.jpg",
+                  "description": "The third dungeon was the Red Oasis, a gladiatorial arena. Initially, it was meant to be PvP but that was scrapped early."
+                },
+                {
+                  "image": "/drunkendragon/OceanTemple.png",
+                  "description": "The final ARTIFACT dungeon was a frozen over Ocean Temple. The only ones that found the right place."
+                },
+                {
+                  "image": "/drunkendragon/KnightholdCopy.jpg",
+                  "description": "The actual final dungeon was the Knighthold. Finally using the ideas from the Valhelsia server & having players have to unlock the way to the portal."
+                }
+              ]
+            },
+            {
+              "group_name": "Artifact Event 1: Ruins of Duhg Molir",
+              "group_description": "The artifacts were spread out in 4 dungeons. Each dungeon was meant to evoke different dimensions as if the inhabitants had been driven mad into finding some alien dimension. This was meant to back-fill lore for the Third Cycle (the short-lived vanilla server).",
+              "images": [
+                {
+                  "image": "/drunkendragon/event1/1.jpg",
+                  "description": "Flooded cave entrance to the dungeon."
+                },
+                {
+                  "image": "/drunkendragon/event1/2.jpg",
+                  "description": "The closed door."
+                },
+                {
+                  "image": "/drunkendragon/event1/3.jpg",
+                  "description": "Behind the door was a TNT."
+                },
+                {
+                  "image": "/drunkendragon/event1/4.jpg",
+                  "description": "Entering the elevator shaft."
+                },
+                {
+                  "image": "/drunkendragon/event1/5.jpg",
+                  "description": "Only one way down."
+                },
+                {
+                  "image": "/drunkendragon/event1/6.jpg",
+                  "description": "A dwarven city overtaken by zombies?"
+                },
+                {
+                  "image": "/drunkendragon/event1/7.jpg",
+                  "description": "Mead Machine infested."
+                },
+                {
+                  "image": "/drunkendragon/event1/8.jpg",
+                  "description": "Opening the door with mead!"
+                },
+                {
+                  "image": "/drunkendragon/event1/9.jpg",
+                  "description": "The next floor was covered in rails & shops."
+                },
+                {
+                  "image": "/drunkendragon/event1/10.jpg",
+                  "description": "The mines expected TNT."
+                },
+                {
+                  "image": "/drunkendragon/event1/11.jpg",
+                  "description": "It was a trial by pushing."
+                },
+                {
+                  "image": "/drunkendragon/event1/12.jpg",
+                  "description": "Into the mines."
+                },
+                {
+                  "image": "/drunkendragon/event1/13.jpg",
+                  "description": "And the cart blows the way to the Noble's Quarters open."
+                },
+                {
+                  "image": "/drunkendragon/event1/14.jpg",
+                  "description": "They had opened portals and suffered for it."
+                },
+                {
+                  "image": "/drunkendragon/event1/15.jpg",
+                  "description": "Toward the Throne Room where the King still waited."
+                },
+                {
+                  "image": "/drunkendragon/event1/16.jpg",
+                  "description": "Treasures beyond imagination."
+                },
+                {
+                  "image": "/drunkendragon/event1/17.jpg",
+                  "description": "A feast before battle."
+                },
+                {
+                  "image": "/drunkendragon/event1/18.jpg",
+                  "description": "Fighting the Dwarven King."
+                }
+              ]
+            },
+            {
+              "group_name": "Regular Screenshots",
+              "group_description": "Assorted gameplay screenshots.",
+              "images": [
+                {
+                  "image": "/drunkendragon/Toproad.jpg",
+                  "description": "A sandwich store."
+                },
+                {
+                  "image": "/drunkendragon/Goldsmelt.jpg",
+                  "description": "Goldsmelt, a dwarven home by spawn."
+                },
+                {
+                  "image": "/drunkendragon/EEIsland.jpg",
+                  "description": "Herbalist's Island."
+                },
+                {
+                  "image": "/drunkendragon/HerbalistIsland2.jpg",
+                  "description": "Herbalist's Island Lamps."
+                },
+                {
+                  "image": "/drunkendragon/HeadCollection.jpg",
+                  "description": "Head Collection. Players & Mobs would drop them on death."
+                },
+                {
+                  "image": "/drunkendragon/MountainForge.jpg",
+                  "description": "The Mountain Forge stables, part of a gigantic structure collecting everything that could be collected."
+                },
+                {
+                  "image": "/drunkendragon/MinderManorInWorld.jpg",
+                  "description": "Looking at Minder Manor in the world."
+                }
+              ]
+            },
+            {
+              "group_name": "Whispers",
+              "group_description": "A lot of whispers were scheduled or put out with vaguely spooky vibes. These were meant to be from the main antagonist, the World-Eater.",
+              "images": [
+                {
+                  "image": "/drunkendragon/whispers/1.png",
+                  "description": "I once knew more of your kind. Their downfall was a joy."
+                },
+                {
+                  "image": "/drunkendragon/whispers/2.png",
+                  "description": "Chaos spoils the bunch."
+                },
+                {
+                  "image": "/drunkendragon/whispers/3.png",
+                  "description": "Do you fear the reaper? You should for they come for you. (This was teasing the Rider, a death standing who'd come and attack once, they also appeared in the Red Oasis event)"
+                },
+                {
+                  "image": "/drunkendragon/whispers/4.png",
+                  "description": "This world will burn as all before. (This cycle will end)"
+                },
+                {
+                  "image": "/drunkendragon/whispers/5.png",
+                  "description": "You stand alone. What now? (This was one of the targeted ones which I manually wrote into the console to mess with people)"
+                },
+                {
+                  "image": "/drunkendragon/whispers/6.png",
+                  "description": "Steady your heart in the face of an uncertain future. Let not darkness break your spirit or mind. (This one was positive, meant to be from the Curator of the Museum of Ancient Artifacts)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "independent",
+      "era_name": "Independent Era",
+      "start_date": "August 2022",
+      "end_date": "Present",
+      "commentary": "After the fall of the guild, a new era of independent development.",
+      "servers": [
+        {
+          "title": "Maker's Vale",
+          "minecraft_version": "???",
+          "modpack_name": "Maker's Vale",
+          "start_date": "5th of August 2022",
+          "end_date": "September 2022 (Shutdown 11th of November 2022)",
+          "canonized_location": "Tev'esh",
+          "canon_date": "0 BD",
+          "comment": "To continue the story in the same place as the previous server, this marked the introduction of the Legacy structures mod. Many player structures from Drunken Dragon were brought back as ruins. This was explained by the Divine Storm / Reshaping. It also introduced the Divine Artifacts, weapons that had been placed around in the world to be found. Not much lore was developed because I was reeling from the guild's death.",
+          "screenshots": [
+            {
+              "group_name": "Artifacts",
+              "group_description": "Some of the artifacts.",
+              "images": []
+            },
+            {
+              "group_name": "Screenshots",
+              "group_description": "Assorted screenshots.",
+              "images": [
+                {
+                  "image": "/makersvale/SpawnBooks.jpg",
+                  "description": "In a rebuilt Museum of Ancient Artifacts (Thanks to Ed), players read a lore book (or was it the Skyrim intro?)."
+                },
+                {
+                  "image": "/makersvale/Toproad.jpg",
+                  "description": "Toproad from earlier servers spawned in as a structure and was given a makeover."
+                },
+                {
+                  "image": "/makersvale/Giants.jpg",
+                  "description": "Size changing was somewhat common."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MVS 101",
+          "minecraft_version": "1.18.2",
+          "modpack_name": "MVS 101",
+          "start_date": "21st of April 2023",
+          "end_date": "4th of June 2023",
+          "canonized_location": "Third Central Sea Island",
+          "canon_date": "0 BD",
+          "comment": "This split off from Maker's Vale, mostly because I was annoyed by many of the randoms that had been invited to Maker's Vale. The best thing about this server was the boats.",
+          "screenshots": [
+            {
+              "group_name": "Screenshots",
+              "group_description": "Assorted screenshots.",
+              "images": [
+                {
+                  "image": "/mvs101/TheSunkenRoot.jpg",
+                  "description": "The Sunken Root, an Inn in what was later known as Tidegate."
+                },
+                {
+                  "image": "/mvs101/Undertavern.jpg",
+                  "description": "The Undertavern, the hideout of shady types under the Sunken Root."
+                },
+                {
+                  "image": "/mvs101/Tidegate1.jpg",
+                  "description": "Tidegate"
+                },
+                {
+                  "image": "/mvs101/Tidegate2.jpg",
+                  "description": "Tidegate 2"
+                },
+                {
+                  "image": "/mvs101/Tidegate2.jpg",
+                  "description": "Tidegate Harbour"
+                },
+                {
+                  "image": "/mvs101/FlyingIslands.jpg",
+                  "description": "Magically (or by Airshiping accident) floating islands."
+                },
+                {
+                  "image": "/mvs101/ChateuHoot.jpg",
+                  "description": "Château Hoot"
+                },
+                {
+                  "image": "/mvs101/Hooters.jpg",
+                  "description": "Hooters (in Château Hoot)"
+                },
+                {
+                  "image": "/mvs101/ChateuHoot2.jpg",
+                  "description": "Château Hoot farms"
+                },
+                {
+                  "image": "/mvs101/ArcadiaBay1.jpg",
+                  "description": "Arcadia Bay"
+                },
+                {
+                  "image": "/mvs101/ArcadiaBay2.jpg",
+                  "description": "Arcadia Bay House"
+                },
+                {
+                  "image": "/mvs101/HauntedMound1.jpg",
+                  "description": "Haunted Mound"
+                },
+                {
+                  "image": "/mvs101/HauntedMound2.jpg",
+                  "description": "Haunted Mound's sheep pen"
+                },
+                {
+                  "image": "/mvs101/CathedralOfClyde.jpg",
+                  "description": "Cathedral of Clyde"
+                },
+                {
+                  "image": "/mvs101/Blahaj.jpg",
+                  "description": "Blåhaj"
+                },
+                {
+                  "image": "/mvs101/Sad.jpg",
+                  "description": "S.A.D Zone of Exclusion"
+                },
+                {
+                  "image": "/mvs101/ManorAltar.jpg",
+                  "description": "Underground altar & looming manor"
+                },
+                {
+                  "image": "/mvs101/FloatingCity.jpg",
+                  "description": "Floating City"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MVS 2",
+          "minecraft_version": "1.20.1",
+          "modpack_name": "MVS 2",
+          "start_date": "28th March 2024",
+          "end_date": "8th June 2024",
+          "canonized_location": "Silverbeck, Tav'esh",
+          "canon_date": "0 BD",
+          "comment": "New spawn town, lot of religion. A lot of airships, and a lot of players leaning into the RP. This was the greatest success since the Artifact Adventures.",
+          "screenshots": [
+            {
+              "group_name": "Gameplay screenshots",
+              "group_description": "Captured while playing.",
+              "images": [
+                {
+                  "image": "/mvs2/Spawn1.jpg",
+                  "description": "The Woven Wing"
+                },
+                {
+                  "image": "/mvs2/Spawn2.jpg",
+                  "description": "An airship departs over the hill by spawn."
+                },
+                {
+                  "image": "/mvs2/Spawn3.jpg",
+                  "description": "Early screenshot of the Western road."
+                },
+                {
+                  "image": "/mvs2/Spawn4.jpg",
+                  "description": "Battle at the Colosseum of Arum."
+                },
+                {
+                  "image": "/mvs2/Spawn5.jpg",
+                  "description": "Looking back at the spawn point as the High Priest delivers mooblooms."
+                },
+                {
+                  "image": "/mvs2/Spawn6.jpg",
+                  "description": "Local owl on the stairs to Hooters Harbour."
+                },
+                {
+                  "image": "/mvs2/Spawn7.jpg",
+                  "description": "The Colosseum of Arum when it was infested by cacti."
+                },
+                {
+                  "image": "/mvs2/Spawn8.jpg",
+                  "description": "Airship construction & crematorium."
+                },
+                {
+                  "image": "/mvs2/Frog.jpg",
+                  "description": "Big Frug"
+                }
+              ]
+            },
+            {
+              "group_name": "Cinematic Screenshots",
+              "group_description": "Captured posthumously.",
+              "images": [
+                {
+                  "image": "/mvs2/cinematic/CommunityCenter.jpg",
+                  "description": "Community Center"
+                },
+                {
+                  "image": "/mvs2/cinematic/AirshipDock.jpg",
+                  "description": "Airship Dock"
+                },
+                {
+                  "image": "/mvs2/cinematic/MusicHole.jpg",
+                  "description": "Music Hole"
+                },
+                {
+                  "image": "/mvs2/cinematic/FrugKing.jpg",
+                  "description": "Frug King's Domain"
+                },
+                {
+                  "image": "/mvs2/cinematic/DoncFarm.jpg",
+                  "description": "Donc's Farm"
+                },
+                {
+                  "image": "/mvs2/cinematic/DwarfStreet.jpg",
+                  "description": "Dwarf Street"
+                },
+                {
+                  "image": "/mvs2/cinematic/KingdomOfDwarves.jpg",
+                  "description": "Kingdom of the Dwarves"
+                },
+                {
+                  "image": "/mvs2/cinematic/HootersTakeout.jpg",
+                  "description": "Hooters Takeout"
+                },
+                {
+                  "image": "/mvs2/cinematic/OverheadView.jpg",
+                  "description": "Overhead Town View"
+                },
+                {
+                  "image": "/mvs2/cinematic/IslePiproaki.jpg",
+                  "description": "Isle Piporaki"
+                },
+                {
+                  "image": "/mvs2/cinematic/HiddenGrove.jpg",
+                  "description": "Hidden Grove (Well, not so hidden here)"
+                },
+                {
+                  "image": "/mvs2/cinematic/AirshipNest.jpg",
+                  "description": "Airship docked at the Nest."
+                },
+                {
+                  "image": "/mvs2/cinematic/PortalHub.jpg",
+                  "description": "Portal Hub."
+                },
+                {
+                  "image": "/mvs2/cinematic/EndPortal.jpg",
+                  "description": "End Portal"
+                }
+              ]
+            },
+            {
+              "group_name": "World Map",
+              "group_description": "From the Dynmap",
+              "images": [
+                {
+                  "image": "/mvs2/WorldMap.jpg",
+                  "description": "Top down map of the final near spawn area."
+                },
+                {
+                  "image": "/mvs2/WorldMap2.jpg",
+                  "description": "Isometric view of the Spawn Town"
+                },
+                {
+                  "image": "/mvs2/WorldMap3.jpg",
+                  "description": "Isometric view of Isle Piporaki"
+                },
+                {
+                  "image": "/mvs2/WorldMap4.jpg",
+                  "description": "Isometric view of Hythe"
+                }
+              ]
+            },
+            {
+              "group_name": "Event Announcements",
+              "group_description": "Multiple player ran events happened on this server, they were announced with these images.",
+              "images": [
+                {
+                  "image": "/mvs2/Event1.jpg",
+                  "description": "Akaltat vs Vorrik in the Colosseum of Arum. Vorrik was the greater champion."
+                },
+                {
+                  "image": "/mvs2/Event2.jpg",
+                  "description": "The Great Wizard Akaltat recruits people to clear out a cacti infestation by the Colosseum. The cacti were dangerous."
+                },
+                {
+                  "image": "/mvs2/Event3.jpg",
+                  "description": "Into the Ancient City to explore the world beyond. One member was afflicted by whispers telling them to open portals, we never followed up on that."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MVS 3",
+          "minecraft_version": "1.20.1",
+          "modpack_name": "MVS 3",
+          "start_date": "14th August 2024",
+          "end_date": "Shutdown December 2024",
+          "canonized_location": "???",
+          "canon_date": "0 BD",
+          "comment": "This was an excuse to play around with floating islands. It is unlikely we'll go for it again. Maybe part of the world but not the whole.",
+          "screenshots": [
+            {
+              "group_name": "Map & Screenshots",
+              "group_description": "The islands made it hard to comprehend.",
+              "images": [
+                {
+                  "image": "/mvs3/WorldMap.jpg",
+                  "description": "The Spawn Island is hard to decipher. No side-view because the islands overlapped to make it even less decipherable."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MVS 4",
+          "minecraft_version": "1.20.1",
+          "modpack_name": "MVS 4",
+          "start_date": "21st March 2025",
+          "end_date": "27th July 2025",
+          "canonized_location": "???",
+          "canon_date": "80 AD",
+          "comment": "It's all canon. For once, the world border is non-existant which has led certain mutants to explore a lot. The first backup (3 days after launch), was 700 MB.",
+          "screenshots": [
+            {
+              "group_name": "Maps",
+              "group_description": "with the number of terrain gen mods stuffed into this, the world is quite interesting. Just beware of the dragons.",
+              "images": [
+                {
+                  "image": "/mvs4/WorldMap03-24.jpg",
+                  "description": "Captured from Dynmap on the 24th of March."
+                },
+                {
+                  "image": "/mvs4/WorldMap04-03.jpg",
+                  "description": "Captured from Dynmap on the 3rd of April."
+                },
+                {
+                  "image": "/mvs4/JourneyMap04-04.jpg",
+                  "description": "Captured from Journey Map on the 4th of April. Includes some Frontiers but not the entire world."
+                },
+                {
+                  "image": "/mvs4/journeymap-2025-05-19.png",
+                  "description": "Exported from Journey Map on the 19th of May."
+                },
+                {
+                  "image": "/mvs4/Map2025-05-19.JPG",
+                  "description": "Dynmap on the 19th of May."
+                }
+              ]
+            },
+            {
+              "group_name": "Order of the Frogfather",
+              "group_description": "Memories from the Frug",
+              "images": [
+                {
+                  "image": "/mvs4/order_of_frog/dirt.jpg",
+                  "description": "Vorrik pondering dirt."
+                },
+                {
+                  "image": "/mvs4/order_of_frog/temple1.jpg",
+                  "description": "From the benches in the Order's temple."
+                },
+                {
+                  "image": "/mvs4/order_of_frog/temple2.jpg",
+                  "description": "The Bard played... music. After some issues."
+                },
+                {
+                  "image": "/mvs4/order_of_frog/temple3.jpg",
+                  "description": "A great frog watches from the back."
+                }
+              ]
+            },
+            {
+              "group_name": "Hooters Hotel & Dragon Departments",
+              "group_description": "Here be dragons... They are very big.",
+              "images": [
+                {
+                  "image": "/mvs4/hooters/1.jpg",
+                  "description": "The Hooters Hotel"
+                },
+                {
+                  "image": "/mvs4/hooters/Axolotl.jpg",
+                  "description": "A room at the hotel, decorated with the finest of art: Axolotls."
+                },
+                {
+                  "image": "/mvs4/hooters/2.jpg",
+                  "description": "The Lighthouse & farms"
+                },
+                {
+                  "image": "/mvs4/hooters/Dragons1.jpg",
+                  "description": "The entrance to the dragon department's lairs."
+                },
+                {
+                  "image": "/mvs4/hooters/Dragons2.jpg",
+                  "description": "Dragon X"
+                },
+                {
+                  "image": "/mvs4/hooters/Dragons3.jpg",
+                  "description": "Dragon Y"
+                },
+                {
+                  "image": "/mvs4/hooters/Dragons4.jpg",
+                  "description": "Within the lairs, a growing dragon is chained up."
+                },
+                {
+                  "image": "/mvs4/hooters/Dragons5.jpg",
+                  "description": "The Hooters Owl stands beside her dragon."
+                }
+              ]
+            },
+            {
+              "group_name": "Fly-Away Isle",
+              "group_description": "Disclaimer: Doesn't actually fly.",
+              "images": [
+                {
+                  "image": "/mvs4/flyaway_isle/1.jpg",
+                  "description": "The Barn"
+                },
+                {
+                  "image": "/mvs4/flyaway_isle/2.jpg",
+                  "description": "The Mill of Winds"
+                }
+              ]
+            },
+            {
+              "group_name": "Rosewood & Rosegrave",
+              "group_description": "A home long since lost to demonkind, its legacy told by the bloodied strikes of the Clocktower",
+              "images": [
+                {
+                  "image": "/mvs4/rose/1.jpg",
+                  "description": "From a withered tree, into a grave-ground old, this way, that way, be so bold."
+                },
+                {
+                  "image": "/mvs4/rose/2.jpg",
+                  "description": "Into a temple, long since lost."
+                },
+                {
+                  "image": "/mvs4/rose/3.jpg",
+                  "description": "Through the ruin, toward the Clock."
+                },
+                {
+                  "image": "/mvs4/rose/4.jpg",
+                  "description": "The past's not gone."
+                },
+                {
+                  "image": "/mvs4/rose/5.jpg",
+                  "description": "Find your spot."
+                },
+                {
+                  "image": "/mvs4/rose/6.jpg",
+                  "description": "Observe the Clock."
+                },
+                {
+                  "image": "/mvs4/rose/7.jpg",
+                  "description": "Witches' Rest."
+                },
+                {
+                  "image": "/mvs4/rose/8.jpg",
+                  "description": "Camper's Tent."
+                },
+                {
+                  "image": "/mvs4/rose/9.jpg",
+                  "description": "Tavern Quests."
+                },
+                {
+                  "image": "/mvs4/rose/10.jpg",
+                  "description": "Potions Test."
+                },
+                {
+                  "image": "/mvs4/rose/11.jpg",
+                  "description": "To me, my tree-friends."
+                },
+                {
+                  "image": "/mvs4/rose/12.jpg",
+                  "description": "Storyteller's Nest."
+                },
+                {
+                  "image": "/mvs4/rose/13.jpg",
+                  "description": "Voting Block."
+                }
+              ]
+            },
+            {
+              "group_name": "The Library",
+              "group_description": "Fraying at the edge of reality...",
+              "images": [
+                {
+                  "image": "/mvs4/library/1.jpg",
+                  "description": "Entry..."
+                },
+                {
+                  "image": "/mvs4/library/2.jpg",
+                  "description": "Library proper..."
+                },
+                {
+                  "image": "/mvs4/library/3.jpg",
+                  "description": "Books unto the edge."
+                },
+                {
+                  "image": "/mvs4/library/4.jpg",
+                  "description": "A museum?"
+                },
+                {
+                  "image": "/mvs4/library/5.jpg",
+                  "description": "The Truth, they called it."
+                },
+                {
+                  "image": "/mvs4/library/6.jpg",
+                  "description": "Paintings to the left"
+                },
+                {
+                  "image": "/mvs4/library/7.jpg",
+                  "description": "Paintings to the right"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
