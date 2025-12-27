@@ -67,5 +67,12 @@
     "kind": "School",
     "leaders": "High Arcanist",
     "quote": "A university on a remote island, where the faculty continously disappears for extra-planar research expeditions? You had me at island."
+  },
+  {
+    "name": "Mycelian Alliance",
+    "status": "Active",
+    "kind": "Other",
+    "leaders": "Monarch, Council of Captains",
+    "quote": "Pirates. That's all they are. No more, no less. I want them removed from our waters."
   }
 ]
