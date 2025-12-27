@@ -34,6 +34,10 @@
       {
         "name": "Scribes of Aranuo",
         "link": "/factions/scribes-of-aranuo"
+      },
+      {
+        "name": "University of the Arcane",
+        "link": "/factions/university-of-the-arcane"
       }
     ]
   },
@@ -80,7 +84,8 @@
     "table_class": "deityLeftBorder dark",
     "followers": [
       {
-        "name": "Sanctuary"
+        "name": "Sanctuary",
+        "link": "/factions/sanctuary"
       }
     ]
   },

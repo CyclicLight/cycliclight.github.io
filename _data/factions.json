@@ -46,5 +46,26 @@
     "kind": "Clan",
     "leaders": "None",
     "quote": "Their fault was the same as any of our kind, they dug too deep."
+  },
+  {
+    "name": "Muugningar",
+    "status": "???",
+    "kind": "Military",
+    "leaders": "???",
+    "quote": "They don't exist, of course. A mere rumor, but should one go missing in the night..."
+  },
+  {
+    "name": "University of the Arcane",
+    "status": "Active",
+    "kind": "School",
+    "leaders": "Principal & Faculty picked by Aerosi monarchy.",
+    "quote": "No finer place to study, 'cept perhaps Sanctuary, closer though, and in the capital no less."
+  },
+  {
+    "name": "Sanctuary",
+    "status": "Active",
+    "kind": "School",
+    "leaders": "High Arcanist",
+    "quote": "A university on a remote island, where the faculty continously disappears for extra-planar research expeditions? You had me at island."
   }
 ]
