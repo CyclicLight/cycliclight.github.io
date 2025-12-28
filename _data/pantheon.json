@@ -16,7 +16,7 @@
   {
     "name": "Aranou",
     "subname": "Lord of the Arcane",
-    "domains": "Arcana, Knowledge, Study",
+    "domains": "<i>Arcana</i>, <i>Knowledge</i>, Study",
     "alignment": "Lawful Neutral",
     "relations": [
       {
@@ -44,7 +44,7 @@
   {
     "name": "Arthera",
     "subname": "Warden of the Green",
-    "domains": "Nature, Cycle of Life",
+    "domains": "<i>Nature</i>, Cycle of Life",
     "alignment": "Chaotic Good",
     "relations": [
       {
@@ -68,7 +68,7 @@
   {
     "name": "Alai",
     "subname": "Ingenuity Incarnate",
-    "domains": "Invention, Knowledge, Mystery",
+    "domains": "<i>Knowledge</i>, Invention, Mystery",
     "alignment": "Chaotic Neutral",
     "relations": [
       {
@@ -92,12 +92,16 @@
   {
     "name": "Arum",
     "subname": "Father of Battle",
-    "domains": "Honor, Warfare",
+    "domains": "<i>War</i>, Honor",
     "alignment": "Lawful Neutral",
     "affiliation": "The Shards",
     "quote": "He was an old soldier and that was enough to strike fear into the hearts of Eld.",
     "table_class": "",
     "relations": [
+      {
+        "deity": "Caelon",
+        "relation": "Brother"
+      },
       {
         "deity": "Tyra",
         "relation": "Rival"
@@ -108,12 +112,16 @@
     "name": "Tyra",
     "subname": "The Storm",
     "tittle": "The Storm",
-    "domains": "Storms, Warfare",
+    "domains": "<i>Tempest</i>, <i>War</i>, Storms",
     "alignment": "Chaotic Good",
     "relations": [
       {
         "deity": "Loh",
         "relation": "Sibling"
+      },
+      {
+        "deity": "Frya",
+        "relation": "Sister"
       },
       {
         "deity": "Arum",
@@ -133,7 +141,7 @@
   {
     "name": "Hemos",
     "subname": "Light's Herald",
-    "domains": "Light",
+    "domains": "<i>Light</i>",
     "alignment": "Lawful Neutral",
     "relations": [
       {
@@ -158,11 +166,15 @@
   {
     "name": "Loh",
     "subname": "The Bard",
-    "domains": "Stories, Mischief",
+    "domains": "<i>Trickery</i>, Stories, Music",
     "alignment": "Neutral",
     "relations": [
       {
         "deity": "Tyra",
+        "relation": "Sister"
+      },
+      {
+        "deity": "Frya",
         "relation": "Sister"
       },
       {
@@ -177,7 +189,7 @@
   {
     "name": "Moern",
     "subname": "Lord of Graves",
-    "domains": "Graves, Cycle of Life",
+    "domains": "<i>Graves</i>, <i>Death</i>, Cycle of Life",
     "alignment": "Lawful Neutral",
     "affiliation": "The Shards",
     "quote": "And when all was over, in the fields stood a figure encloaked in silver, wielding a shepherds crook. A single bell rang, and they passed on.",
@@ -200,27 +212,43 @@
     ]
   },
   {
-    "name": "Pria",
-    "subname": "Lady of Life",
-    "domains": "Life, Cycle of Life",
+    "name": "Frya",
+    "subname": "Lady of the Living",
+    "domains": "<i>Life</i>, Cycle of Life",
     "alignment": "Chaotic Good",
     "affiliation": "The Shards",
     "quote": "All life is chaos, you can not tame it. It must be given the chance to grow.",
-    "table_class": "deityLeftBorder"
+    "table_class": "deityLeftBorder",
+    "relations": [
+      {
+        "deity": "Tyra",
+        "relation": "Sister"
+      },
+      {
+        "deity": "Loh",
+        "relation": "Sibling"
+      }
+    ]
   },
   {
     "name": "Caelon",
     "subname": "Fallen Lord of Peace",
-    "domains": "Peace",
+    "domains": "<i>Peace</i>",
     "alignment": "Lawful Good",
     "affiliation": "The Shards",
     "quote": "I heard him once, a century past, before the end. A hymn carried by the winds, it brought me home.",
-    "table_class": "deityBottomBorder dark"
+    "table_class": "deityBottomBorder dark",
+    "relations": [
+      {
+        "deity": "Arum",
+        "relation": "Brother"
+      }
+    ]
   },
   {
     "name": "The Daughter",
     "subname": "Of the Broken Moon",
-    "domains": "Moon, Twilight",
+    "domains": "<i>Twilight</i>, Moon",
     "alignment": "Chaotic ???",
     "affiliation": "The Shards",
     "quote": "Do you not believe in hope? Even in the dark, there is a moon.",
@@ -229,7 +257,7 @@
   {
     "name": "Erebon",
     "subname": "The Netherghoul",
-    "domains": "Death, Necromancy",
+    "domains": "<i>Death</i>, Necromancy",
     "alignment": "Chaotic Evil",
     "affiliation": "None",
     "quote": "He is as much a child of the hells as of the grave, this offer of his has a price.",
@@ -250,7 +278,7 @@
   {
     "name": "Frug",
     "subname": "The Frog Lord",
-    "domains": "Swamplands",
+    "domains": "Swamps",
     "alignment": "Chaotic Evil",
     "affiliation": "None",
     "quote": "Trust not the Croaker, he only hungers."
@@ -258,7 +286,7 @@
   {
     "name": "Cecille",
     "subname": "Daughter of Light",
-    "domains": "Light",
+    "domains": "<i>Light</i>",
     "alignment": "Good",
     "affiliation": "Hemos",
     "relations": [
