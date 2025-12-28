@@ -155,7 +155,7 @@
     "name": "Halfling",
     "kind": "sentient",
     "short_desc": "Medium-short.",
-    "long_desc": "",
+    "long_desc": "No one quite knows how or when Halflings arrived to the world. Their presence is a muted one, unnoticed by many.",
     "lineages": [
       {
         "name": "Halfling",
@@ -164,7 +164,7 @@
     ],
     "classification": "Humanoid",
     "origin": "???",
-    "lifespan": "300-400 years"
+    "lifespan": "100 years"
   },
   {
     "name": "Vampire",
