@@ -34,6 +34,12 @@ layout: default
                         <td><b>Alignment</b></td>
                         <td>{{page.alignment}}</td>
                     </tr>
+                    {% if page.icon %}
+                    <tr>
+                      <td><b>Symbol</b></td>
+                      <td>{{page.icon}}</td>
+                    </tr>
+                    {% endif %}
                     {% if page.affiliation %}
                     <tr>
                         <td><b>Affiliation</b></td>

@@ -11,7 +11,8 @@
     "domains": "Destruction, Void",
     "alignment": "Chaotic Evil",
     "table_class": "deityLeftBorder deityTopBorder dark deityThinRow",
-    "quote": "Throw wide the ordered gates."
+    "quote": "Throw wide the ordered gates.",
+    "icon": "Black Eye"
   },
   {
     "name": "Aranou",
@@ -63,7 +64,8 @@
         "name": "Viridescent Vigil",
         "link": "/factions/viridescent-vigil"
       }
-    ]
+    ],
+    "icon": "Leaf"
   },
   {
     "name": "Alai",
@@ -106,7 +108,8 @@
         "deity": "Tyra",
         "relation": "Rival"
       }
-    ]
+    ],
+    "icon": "Tasseled Broadsword"
   },
   {
     "name": "Tyra",
@@ -161,7 +164,8 @@
         "name": "Lights' Blades",
         "link": "/factions/lights-blades"
       }
-    ]
+    ],
+    "icon": "Eight-pointed sun"
   },
   {
     "name": "Loh",
@@ -184,7 +188,8 @@
     ],
     "affiliation": "The Shards",
     "quote": "Ever-shifting, ever-changing, they came to me and I heard song.",
-    "table_class": "deityLeftBorder dark"
+    "table_class": "deityLeftBorder dark",
+    "icon": "Musical Instrument"
   },
   {
     "name": "Moern",
@@ -209,12 +214,13 @@
         "name": "Ravendraught",
         "link": "/factions/ravendraught"
       }
-    ]
+    ],
+    "icon": "Grey Rose"
   },
   {
     "name": "Frya",
     "subname": "Lady of the Living",
-    "domains": "<i>Life</i>, Cycle of Life",
+    "domains": "<i>Life</i>, <i>Love</i>, Cycle of Life",
     "alignment": "Chaotic Good",
     "affiliation": "The Shards",
     "quote": "All life is chaos, you can not tame it. It must be given the chance to grow.",
@@ -228,7 +234,8 @@
         "deity": "Loh",
         "relation": "Sibling"
       }
-    ]
+    ],
+    "icon": "Heart"
   },
   {
     "name": "Caelon",
@@ -243,7 +250,8 @@
         "deity": "Arum",
         "relation": "Brother"
       }
-    ]
+    ],
+    "icon": "Falling Feather"
   },
   {
     "name": "The Daughter",
@@ -252,7 +260,8 @@
     "alignment": "Chaotic ???",
     "affiliation": "The Shards",
     "quote": "Do you not believe in hope? Even in the dark, there is a moon.",
-    "table_class": "deityLeftBorder deityThinRow dark"
+    "table_class": "deityLeftBorder deityThinRow dark",
+    "icon": "The Broken Moon"
   },
   {
     "name": "Erebon",
