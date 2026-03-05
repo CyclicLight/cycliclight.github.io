@@ -1,7 +1,7 @@
 [
   {
     "name": "Elf",
-    "kind": "sentient",
+    "kind": "regular",
     "short_desc": "Created to watch over the surface.",
     "lineages": [
       {
@@ -23,7 +23,7 @@
   },
   {
     "name": "Dwarf",
-    "kind": "sentient",
+    "kind": "regular",
     "short_desc": "Rocky, rich in minerals. Created to watch over the underground.",
     "lineages": [
       {
@@ -61,7 +61,7 @@
   },
   {
     "name": "Dragonborn",
-    "kind": "sentient",
+    "kind": "regular",
     "short_desc": "Smaller & flightless but sturdy & as tempermental as their creators.",
     "lineages": [
       {
@@ -83,8 +83,8 @@
   },
   {
     "name": "Aasimar",
-    "kind": "sentient",
-    "short_desc": "Marble-skinned, winged, forged by divine hands, assistants to the Shards.",
+    "kind": "regular",
+    "short_desc": "Marble-skinned, winged, forged by divine hands.",
     "long_desc": "The Aasimar are humanoid creatures forged by Hemos with a connection to the <i>Font of Divinity</i> from which their innate magics are derived. They were made to assist the Shards, travelling the world & ensuring it was safe from threats beyond & within.",
     "lineages": [
       {
@@ -102,7 +102,7 @@
   },
   {
     "name": "Birdfolk",
-    "kind": "sentient",
+    "kind": "regular",
     "short_desc": "Bipedal birds.",
     "long_desc": "Created in 'cooperation' between Hemos & Loh, the Birdfolk are birdlike humanoids covered in feathers with clawed three pointed extremities.",
     "lineages": [
@@ -121,8 +121,8 @@
   },
   {
     "name": "Goblin",
-    "kind": "sentient",
-    "short_desc": "Green, Aquamarine, Thin, Wide, Tall, Short, *Long-eared*.",
+    "kind": "regular",
+    "short_desc": "Green, Aquamarine, Thin, Wide, Short, Long-eared.",
     "long_desc": "Goblinoids are not truly a singular species, born from the alchemical <i>Goblin Concoction</i>, they are as twice as varied and twice as mad as most others. While typically small, green, and pointy-eared, their construction gives way to all manners of mutations & colourations.",
     "lineages": [
       {
@@ -135,41 +135,27 @@
     "lifespan": "20 - ??? years (Mutation dependent)"
   },
   {
-    "name": "Gnome",
-    "kind": "sentient",
-    "short_desc": "Short, cunning.",
-    "long_desc": "The origins of gnomes are veiled in mystery, though the more common theories include disagreements between Alai & Arum following the creation of dwarves. Following this gnomes were either Alai's own lineage without Arum's influence or her improved mold.",
-    "lineages": [
-      {
-        "name": "Wood"
-      },
-      {
-        "name": "Stone"
-      }
-    ],
-    "classification": "Humanoid",
-    "origin": "Alai",
-    "lifespan": "300-400 years"
+    "name": "Devilspawn",
+    "kind": "mutation",
+    "short_desc": "Partakers of the Devilsblood, whether intentionally or by birth.",
+    "long_desc": "",
+    "classification": "Devil",
+    "origin": "Varying",
+    "lifespan": "Normal for species"
   },
   {
-    "name": "Halfling",
-    "kind": "sentient",
-    "short_desc": "Medium-short.",
-    "long_desc": "No one quite knows how or when Halflings arrived to the world. Their presence is a muted one, unnoticed by many.",
-    "lineages": [
-      {
-        "name": "Halfling",
-        "long_desc": "No one quite knows where halflings came from."
-      }
-    ],
-    "classification": "Humanoid",
-    "origin": "???",
-    "lifespan": "100 years"
+    "name": "Leafspawn",
+    "kind": "mutation",
+    "short_desc": "Spending enough time around the Spores of the Living City, one may find themself part of it.",
+    "long_desc": "",
+    "classification": "Plant",
+    "origin": "Inhaling the Spores of the Living City",
+    "lifespan": "Normal for species"
   },
   {
     "name": "Vampire",
     "kind": "mutation",
-    "short_desc": "Blood-drinking wanderers of the night, raised in undeath to serve the World-Eater.",
+    "short_desc": "Wanderers of the night, raised in undeath, preying on the warm.",
     "long_desc": "",
     "classification": "Undead",
     "origin": "The World-Eater",
@@ -182,15 +168,6 @@
     "long_desc": "",
     "classification": "Monstrosity",
     "origin": "The Daughter",
-    "lifespan": "Normal for species"
-  },
-  {
-    "name": "Demonspawn",
-    "kind": "mutation",
-    "short_desc": "Half-demons, born or infected.",
-    "long_desc": "",
-    "classification": "Demon",
-    "origin": "Varying",
     "lifespan": "Normal for species"
   }
 ]

@@ -1,3 +1,7 @@
+:root {
+    interpolate-size: allow-keywords;
+}
+
 html {
     width: 100%;
     background-image: url("/assets/wiki/background.jpg");
@@ -145,4 +149,68 @@ img {
 .spanTall {
     grid-row: span 2;
     align-content: center;
+}
+
+.EntryGrid {
+    display: grid;
+    align-items: flex-start;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+
+    @media (max-width: 1200px) {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (max-width: 800px) {
+        grid-template-columns: 1fr;
+    }
+
+    details {
+        summary {
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            row-gap: 4px;
+            padding: 4px;
+
+            .title {
+                display: flex;
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+
+                > p {
+                    margin: 0px;
+                }
+            }
+
+            h2 {
+                margin: 0px;
+                margin-top: 5px;
+            }
+        }
+
+        &::details-content {
+            height: 0;
+            overflow: hidden;
+            transition: all 0.5s;
+            transition-behavior: allow-discrete;
+        }
+
+        &:open {
+            summary {
+                border-bottom: 1px solid black;
+            }
+
+            &::details-content {
+                height: auto;
+            }
+        }
+        border: 1px solid black;
+        box-shadow: 3px 3px 3px black;
+
+        padding: 4px;
+    }
+
+    margin: 16px;
 }

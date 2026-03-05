@@ -4,66 +4,43 @@ title: Creatures
 
 ---
 
-## Sentient
+## The Regular Folk
 
-<table>
-    <th>
-        Name
-    </th>
-    <th>
-        Description
-    </th>
-    <th>
-        Sub-Lineages
-    </th>
-    <th>
-        Classification
-    </th>
-    <th>
-        Origin
-    </th>
-
+<div class="EntryGrid">
     {% for creature in site.data.creatures %}
-    {% if creature.kind == "sentient" %}
-    <tr>
-      <td><a href="{{creature.name | downcase | slugify}}">{{creature.name}}</a></td>
-      <td>{{creature.short_desc}}</td>
-      <td>{% for lineage in creature.lineages %}
-        {{lineage.name}}{% unless forloop.last %}, {% endunless %}
-      {% endfor %}</td>
-      <td>{{creature.classification}}</td>
-      <td>{{creature.origin}}</td>
-    </tr>
+    {% if creature.kind == "regular" %}
+    <details>
+        <summary>
+            <div class="title">
+                <h2><a href="{{creature.name | downcase | slugify}}">{{creature.name}}</a></h2>
+                <p>{{creature.classification}}</p>
+            </div>
+            <i>{{creature.short_desc}}</i>
+        </summary>
+        <p>{{creature.long_desc}}</p>
+    </details>
     {% endif %}
     {% endfor %}
-</table>
+</div>
 
 ## Mutations
 
-Creatures which aren't a unique species themselves but mutations applicable to a multitude of sentient creatures.
+Creatures which aren't a distinct lineage themselves but mutations applicable to a multitude of creatures.
 
-<table>
-    <th>
-        Name
-    </th>
-    <th>
-        Description
-    </th>
-    <th>
-        Classification
-    </th>
-    <th>
-        Origin
-    </th>
 
+<div class="EntryGrid">
     {% for creature in site.data.creatures %}
     {% if creature.kind == "mutation" %}
-    <tr>
-      <td><a href="{{creature.name | downcase | slugify}}">{{creature.name}}</a></td>
-      <td>{{creature.short_desc}}</td>
-      <td>{{creature.classification}}</td>
-      <td>{{creature.origin}}</td>
-    </tr>
+    <details>
+        <summary>
+            <div class="title">
+                <h2><a href="{{creature.name | downcase | slugify}}">{{creature.name}}</a></h2>
+                <p>{{creature.classification}}</p>
+            </div>
+            <i>{{creature.short_desc}}</i>
+        </summary>
+        <p>{{creature.long_desc}}</p>
+    </details>
     {% endif %}
     {% endfor %}
-</table>
+</div>

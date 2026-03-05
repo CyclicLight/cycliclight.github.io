@@ -3,28 +3,17 @@ layout: default
 title: Factions
 ---
 
-<table>
-    <th>
-        Name
-    </th>
-    <th>
-        Status
-    </th>
-
-    {% assign header = "NOHEADER" %}
+<div class="EntryGrid">
     {% assign factions_by_kind = site.data.factions | sort: "kind" %}
-
     {% for faction in factions_by_kind %}
-    {% if faction.kind != header %}
-      <tr style="text-align: center;">
-        <th colspan="2" class="deityThinRow" style="padding: 5px;">{{ faction.kind }}</th>
-      </tr>
-  
-      {% assign header = faction.kind %}
-    {% endif %}
-    <tr>
-      <td><a href="{{faction.name | downcase | slugify}}">{{faction.name}}</a></td>
-      <td>{{faction.status}}</td>
-    </tr>
+    <details>
+        <summary>
+            <div class="title">
+                <h2><a href="{{faction.name | downcase | slugify}}">{{faction.name}}</a></h2>
+                <p>{{faction.kind}}</p>
+            </div>
+            <i>{{ faction.quote }}</i>
+        </summary>
+    </details>
     {% endfor %}
-</table>
+</div>
