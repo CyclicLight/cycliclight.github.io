@@ -1,78 +1,12 @@
 [
   {
-    "name": "Morugarde",
-    "status": "Degraded",
-    "kind": "Religious Organisation",
+    "name": "Maiden Council of High Mystics",
+    "status": "Disbanded",
+    "era": "Ancient",
+    "kind": "Coven",
     "leaders": "??? (Currently), Highlord Krarnis (Formely), Orson Freewillow (Formerly)",
-    "quote": "The scourge of the undead once, now? There's a reason cremation's become preferable."
-  },
-  {
-    "name": "Lights' Blades",
-    "status": "Active",
-    "kind": "Religious Organisation",
-    "leaders": "High Priestess Grey"
-  },
-  {
-    "name": "Scribes of Aranuo",
-    "status": "Active",
-    "kind": "Religious Organisation",
-    "leaders": "Council"
-  },
-  {
-    "name": "Ravendraught",
-    "status": "Active",
-    "kind": "Clan",
-    "leaders": "???",
-    "quote": "Bone speakers playing at merchants. Those ravens are not simply aesthetic."
-  },
-  {
-    "name": "Viridescent Vigil",
-    "status": "Active",
-    "kind": "Druid Circle",
-    "leaders": "Archdruid Aegaros & Archdruid Faewynn",
-    "quote": "Older than most nations and among the first druids in existence. Needest thou a guide in the realm of faerie, they are it."
-  },
-  {
-    "name": "Sternbough",
-    "status": "Active",
-    "kind": "Clan",
-    "leaders": "???",
-    "quote": "At journey's end, he found it, home, beyond the Mountain of Eld.",
-    "quote_speaker": "Memoirs of Sire Sternbough"
-  },
-  {
-    "name": "Greygong",
-    "status": "Extinct",
-    "kind": "Clan",
-    "leaders": "None",
-    "quote": "Their fault was the same as any of our kind, they dug too deep."
-  },
-  {
-    "name": "Muugningar",
-    "status": "???",
-    "kind": "Military",
-    "leaders": "???",
-    "quote": "They don't exist, of course. A mere rumor, but should one go missing in the night..."
-  },
-  {
-    "name": "University of the Arcane",
-    "status": "Active",
-    "kind": "School",
-    "leaders": "Principal & Faculty picked by Aerosi monarchy.",
-    "quote": "No finer place to study, 'cept perhaps Sanctuary, closer though, and in the capital no less."
-  },
-  {
-    "name": "Sanctuary",
-    "status": "Active",
-    "kind": "School",
-    "leaders": "High Arcanist",
-    "quote": "A university on a remote island, where the faculty continously disappears for extra-planar research expeditions? You had me at island."
-  },
-  {
-    "name": "Mycelian Alliance",
-    "status": "Active",
-    "kind": "Other",
-    "leaders": "Monarch, Council of Captains",
-    "quote": "Pirates. That's all they are. No more, no less. I want them removed from our waters."
+    "quote": "Not even they, greatest mystics of their time, lived forever.",
+    "quote_speaker": "Holvar, 7th Mystic of the Autumnal Oakwards",
+    "long_desc": "Among the first recorded grouping of mystics, the Maiden Council combining their resources to develop fundamental understandings of magic. Their disbanding was slow and deadly. In their twilight years, it's members pooled their power into the Mystwell"
   }
 ]
