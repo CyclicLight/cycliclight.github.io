@@ -4,9 +4,19 @@
     "status": "Disbanded",
     "era": "Ancient",
     "kind": "Coven",
-    "leaders": "??? (Currently), Highlord Krarnis (Formely), Orson Freewillow (Formerly)",
+    "leaders": "",
     "quote": "Not even they, greatest mystics of their time, lived forever.",
     "quote_speaker": "Holvar, 7th Mystic of the Autumnal Oakwards",
     "long_desc": "Among the first recorded grouping of mystics, the Maiden Council combining their resources to develop fundamental understandings of magic. Their disbanding was slow and deadly. In their twilight years, it's members pooled their power into the Mystwell"
+  },
+  {
+    "name": "The Weather Court",
+    "status": "Gone",
+    "era": "Ancient",
+    "kind": "Coven",
+    "leaders": "",
+    "quote": "Gone! Their great plan coming to a blubbering halt!",
+    "quote_speaker": "Tilea Bog, Wandering Weather Witch",
+    "long_desc": "Though their disbanding is shrouded in mystery, they are said to have been instrumental in the birth of the Living City & intended to repeat their success on a greater scale."
   }
 ]

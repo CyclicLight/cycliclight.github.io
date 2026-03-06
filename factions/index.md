@@ -3,6 +3,8 @@ layout: default
 title: Factions
 ---
 
+An account of the major factions affecting the state of the realms. If they are not here, they are simply not important, as decreed by the *Royal Historic Society of the Staglands*.
+
 <h2>
     Active
 </h2>
@@ -59,7 +61,7 @@ title: Factions
     Ancient
 </h2>
 <p>
-    Organisations long since dismantled & lost to time
+    Organisations long since dismantled.
 </p>
 
 <div class="EntryGrid">
