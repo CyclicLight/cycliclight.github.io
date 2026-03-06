@@ -9,7 +9,7 @@ title: Concepts
     <details>
         <summary>
             <div class="title">
-                <h2><a href="{{concept.name | downcase | slugify}}">{{concept.name}}</a></h2>
+                <h2>{{concept.name}}</h2>
                 <p>{{concept.kind}}</p>
             </div>
             <i>{{ concept.short_desc }}</i>
