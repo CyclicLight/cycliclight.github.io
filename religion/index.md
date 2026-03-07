@@ -11,8 +11,16 @@ The four deities who watch over the cycle of life and death, each playing a part
 
 {% include pantheon.html group="cycle" %}
 
+## The Seeking
+
+## The Storm & Ravens
+
+## The Others
+
+{% include pantheon.html group="others" %}
+
 ## Null Gods
 
-Parasitic Entities (in view of the others at least) with the ability to gain power from worship. 
+Parasitic Entities (in view of the rest at least) with the ability to gain power from worship. 
 
 {% include pantheon.html group="null" %}

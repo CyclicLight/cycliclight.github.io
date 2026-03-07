@@ -10,5 +10,11 @@
     "group": "cycle",
     "domains": "Death, Underworld",
     "short_desc": "At the end, it is they you meet, at the doorstep to the Underworld."
+  },
+  {
+    "name": "Vaelia",
+    "group": "others",
+    "domains": "Death, Necromancy",
+    "short_desc": "Should you take her path, there will be no end, never, he will not take your soul. You shall walk forever more."
   }
 ]
