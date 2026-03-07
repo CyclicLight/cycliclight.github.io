@@ -10,8 +10,17 @@
     "name": "The Living City",
     "short_desc": "An evergrowth born of a Great Tree, an infectious paradise for those within.",
     "long_desc": "<i>Mikiltré</i>, the Living City is a paradise to many, growing & changing to house and feed those within. It's spores spreading, changing, and joining them.",
+    "vibe": "Flowing Greens & Flowery Grooves",
     "kind": "major",
     "classification": "City"
+  },
+  {
+    "name": "Wurmspeil",
+    "short_desc": "Nestled in the mountains, fed by meat and herbs, it's spires rise to the skies.",
+    "long_desc": "The spires of Wurmspeil prefer to keep their secrets close, though oft recognizable by their draconic symbols & potions brewed <i>Levensblad</i>, a restorative but mildly psychadelic herb found in the cold.",
+    "vibe": "Gothic",
+    "kind": "major",
+    "classification": "Nation"
   },
   {
     "name": "The ??? Dominion",
@@ -19,6 +28,13 @@
     "long_desc": "The Dominion has ever been a force upon the sands, where great houses drive daggers held by \"indentured servants\" into each other. Though they may live long, they do not live cheap.",
     "kind": "major",
     "classification": "Nation"
+  },
+  {
+    "name": "Blasting Hollow",
+    "short_desc": "The sun burns the dreamer, the refugees, and the mad. But it does not burn the minerals below.",
+    "long_desc": "Unclaimed by any others, Blasting Hollow rests in a mineral rich salt flat. Favoured by inventors, it has become the home to automaton development & gunpowder experimentation, though little of it escapes the valley.",
+    "kind": "major",
+    "classification": "City"
   },
   {
     "name": "The Lands of Ash",
