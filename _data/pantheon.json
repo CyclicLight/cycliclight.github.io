@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Moern",
+    "group": "cycle",
+    "domains": "Death, Graves",
+    "short_desc": "The Lord of Graves, He Who Shepherds the Souls."
+  },
+  {
+    "name": "The Ferryman",
+    "group": "cycle",
+    "domains": "Death, Underworld",
+    "short_desc": "At the end, it is they you meet, at the doorstep to the Underworld."
+  }
+]

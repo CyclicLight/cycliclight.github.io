@@ -1,18 +1,19 @@
-<div class="deitiesGrid">
-    <h4 class="deityThinRow" style="text-align: center; margin-bottom: 0px">
-        Ordered
-    </h4>
-    <h4 class="deityThinRow" style="text-align: center; margin-bottom: 0px">
-        Chaotic
-    </h4>
+<div class="EntryGrid">
+    {% for deity in site.data.pantheon %} {% if deity.group == include.group %}
+    <details>
+        <summary>
+            <div class="title">
+                <h2>
+                    <a href="{{deity.name | downcase | slugify}}"
+                        >{{deity.name}}</a
+                    >
+                </h2>
+                <p>{{deity.domains}}</p>
+            </div>
+            <span>{{ deity.short_desc }}</span>
+        </summary>
 
-    {% for deity in site.data.pantheon %} {% if deity.table_class %}
-    <div class="{{deity.table_class}}">
-        <a href="{{deity.name | downcase | slugify}}"
-            >{{deity.name}}{% if deity.subname %}, {{deity.subname}}{% endif
-            %}</a
-        >
-        <div class="deityDescription">{{deity.domains}}</div>
-    </div>
+        <p>{{ deity.long_desc }}</p>
+    </details>
     {% endif %} {% endfor %}
 </div>
