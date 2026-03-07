@@ -12,5 +12,12 @@
     "short_desc": "",
     "long_desc": "",
     "quote": "It is on the move again. E'ryone with a lick o' wareness from here to the Living City can feel it."
+  },
+  {
+    "name": "Death",
+    "kind": "Event",
+    "short_desc": "Life ends in it.",
+    "long_desc": "When you die, Moern* or more likely a follower of his, will shepherd your soul to the Underworld. From there, the Ferryman will take you to your final destination.<br><br>*<i>Exceptions apply, followers of other gods may find their souls elsewhere.</i>",
+    "quote": "Who do you think built the station?"
   }
 ]
