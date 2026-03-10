@@ -19,5 +19,12 @@
     "short_desc": "Life ends in it.",
     "long_desc": "When you die, Moern* or more likely a follower of his, will shepherd your soul to the Underworld. From there, the Ferryman will take you to your final destination.<br><br>*<i>Exceptions apply, followers of other gods may find their souls elsewhere.</i>",
     "quote": "Who do you think built the station?"
+  },
+  {
+    "name": "Raven's Gold",
+    "kind": "Currency",
+    "short_desc": "A small black coin, carved as though it was made of feathers.",
+    "long_desc": "Stolen from the Ravenlord themself, the coinage of thieves and ravens alike. Used to barter with their patron and ravens.",
+    "quote": "However do you think they became our patron? That piece is yours, you've earned it. Keep it close, spend it when you need it."
   }
 ]
