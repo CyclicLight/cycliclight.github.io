@@ -38,6 +38,7 @@
     "short_desc": "The sun burns the dreamer, the refugees, and the mad. But it does not burn the minerals below.",
     "long_desc": "Unclaimed by any others, Blasting Hollow rests in a mineral rich salt flat. Favoured by inventors, it has become the home to automaton development & gunpowder experimentation, though little of it escapes the valley.",
     "kind": "major",
+    "vibe": "Steampunk Wild West",
     "classification": "City",
     "position": "South-East"
   },
@@ -46,6 +47,7 @@
     "short_desc": "The home of devils and demons.",
     "long_desc": "Though it's location disputed, any true born devil or demon knows the way. An near inhospitable wasteland split between law and war, devouring itself. No wonder they seek escape.",
     "kind": "major",
+    "vibe": "Hell",
     "classification": "Continent?",
     "position": "???"
   },
