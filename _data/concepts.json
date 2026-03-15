@@ -26,5 +26,12 @@
     "short_desc": "A small black coin, carved as though it was made of feathers.",
     "long_desc": "Stolen from the Ravenlord themself, the coinage of thieves and ravens alike. Used to barter with their patron and ravens.",
     "quote": "However do you think they became our patron? That piece is yours, you've earned it. Keep it close, spend it when you need it."
+  },
+  {
+    "name": "Bog Sickness",
+    "kind": "Plague",
+    "short_desc": "A terrible sickness which turned it's hosts undead.",
+    "long_desc": "",
+    "quote": "It ravaged the lands, tore kingdoms to shreds. The only survivors were the lonely, lost, and magic. And those in the City, of course."
   }
 ]
