@@ -42,5 +42,12 @@
     "long_desc": "Though it's location disputed, any true born devil or demon knows the way. An near inhospitable wasteland split between law and war, devouring itself. No wonder they seek escape.",
     "kind": "major",
     "classification": "Continent?"
+  },
+  {
+    "name": "Flotsam Archipelago",
+    "short_desc": "Not everyone manages to cross the sea.",
+    "long_desc": "When a ship sails too late and meets a terrible end, the scavengers come, and colllect. On the deep ocean, they build homes, survive.",
+    "kind": "major",
+    "classification": "Towns"
   }
 ]
