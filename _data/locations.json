@@ -4,7 +4,8 @@
     "short_desc": "The center of the world drains & rises, crossing is dangerous but going around is slow.",
     "long_desc": "A sea surrounded by continents, on a cycle almost predictable, 3 or 4 weeks at most, it drains. Little life survives within longer than a cycle.\nAnd when it returns, with storm and thunder, it takes from all which surrounds it.\nCrossing is dangerous but going around is slow.",
     "kind": "major",
-    "classification": "Ocean"
+    "classification": "Ocean",
+    "position": "Center"
   },
   {
     "name": "The Living City",
@@ -12,7 +13,8 @@
     "long_desc": "<i>Mikiltré</i>, the Living City is a paradise to many, growing & changing to house and feed those within. It's spores spreading, changing, and joining them.",
     "vibe": "Flowing Greens & Flowery Grooves",
     "kind": "major",
-    "classification": "City"
+    "classification": "City",
+    "position": "North"
   },
   {
     "name": "Wurmspeil",
@@ -20,34 +22,39 @@
     "long_desc": "The spires of Wurmspeil prefer to keep their secrets close, though oft recognizable by their draconic symbols & potions brewed <i>Levensblad</i>, a restorative but mildly psychadelic herb found in the cold.",
     "vibe": "Gothic",
     "kind": "major",
-    "classification": "Nation"
+    "classification": "Nation",
+    "position": "North-West"
   },
   {
     "name": "The ??? Dominion",
     "short_desc": "In the Desert rises an oasis of marble and gardens, of euphoria for the privileged.",
     "long_desc": "The Dominion has ever been a force upon the sands, where great houses drive daggers held by \"indentured servants\" into each other. Though they may live long, they do not live cheap.",
     "kind": "major",
-    "classification": "Nation"
+    "classification": "Nation",
+    "position": "South"
   },
   {
     "name": "Blasting Hollow",
     "short_desc": "The sun burns the dreamer, the refugees, and the mad. But it does not burn the minerals below.",
     "long_desc": "Unclaimed by any others, Blasting Hollow rests in a mineral rich salt flat. Favoured by inventors, it has become the home to automaton development & gunpowder experimentation, though little of it escapes the valley.",
     "kind": "major",
-    "classification": "City"
+    "classification": "City",
+    "position": "South-East"
   },
   {
     "name": "The Lands of Ash",
     "short_desc": "The home of devils and demons.",
     "long_desc": "Though it's location disputed, any true born devil or demon knows the way. An near inhospitable wasteland split between law and war, devouring itself. No wonder they seek escape.",
     "kind": "major",
-    "classification": "Continent?"
+    "classification": "Continent?",
+    "position": "???"
   },
   {
     "name": "Flotsam Archipelago",
     "short_desc": "Not everyone manages to cross the sea.",
     "long_desc": "When a ship sails too late and meets a terrible end, the scavengers come, and colllect. On the deep ocean, they build homes, survive.",
     "kind": "major",
-    "classification": "Towns"
+    "classification": "Towns",
+    "position": "Center"
   }
 ]

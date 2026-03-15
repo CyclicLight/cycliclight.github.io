@@ -17,6 +17,14 @@ title: Locations
             </div>
             <i>{{location.short_desc}}</i>
         </summary>
+        <div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%; padding: 8px; box-sizing: border-box;">
+            {% if location.vibe %}
+                <i class="tooltip">✨ {{location.vibe}}<span class="tooltiptext">Vibe</span></i>
+            {% else %}
+                <span></span>
+            {% endif %}
+            <i class="tooltip">🧭 {{location.position}}<span class="tooltiptext">Location</span></i>
+        </div>
         <p>{{location.long_desc}}</p>
     </details>
     {% endif %}
