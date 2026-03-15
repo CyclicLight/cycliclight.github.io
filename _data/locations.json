@@ -58,5 +58,13 @@
     "kind": "major",
     "classification": "Towns",
     "position": "Center"
+  },
+  {
+    "name": "Wurmpass",
+    "short_desc": "The path between the mountains.",
+    "long_desc": "A dangerous road, leading to Wurmspiel and beyond. Tight passages, and unstable ground makes this road a deadly step for many a traveller.",
+    "kind": "major",
+    "classification": "Path",
+    "position": "West"
   }
 ]
