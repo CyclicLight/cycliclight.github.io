@@ -33,5 +33,12 @@
     "short_desc": "A terrible sickness which turned it's hosts undead.",
     "long_desc": "",
     "quote": "It ravaged the lands, tore kingdoms to shreds. The only survivors were the lonely, lost, and magic. And those in the City, of course."
+  },
+  {
+    "name": "Moons",
+    "kind": "Celestial Bodies",
+    "short_desc": "In the night, they shine, the two sisters. One broken, the other vengeful.",
+    "long_desc": "In the skies, hang two moons, or so it was. It is said that in battle amongst the gods, the younger moon <i>Silja</i> was shattered, her remains now rings around her sister.",
+    "quote": "She is a caring one, her sister's shattering made her vengeful.."
   }
 ]

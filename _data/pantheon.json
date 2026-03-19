@@ -16,5 +16,17 @@
     "group": "others",
     "domains": "Death, Bogs, Necromancy",
     "short_desc": "Should you take her path, there will be no end, never, he will not take your soul. You shall walk forever more."
+  },
+  {
+    "name": "Vera",
+    "group": "celestials",
+    "domains": "Moon, Love, Vengeance",
+    "short_desc": "The Goddess of the Greater Moon."
+  },
+  {
+    "name": "Silja",
+    "group": "celestials",
+    "domains": "Moon, Twilight",
+    "short_desc": "The Goddess of the Lesser Moon."
   }
 ]

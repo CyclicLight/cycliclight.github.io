@@ -11,6 +11,10 @@ The four deities who watch over the cycle of life and death, each playing a part
 
 {% include pantheon.html group="cycle" %}
 
+## The Celestials
+
+{% include pantheon.html group="celestials" %}
+
 ## The Seeking
 
 ## The Storm & Ravens
