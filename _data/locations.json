@@ -66,5 +66,13 @@
     "kind": "major",
     "classification": "Path",
     "position": "West"
+  },
+  {
+    "name": "Ordahl",
+    "short_desc": "Once a gleaming home, now it's ruins are infested with the dead.",
+    "long_desc": "Before the Bog Sickness, Ordahl was a major trade & mining hub. Much of it's riches still reamain within the walls, protected by the dead. Many have entered, few have left.",
+    "kind": "major",
+    "classification": "City Ruin",
+    "position": "North"
   }
 ]
