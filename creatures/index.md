@@ -44,3 +44,6 @@ Creatures which aren't a distinct lineage themselves but mutations applicable to
     {% endif %}
     {% endfor %}
 </div>
+
+
+## Other

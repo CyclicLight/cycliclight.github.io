@@ -40,5 +40,12 @@
     "short_desc": "In the night, they shine, the two sisters. One broken, the other vengeful.",
     "long_desc": "In the skies, hang two moons, or so it was. It is said that in battle amongst the gods, the younger moon <i>Silja</i> was shattered, her remains now rings around her sister.",
     "quote": "She is a caring one, her sister's shattering made her vengeful.."
+  },
+  {
+    "name": "Gems of Anathema",
+    "kind": "Arcane Artifact",
+    "short_desc": "Seven gems of great arcane power, previously used to shield Arinium",
+    "long_desc": "Supposedly created by the Archmages of Arinium, the Gems were a set of artifacts used in the Arcane Towers to shield the nation from outsiders. Many have theorized about their true power, origins, and whereabouts since. At least one gem is known to have found its way to the Archdevils of Ash.",
+    "quote": "Where they found them, we may never know but, those wards could have stood for eternity."
   }
 ]

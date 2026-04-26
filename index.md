@@ -8,6 +8,7 @@ title: Cyclical Realms
 Complete reconstruction of the wiki
 
 - [Concepts](/concepts)
+- [Historical Events](/events)
 - [Locations](/locations)
 - [Religion](/religion)
 - [Creatures](/creatures)

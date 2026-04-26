@@ -169,5 +169,14 @@
     "classification": "Monstrosity",
     "origin": "The Daughter",
     "lifespan": "Normal for species"
+  },
+  {
+    "name": "Automaton",
+    "kind": "other",
+    "short_desc": "Fusing the arcane with the mechanical, automatons take the mortality & life out of being alive.",
+    "long_desc": "Appearing in various forms, Automaton are majorly metal & operating on clockwork techniques originating in Blasting Hollow.",
+    "classification": "Construct",
+    "origin": "Blasting Hollow",
+    "lifespan": "???"
   }
 ]

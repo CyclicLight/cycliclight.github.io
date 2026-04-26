@@ -1,0 +1,18 @@
+[
+  {
+    "name": "The War of the Divines",
+    "kind": "major",
+    "short_desc": "Upon a newborne world, gods battled, making time & beginnings.",
+    "long_desc": "In battles which cleaved celestials the gods did claim their places in the world. With blood and sacrifice, loss and gain, positions were claimed.",
+    "time": "Dawn of the World",
+    "position": "Material Plane"
+  },
+  {
+    "name": "Ashen Incursion",
+    "kind": "major",
+    "short_desc": "Facing destruction the Devils of the Ash Lands pierced the Planar Veil, merging the Material & Ash",
+    "long_desc": "After centuries of struggle, the Archdevils of the Ash Lands launchd an incursion into Arinium, taking control of the Seven Arcane Towers and summoning the Ash Lands to the Material Plane. This event directly led to the fall of Arinium & the disappearance of the Gems of Anathema.",
+    "time": "Ashen Era",
+    "position": "Arinium"
+  }
+]

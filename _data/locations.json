@@ -26,6 +26,14 @@
     "position": "North-West"
   },
   {
+    "name": "Wurmpass",
+    "short_desc": "The path between the mountains.",
+    "long_desc": "A dangerous road, leading to Wurmspiel and beyond. Tight passages, and unstable ground makes this road a deadly step for many a traveller.",
+    "kind": "major",
+    "classification": "Path",
+    "position": "West"
+  },
+  {
     "name": "The ??? Dominion",
     "short_desc": "In the Desert rises an oasis of marble and gardens, of euphoria for the privileged.",
     "long_desc": "The Dominion has ever been a force upon the sands, where great houses drive daggers held by \"indentured servants\" into each other. Though they may live long, they do not live cheap.",
@@ -41,6 +49,14 @@
     "vibe": "Steampunk Wild West",
     "classification": "City",
     "position": "South-East"
+  },
+  {
+    "name": "Arinium, the Ruined Lands",
+    "short_desc": "Separated by their great walls & shielded by arcane towers, Arinium fell in the Ash Incursion",
+    "long_desc": "The Dominion has ever been a force upon the sands, where great houses drive daggers held by \"indentured servants\" into each other. Though they may live long, they do not live cheap.",
+    "kind": "major",
+    "classification": "Fallen Nation",
+    "position": "East"
   },
   {
     "name": "The Lands of Ash",
@@ -60,18 +76,10 @@
     "position": "Center"
   },
   {
-    "name": "Wurmpass",
-    "short_desc": "The path between the mountains.",
-    "long_desc": "A dangerous road, leading to Wurmspiel and beyond. Tight passages, and unstable ground makes this road a deadly step for many a traveller.",
-    "kind": "major",
-    "classification": "Path",
-    "position": "West"
-  },
-  {
     "name": "Ordahl",
     "short_desc": "Once a gleaming home, now it's ruins are infested with the dead.",
     "long_desc": "Before the Bog Sickness, Ordahl was a major trade & mining hub. Much of it's riches still reamain within the walls, protected by the dead. Many have entered, few have left.",
-    "kind": "major",
+    "kind": "minor",
     "classification": "City Ruin",
     "position": "North"
   }
