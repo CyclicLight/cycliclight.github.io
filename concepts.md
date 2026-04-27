@@ -6,7 +6,7 @@ title: Concepts
 <div class="EntryGrid">
     {% assign concepts_by_kind = site.data.concepts | sort: "kind" %}
     {% for concept in concepts_by_kind %}
-    <details>
+    <details id="{{concept.name|slugify}}">
         <summary>
             <div class="title">
                 <h2>{{concept.name}}</h2>

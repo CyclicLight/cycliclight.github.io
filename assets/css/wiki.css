@@ -2,6 +2,10 @@
     interpolate-size: allow-keywords;
 }
 
+:target {
+    outline: 2px solid white;
+}
+
 html {
     width: 100%;
     background-image: url("/assets/wiki/background.jpg");

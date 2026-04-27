@@ -2,24 +2,24 @@
   {
     "name": "Elf",
     "kind": "regular",
-    "short_desc": "Created to watch over the surface.",
+    "short_desc": "Originating from the North-East, elves have long considered themselves the Wardens of the Lands.",
     "lineages": [
-      {
-        "name": "Arcane",
-        "long_desc": "Born of Aranou, attuned to & sensitive to the fluctuations of the Leylines."
-      },
       {
         "name": "Green",
         "long_desc": "Born of Arthera, attuned to nature. The Green Elves were made to watch over the bounds of the natural world."
       },
       {
+        "name": "Arini Exiles",
+        "long_desc": "Often found with arcane hues, the exiles of Arinium consider themselves the last true members of their people. Versed in magics & tradition, many seek a return to home in finding the Gems of Anathema."
+      },
+      {
         "name": "Orc",
-        "long_desc": ""
+        "long_desc": "Many of those who stayed in Arinium found themselves changed by the demonic powers the Incursion allowed through. Taking on a reddish hue & gaining an affinity for the flames. Orcs have since spread across the continent. Often pitied by & in conflict with their Arini bretheren."
       }
     ],
     "classification": "Fey",
     "origin": "Aranou & Arthera",
-    "lifespan": "600 years"
+    "lifespan": "500 years"
   },
   {
     "name": "Dwarf",

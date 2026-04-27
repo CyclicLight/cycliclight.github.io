@@ -9,7 +9,7 @@ title: Creatures
 <div class="EntryGrid">
     {% for creature in site.data.creatures %}
     {% if creature.kind == "regular" %}
-    <details>
+    <details id="{{creature.name|slugify}}">
         <summary>
             <div class="title">
                 <h2><a href="{{creature.name | downcase | slugify}}">{{creature.name}}</a></h2>
@@ -31,7 +31,7 @@ Creatures which aren't a distinct lineage themselves but mutations applicable to
 <div class="EntryGrid">
     {% for creature in site.data.creatures %}
     {% if creature.kind == "mutation" %}
-    <details>
+    <details id="{{creature.name|slugify}}">
         <summary>
             <div class="title">
                 <h2><a href="{{creature.name | downcase | slugify}}">{{creature.name}}</a></h2>

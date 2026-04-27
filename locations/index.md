@@ -9,7 +9,7 @@ title: Locations
 <div class="EntryGrid">
     {% for location in site.data.locations %}
     {% if location.kind == "major" %}
-    <details>
+    <details id="{{location.name|slugify}}">
         <summary>
             <div class="title">
                 <h2><a href="{{location.name | downcase | slugify}}">{{location.name}}</a></h2>
@@ -36,7 +36,7 @@ title: Locations
 <div class="EntryGrid">
     {% for location in site.data.locations %}
     {% if location.kind == "minor" %}
-    <details>
+    <details id="{{location.name|slugify}}">
         <summary>
             <div class="title">
                 <h2><a href="{{location.name | downcase | slugify}}">{{location.name}}</a></h2>

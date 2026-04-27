@@ -16,7 +16,7 @@ An account of the major factions affecting the state of the realms. If they are 
     {% assign factions_by_kind = site.data.factions | sort: "kind" %}
     {% for faction in factions_by_kind %}
     {% if faction.era == "Current" %}
-    <details>
+    <details id="{{faction.name|slugify}}">
         <summary>
             <div class="title">
                 <h2><a href="{{faction.name | downcase | slugify}}">{{faction.name}}</a></h2>
@@ -42,7 +42,7 @@ An account of the major factions affecting the state of the realms. If they are 
     {% assign factions_by_kind = site.data.factions | sort: "kind" %}
     {% for faction in factions_by_kind %}
     {% if faction.era == "Recent" %}
-    <details>
+    <details id="{{faction.name|slugify}}">
         <summary>
             <div class="title">
                 <h2><a href="{{faction.name | downcase | slugify}}">{{faction.name}}</a></h2>
@@ -68,7 +68,7 @@ An account of the major factions affecting the state of the realms. If they are 
     {% assign factions_by_kind = site.data.factions | sort: "kind" %}
     {% for faction in factions_by_kind %}
     {% if faction.era == "Ancient" %}
-    <details>
+    <details id="{{faction.name|slugify}}">
         <summary>
             <div class="title">
                 <h2><a href="{{faction.name | downcase | slugify}}">{{faction.name}}</a></h2>

@@ -6,7 +6,7 @@ title: Historical Events
 
 <div class="EntryGrid">
     {% for event in site.data.events %}
-    <details>
+    <details id="{{event.name|slugify}}">
         <summary>
             <div class="title">
                 {% if event.kind == "major" %}
