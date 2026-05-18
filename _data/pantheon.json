@@ -28,5 +28,11 @@
     "group": "celestials",
     "domains": "Moon, Twilight",
     "short_desc": "The Goddess of the Lesser Moon."
+  },
+  {
+    "name": "The Monarch",
+    "group": "null",
+    "domains": "???",
+    "short_desc": "The eye, the mind, & the creaking."
   }
 ]

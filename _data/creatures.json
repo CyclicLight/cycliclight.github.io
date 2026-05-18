@@ -10,7 +10,8 @@
       },
       {
         "name": "Arini Exiles",
-        "long_desc": "Often found with arcane hues, the exiles of Arinium consider themselves the last true members of their people. Versed in magics & tradition, many seek a return to home in finding the Gems of Anathema."
+        "long_desc": "Often found with arcane hues, the exiles of Arinium consider themselves the last true members of their people. Versed in magics & tradition, many seek a return to home in finding the Gems of Anathema.",
+        "phrases": ["May you see our reclamation.", "One of Arinium's Lineage."]
       },
       {
         "name": "Orc",
